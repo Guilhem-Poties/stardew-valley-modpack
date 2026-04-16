@@ -1,0 +1,445 @@
+{
+    "Format": "1.13.0",
+    "Changes": [
+
+{
+    "Action": "EditData",
+    "Target": "Data/Events/Farm",
+    "Entries": {
+      "50705070/q 201/x {{Random:MarnieTellEveryone, LewisTellEveryone}}": "null",
+      "6046001/e 6497428/x LeoThankYouNote":"null"
+      /*"50705071/e 1848481/x ElliottReadingLetter": "null"*/
+               }
+            },
+
+{   "Action": "EditData",
+    "Target": "Data/mail",
+    "Entries":{ 
+        "MarnieTellEveryone": "@, I'm embarrassed by what you saw last night, and how the conversation went... I respect our Mayor's dignity, although it does pain me to keep us secret. Please consider your choice carefully.^ - Marnie %item conversationTopic TellEveryone 3%% [#]Marnie's reaction",
+        "LewisTellEveryone": "@, I'm sorry for what you witnessed, and shocked at my reaction. You caught me unawares. Please, I implore you, reconsider your decision to tell everyone. I would hate for word to get out about my... our... indiscretion.^ - Mayor Lewis %item conversationTopic TellEveryone 3 %% [#]Lewis's reaction",
+        "ElliottReadingLetter": "Dear @,^Once again I must express my gratitude at your advice and support while I wrote my novel. I feel my reading was a success! Although it is a shame that so many attendees had other commitments.^ Elliott %item conversationTopic ElliotsBookReading 3%% [#] Elliott's Gratitude",
+        "LeoThankYouNote":"@, I just wrote to say 'thank you' for everything. You are a good friend. Linus is teaching me a lot, and it is nice to eat things that aren't fruit and nuts!^Hope you are having a good day,^ Leo %item conversationTopic LeoNewKid 3 %% [#] Leo's Thank you"
+               }
+        },
+
+{
+    "LogName": "Tell Abigail",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Abigail",
+    "Entries": {
+        "TellEveryone": "$q 150701/150702 null#Tell Abigail about Marnie and Lewis?#$r 150701 0 TellEveryone_AbigailYes#Yes#$r 150702 0 TellEveryone_AbigailNo#No",
+        "TellEveryone_AbigailYes": "Really? Lewis and Marnie! Hah, I've seen 'em sneaking around at night!#$b#I knew Marnie wasn't looking for a 'missing chicken'.",
+        "TellEveryone_AbigailNo": "Hey, what's up? You looked like you had something you wanted to say? No?",
+        "LeoNewKid":"That new kid, Leo? He seems interesting. Strange too, but I like that. Normal is boring, don't you think?",
+        "ElliottsBookReading": "Gosh, Elliott's book is really over-written isn't it? Give me something with monsters and lots of action anyday!"
+        }
+},
+
+{
+    "LogName": "Tell Alex",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Alex",
+    "Entries": {
+        "TellEveryone": "$q 150703/150704 null#Tell Alex about Marnie and Lewis?#$r 150703 0 TellEveryone_AlexYes#Yes#$r 150704 0 TellEveryone_AlexNo#No",
+        "TellEveryone_AlexYes": "Cool. Good for them, I guess.#$b#Hey, what do you think of my hair? I'm trying something new.",
+        "TellEveryone_AlexNo": "Hey, what do you think of my hair? I'm trying something new.",
+        "LeoNewKid":"Leo? Yeah, I've seen him around. He dresses kind of weird.",
+            }
+        },
+{
+    "LogName": "Tell Caroline",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Caroline",
+    "Entries": {
+        "TellEveryone": "$q 150705/150706 null#Tell Caroline about Marnie and Lewis?#$r 150705 0 TellEveryone_CarolineYes#Yes#$r 150704 0 TellEveryone_CarolineNo#No",
+        "TellEveryone_CarolineYes": "Perhaps some things are better kept private, don't you think?",
+        "TellEveryone_CarolineNo": "Enjoy your youth while you have it, @. Married life is wonderful, but I miss those carefree days of running free and wild.$2",
+        "ElliottsBookReading": "$p 958699#I enjoyed Elliott's reading, although perhaps a bit dark and gritty for my tastes.|Our Elliott has a lot of talent, I'm sure, but, his tale wasn't really to my taste."
+            }
+        },
+{
+    "LogName": "Tell Clint",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Clint",
+    "Entries": {
+        "TellEveryone": "$q 150707/150708 null#Tell Clint about Marnie and Lewis?#$r 150707 0 TellEveryone_ClintYes#Yes#$r 150708 0 TellEveryone_ClintNo#No",
+        "TellEveryone_ClintYes": "Huh, really? Well, I don't think it's any of my business. Or yours, come to that.",
+        "TellEveryone_ClintNo": "Been visting the mines recently, @? There's some decent stuff in there, if you look hard enough.",
+        "ElliottsBookReading": "Huh, that Elliott fellow really has a way with words doesn't he? No doubt he's earned himself a few fans.$5"
+            }
+        },
+
+{
+    "LogName": "Tell Demetrius",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Demetrius",
+    "Entries": {
+        "TellEveryone": "$q 150709/1507010 null#Tell Demetrius about Marnie and Lewis?#$r 150709 0 TellEveryone_DemetriusYes#Yes#$r 1507010 0 TellEveryone_DemetriusNo#No",
+        "TellEveryone_DemetriusYes": "Okay... from what you're telling me... I can draw no logical conclusion to his argument for secrecy.$2#$b#Is he worried we might think less of him? Robin speaks highly of Marnie.$3",
+        "TellEveryone_DemetriusNo": "Hmm... There's been another misunderstanding with my wife. Apparently pumpkin, with tomato and peppers, does not count as a fruit salad.$4#$B#But I don't understand - they're all fruit!$2",
+        "ElliottsBookReading": "I'm not a fan of fiction, but Robin pushed me to come to Elliot's book reading. I'm glad she let us sneak out early.",
+        "LeoNewKid":"A child raised by parrots? He's something of an enigma; his language is quite sophisticted, and he barely seems feral at all...#$b#Oh, I'm not studying him, @. Although now that you mention it... he is rather fascinating from a pscychological perspective."
+            }
+        },
+
+{
+    "LogName": "Tell Emily",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Emily",
+    "Entries": {
+        "TellEveryone": "$q 1507011/1507012 null#Tell Emily about Marnie and Lewis?#$r 150709 0 TellEveryone_EmilyYes#Yes#$r 1507010 0 TellEveryone_EmilyNo#No",
+        "TellEveryone_EmilyYes": "Really? Well I suppose I have seen them together, but their auras are not in harmony.$2",
+        "TellEveryone_EmilyNo": "Have you ever stood in the forest, closed your eyes and listened to the whisper of the trees?$1#$b#You should try it sometime!$3",
+        "ElliottsBookReading": "Wasn't Elliot's book fascinating? I hardly slept last night, I just had to finish it!$4",
+        "LeoNewKid":"That poor kid, living alone on the island. I wonder how he survived. Maybe his parents were watching over him?"
+            }
+        },
+
+{
+    "LogName": "Tell Elliot",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Elliot",
+    "Entries": {
+        "TellEveryone": "$q 1507012/1507013 null#Tell Elliot about Marnie and Lewis?#$r 1507012 0 TellEveryone_ElliotYes#Yes#$r 1507013 0 TellEveryone_ElliotNo#No",
+        "TellEveryone_ElliotYes": "Ah, 'tis the substance of poetry, two hearts: drawn to each other like the moth to the flame, where an indiscretion could get them both burned.",
+        "TellEveryone_ElliotNo": "Sometimes when my mind is clogged and confused, I shall take a walk along the beach.#$b#The sharp tang of salt... the breeze brushing my cheek... They prove a wonderful inspiration, @.$1",
+        "LeoNewKid":"Young Leo, a child orphaned by the sea's ire, adopted by the birds of the forest. A tale of tragedy and survival... perhaps oh... where is my pen, I must take some notes!$1",
+        "ElliottsBookReading": "Oh, hello @. Thank you again for all your support. I'm feeling so motivated, I've already begun on a sequel!"
+            }
+        },
+{
+    "LogName": "Tell Dwarf",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Dwarf",
+    "Entries": {
+        "TellEveryone": "$q 1507014/1507015 null#Tell Dwarf about Marnie and Lewis?#$r 1507014 0 TellEveryone_DwarfYes#Yes#$r 1507015 0 TellEveryone_DwarfNo#No",
+        "TellEveryone_DwarfYes": "I am afraid I do not understand. Why would this be of interest to me?",
+        "TellEveryone_DwarfNo": "Ah, you have come to visit the caves? Perhaps to buy some wares?"
+            }
+        },
+
+{
+    "LogName": "Tell Evelyn",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Evelyn",
+    "Entries": {
+        "TellEveryone": "$q 1507016/1507017 null#Tell Evelyn about Marnie and Lewis?#$r 1507016 0 TellEveryone_EvelynYes#Yes#$r 1507017 0 TellEveryone_EvelynNo#No",
+        "TellEveryone_EvelynYes": "Of course they are, dear. But do you not think that perhaps it is improper to gossip?",
+        "TellEveryone_EvelynNo": "Oh my dear, it looks like you have something on your mind. If you ever wish to talk, I am happy to lend an ear.$1",
+        "LeoNewKid":"Oh that poor child. I must take him some of my cookies. I trust you are making him feel at home here, @."
+            }
+        },
+{
+    "LogName": "Tell George",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/George",
+    "Entries": {
+        "TellEveryone": "$q 1507018/1507019 null#Tell George about Marnie and Lewis?#$r 1507016 0 TellEveryone_GeorgeYes#Yes#$r 1507017 0 TellEveryone_GeorgeNo#No",
+        "TellEveryone_GeorgeYes": "Ridiculous! You're just spreeding gossip now. Keep your nonsense to yourself.$4",
+        "TellEveryone_GeorgeNo": "Youth of today, too caught up in gossip about who is doing what with whom. I'm glad you're not like that, @."
+            }
+        },
+
+{
+    "LogName": "Tell Harvey",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Harvey",
+    "Entries": {
+        "TellEveryone": "$q 1507020/1507021 null#Tell Harvey about Marnie and Lewis?#$r 1507020 0 TellEveryone_HarveyYes#Yes#$r 1507021 0 TellEveryone_HarveyNo#No",
+        "TellEveryone_HarveyYes": "Oh? Are you here to gossip? Because I'm sworn to confidentiality, you know.$5",
+        "TellEveryone_HarveyNo": "I hope that you're eating well. I enjoy cooking, but it can be a bit monotonous to eat the same meal four nights in a row.",
+        "LeoNewKid":"Leo? Oh yes, he and Linus came in here for a check-up. I can't give details - patient confidentiality and all that - but he's surprisingly healthy, given his history."
+            }
+        },
+{
+    "LogName": "Tell Haley",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Haley",
+    "Entries": {
+        "TellEveryone": "$q 1507022/1507023 null#Tell Haley about Marnie and Lewis?#$r 1507022 0 TellEveryone_HaleyYes#Yes#$r 1507023 0 TellEveryone_HaleyNo#No",
+        "TellEveryone_HaleyYes": "Ew?! What does she see in him? He's so old! And that moustache!$8",
+        "TellEveryone_HaleyNo": "I received some new clothes by mail order. They look nothing like the picture!$5#$b#*sigh* I'd like to visit a real store again.$2",
+        "LeoNewKid":"That new kid? He's weird... Oh, I'm not saying that's a bad thing."
+            }
+        },
+{
+    "LogName": "Tell Gus",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Gus",
+    "Entries": {
+        "TellEveryone": "$q 124/125 null#Tell Gus about Marnie and Lewis?#$r 1507024 0 TellEveryone_GusYes#Yes#$r 1507025 0 TellEveryone_GusNo#No",
+        "TellEveryone_GusYes": "Hah, you're bringing gossip to the bartender?",
+        "TellEveryone_GusNo": "How's the farm coming along? Fresh organic ingredients are really the best.$1",
+        "LeoNewKid":"I invited Linus and Leo in last night to help me clean up the leftovers. The young lad has quite the appetite!$1",
+        "ElliottsBookReading": "I enjoyed Elliott's book reading. The young fellow has quite the talent. And I think I recognized some of the locals in his characters."
+            }
+        },
+
+{
+    "LogName": "Tell Leah",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Leah",
+    "Entries": {
+        "TellEveryone": "$q 1507026/1507027 null#Tell Leah about Marnie and Lewis?#$r 1507026 0 TellEveryone_LeahYes#Yes#$r 1507027 0 TellEveryone_LeahNo#No",
+        "TellEveryone_LeahYes": "There are very few secrets in a town this small, @. We offer each other the privacy we can.$1",
+        "TellEveryone_LeahNo": "There's something wonderful about stepping back into nature, @.#$b#I'm sure you must feel it too, this connection with the earth?$1",
+        "LeoNewKid":"Living at one with nature... It changes someone, don't you think?",
+        "ElliottsBookReading": "Oh, Elliott's book isn't really my thing, but you've got to support the local artistic talents, right?"
+            }
+        },
+{
+"LogName": "Tell Linus",
+"Action": "EditData",
+"Target": "Characters/Dialogue/Linus",
+"Entries": {
+    "TellEveryone": "$q 1507028/1507029 null#Tell Linus about Marnie and Lewis?#$r 1507028 0 TellEveryone_LinusYes#Yes#$r 1507029 0 TellEveryone_LinusNo#No",
+    "TellEveryone_LinusYes": "Ah, my young friend, your news is not new to me, for those who walk the outskirts see what others miss.#$b#But perhaps your desire to spread rumor into the wind would be better turned to other tasks?",
+    "TellEveryone_LinusNo": "This is the life I have chosen for myself, @. But that does not mean it is always comfortable.#$b#I may have faced scorn for my choices, but I don't regret them.#$b#It's better to be close to the earth than a ghost in the city, don't you agree?",
+    "LeoNewKid":"Leo and I are getting along very nicely, thank you for asking. He's a good kid. And a quick learner!"
+        }
+    },
+{
+    "LogName": "Tell Jodi",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Jodi",
+    "Entries": {
+        "TellEveryone": "$q 1507030/1507031 null#Tell Jodi about Marnie and Lewis?#$r 1507030 0 TellEveryone_JodiYes#Yes#$r 1507031 0 TellEveryone_JodiNo#No",
+        "TellEveryone_JodiYes": "Oh! I'd wondered if there was someone new in her life. She's had such a spring in her step.#$b#I'm happy for her... but why is he so secretive?",
+        "TellEveryone_JodiNo": "It's amazing how much laundry a couple of boys can generate. Vinny especially; he seems to attract dirt.",
+        "ElliottsBookReading": "I feel terrible that I had to leave early from Elliott's presentation, but he really does go on, doesn't he?",
+        "LeoNewKid":"Vinny has told us so much about Leo. It's hard to get things straight! That poor child, alone on that island... with only birds for company...$2"
+            }
+        },
+{
+    "LogName": "Tell Kent",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Kent",
+    "Entries": {
+        "TellEveryone": "$q 1507032/1507033 null#Tell Kent about Marnie and Lewis?#$r 1507032 0 TellEveryone_KentYes#Yes#$r 1507033 0 TellEveryone_KentNo#No",
+        "TellEveryone_KentYes": "Personal business should remain that way: personal.",
+        "TellEveryone_KentNo": "The night air helps calm me, but there's a part of me that will always be alert for the crackle of a footstep... or the sound of a mortar.#$b#War is a terrible thing, @. It can turn you into someone you'll no longer recognise."
+            }
+        },
+{
+    "LogName": "Tell Maru",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Maru",
+    "Entries": {
+        "TellEveryone": "$q 1507034/1507035 null#Tell Maru about Marnie and Lewis?#$r 1507034 0 TellEveryone_MaruYes#Yes#$r 1507035 0 TellEveryone_MaruNo#No",
+        "TellEveryone_MaruYes": "Hey as long as they're both into it, I'm not going to judge.",
+        "TellEveryone_MaruNo": "Sebastian's into computers, and I tinker with gadgets. You'd think we'd get along, maybe create something wonderful together...$2#$b#But he just hides in the basement and scowls.$2"
+            }
+        },
+{
+    "LogName": "Tell Pam",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Pam",
+    "Entries": {
+        "TellEveryone": "$q 1507035/1507036 null#Tell Pam about Marnie and Lewis?#$r 1507035 0 TellEveryone_PamYes#Yes#$r 1507036 0 TellEveryone_PamNo#No",
+        "TellEveryone_PamYes": "Oh, the old dog! Good on him.",
+        "TellEveryone_PamNo": "I hope I did right bringing Penny up here... She seems happy though. Smarter than I ever was. Good with the kids too. She'll go far."
+            }
+        },
+{
+    "LogName": "Tell Pierre",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Pierre",
+    "Entries": {
+        "TellEveryone": "$q 1507037/1507038 null#Tell Pierre about Marnie and Lewis?#$r 1507037 0 TellEveryone_PierreYes#Yes#$r 1507038 0 TellEveryone_PierreNo#No",
+        "TellEveryone_PierreYes": "Oh really? I'm guessing she's enjoying some extra 'business perks'.$3",
+        "TellEveryone_PierreNo": "You know, the problem with running a store is being stuck inside all day. I feel there's a world out there that I barely get to see."
+     
+            }
+        },
+
+{
+    "LogName": "Lewis reacts",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Lewis",
+    "Entries": {
+        "TellEveryone": "$p 1507037#Thanks to you, Pierre's been asking some very awkward questions. I'd appreciate if you held your tongue in future, @.$4|My ears feel uncommonly warm at the moment. Perhaps I've had a bit too much sun.$2",
+        "LeoNewKid":"Another new face in town. It's good to have some more children around. Pelican Town's future feels bright, don't you think?$1"
+            }
+        },
+
+{
+    "LogName": "Marnie reacts",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Marnie",
+    "Entries": {
+        "TellEveryone": "$p 150705#Caroline told me what you're doing, @. It's embarrasing, yes... but I'm glad it's out in the open now. Though that doesn't mean I'm not angry at you!$3|Is it my imagination? Or are some of the town folks looking at me a little oddly today?$2",
+        "LeoNewKid":"It's lovely to see Jas with a new friend! I should invite him over for dinner sometime."
+            }
+        },
+
+
+
+{
+    "LogName": "Tell Penny",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Penny",
+    "Entries": {
+        "TellEveryone": "$q 1507039/1507040 null#Tell Penny about Marnie and Lewis?#$r 1507039 0 TellEveryone_PennyYes#Yes#$r 1507040 0 TellEveryone_PennyNo#No",
+        "TellEveryone_PennyYes": "Oh, how sweet! I guess it's never too late to find love, is it?$1",
+        "TellEveryone_PennyNo": "I've been having to do a lot of reading recently. The questions that Jas and Vincent come up wth... well, let's just say they keep me guessing!",
+        "LeoNewKid":"I'll admit, I was nervous at first, when Lewis asked if Leo could join our classes.#$b#But he's doing really well, and he seems to love learning. I'm pleased.$1"
+            }
+        },
+{
+    "LogName": "Tell Robin",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Robin",
+    "Entries": {
+        "TellEveryone": "$q 1507041/1507042 null#Tell Robin about Marnie and Lewis?#$r 1507041 0 TellEveryone_RobinYes#Yes#$r 1507042 0 TellEveryone_RobinNo#No",
+        "TellEveryone_RobinYes": "The Mayor and Marnie? That explains those repairs I made to Marnie's window... it wasn't designed to open that wide!$1",
+        "TellEveryone_RobinNo": "I fell in love with carpentry at school; the wood spoke to me.#$b#Not literally of course! But I knew from touching it what it could become.",
+        "LeoNewKid":"The carpentry on that treehouse is pretty good... and they say it was made by birds?$1"
+            }
+        },
+{
+    "LogName": "Tell Sam",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Sam",
+    "Entries": {
+        "TellEveryone": "$q 1507043/1507044 null#Tell Sam about Marnie and Lewis?#$r 1507043 0 TellEveryone_SamYes#Yes#$r 1507044 0 TellEveryone_SamNo#No",
+        "TellEveryone_SamYes": "Hah! The old dude's still got it!$1#$b#Good on him, I guess. Although it kinda sucks he won't go public.$5",
+        "TellEveryone_SamNo": "Hey @. Why do the best song ideas come when I'm lying in bed?#$b#Had to get up and write the whole thing down. And today it looks like nonsense."
+            }
+        },
+{
+    "LogName": "Tell Sebastian",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Sebastian",
+    "Entries": {
+        "TellEveryone": "$q 1507045/1507046 null#Tell Sebastian about Marnie and Lewis?#$r 1507045 0 TellEveryone_SebastianYes#Yes#$r 1507046 0 TellEveryone_SebastianNo#No",
+        "TellEveryone_SebastianYes": "Who cares?",
+        "TellEveryone_SebastianNo": "It's amazing what you can see outside by the lake at night. Everything's more interesting after dark."
+            }
+        },
+
+{
+    "LogName": "Tell Shane",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Shane",
+    "Entries": {
+        "TellEveryone": "$q 1507047/1507048 null#Tell Shane about Marnie and Lewis?#$r 1507047 0 TellEveryone_ShaneYes#Yes#$r 1507048 0 TellEveryone_ShaneNo#No",
+        "TellEveryone_ShaneYes": "So the Mayor's still going on about maintaining his precious reputation?$5#$b#Does he know you're going around spreading the word?$2#$b#Don't worry, I'm not gonna tell on you. Yoba knows, Aunty deserves better.$4",
+        "TellEveryone_ShaneNo": "It's alright for you, @, You know where you're going with your life. Me? I'm like that plastic bag, everytime I feel like I'm getting somewhere, I get snarled in a tree.$2"
+            }
+        },
+
+{
+    "LogName": "Tell Willy",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Willy",
+    "Entries": {
+        "TellEveryone": "$q 1507049/1507050 null#Tell Willy about Marnie and Lewis?#$r 1507049 0 TellEveryone_WillyYes#Yes#$r 1507050 0 TellEveryone_WillyNo#No",
+        "TellEveryone_WillyYes": "Looks like he managed to reel her in. Yeh, I've see them in the saloon, @. Not much gets past this old sailor.",
+        "TellEveryone_WillyNo": "I caught my first fish when I was just a tiny lad. Fellow was so big he almost dragged me right into the drink.",
+        "LeoNewKid":"It's good to see the young lad making some new friends. Keep an eye on him for me, will ya, @? It's got to be a strange new world for him."
+            }
+        },
+
+{
+    "LogName": "Tell Wizard",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Wizard",
+    "Entries": {
+        "TellEveryone": "$q 1507051/1507052 null#Tell the wizard about Marnie and Lewis?#$r 1507051 0 TellEveryone_WizardYes#Yes#$r 1507052 0 TellEveryone_WizardNo#No",
+        "TellEveryone_WizardYes": "You consider me interested in the affairs of mortals? Pah!#$b#There is so much more to this world than fulfilling your base urges, @. It would serve you well to remember that.",
+        "TellEveryone_WizardNo": "There is so much more to this world that you know, @. It would serve you well to remember that."
+            }
+        },
+
+{
+    "LogName": "Tell Marlon",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/MarlonFay",
+    "Entries": {
+        "TellEveryone": "$q 1507053/1507054 null#Tell Marlon about Marnie and Lewis?#$r 1507053 0 TellEveryone_MarlonYes#Yes#$r 1507054 0 TellEveryone_MarlonNo#No",
+        "TellEveryone_MarlonYes": "Marnie has given her heart to our honorable Mayor? Oh...$s#$b#Perhaps instead of spreading salacious gossip, you should turn your hand to slaying monsters, @.$a",
+        "TellEveryone_MarlonNo": "You looked troubled today, @. Does something weigh heavy on your mind?"
+            }
+        },
+{
+    "LogName": "Tell Marlon",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Marlon",
+    "Entries": {
+        "TellEveryone": "$q 1507053/1507054 null#Tell Marlon about Marnie and Lewis?#$r 1507053 0 TellEveryone_MarlonYes#Yes#$r 1507054 0 TellEveryone_MarlonNo#No",
+        "TellEveryone_MarlonYes": "Marnie has given her heart to our honorable Mayor? Oh...#$b#Perhaps instead of spreading salacious gossip, you should turn your hand to slaying monsters, @.",
+        "TellEveryone_MarlonNo": "You looked troubled today, @. Does something weigh heavy on your mind?"
+            }
+        },
+{
+    "LogName": "Tell Gunther",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Gunther",
+    "Entries": {
+        "TellEveryone": "$q 1507061/1507062 null#Tell Gunther about Marnie and Lewis?#$r 1507061 0 TellEveryone_GuntherYes#Yes#$r 1507062 0 TellEveryone_GuntherNo#No",
+        "TellEveryone_GuntherYes": "Ah, so the Mayor has found himself a lady friend after all this time.#$b#I would've thought... well, nevermind. She's made her choice.",
+        "TellEveryone_GuntherNo": "Discovered any new treasures yet, @?#$b#I'd come out and help you, but I'm not as fit as I used to be."
+            }
+        },
+
+
+{
+    "LogName": "Tell Juliet",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Juliet",
+    "Entries": {
+        "TellEveryone": "$q 1507055/1507056 null#Tell Juliet about Marnie and Lewis?#$r 1507055 0 TellEveryone_JulietYes#Yes#$r 1507056 0 TellEveryone_JulietNo#No",
+        "TellEveryone_JulietYes": "Holy crow! I can totally see what he sees in her, but what does she see in him?#$b#And what's with the secrecy? If she was my girlfriend, I'd be singing it from the rooftops!",
+        "TellEveryone_JulietNo": "Hey @! Whatcha up to today? Wanna hang out? I'm kinda bored and would welcome the company."
+            }
+        },
+{
+    "LogName": "Tell Jasper",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Jasper",
+    "Entries": {
+        "TellEveryone": "$q 1507057/1507058 null#Tell Jasper about Marnie and Lewis?#$r 1507057 0 TellEveryone_JasperYes#Yes#$r 1507058 0 TellEveryone_JasperNo#No",
+        "TellEveryone_JasperYes": "Oh... well yes, I'm surprised. There's someone who shall be most upset to hear that.$2#$b#No, I will not say whom. It has been proven you cannot hold your tongue!$5",
+        "TellEveryone_JasperNo": "Oh greetings @. You caught me unawares."
+            }
+        },
+
+{
+    "LogName": "Tell Gale",
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Jessie",
+    "Entries": {
+        "TellEveryone": "$q 1507059/1507060 null#Tell Gale about Marnie and Lewis?#$r 1507059 0 TellEveryone_GaleYes#Yes#$r 1507060 0 TellEveryone_GaleNo#No",
+        "TellEveryone_GaleYes": "I know, my dear. But perhaps your discretion might be appreciated.",
+        "TellEveryone_GaleNo": "Hello my dear! It is a glorious day, isn't it?",
+        "LeoNewKid":"It's so lovely to see Linus taking Leo under his wing! They will learn a lot from one another."
+            }
+        },
+        {
+            "LogName": "Tell Vincent",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Vincent",
+            "Entries": {
+                "LeoNewKid":"Leo taught me how to say rude words in parrot!#$b#Pukkaw! Pukkaw!$1#$b#What does it mean? I can't tell you, you're a grown up!$3"
+            }
+        },
+        {
+            "LogName": "Tell Jas",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Jas",
+            "Entries": {
+                "LeoNewKid":"Yes, I really like Leo, but he seems sad. I think it's because he misses his family - parents and parrots.$2"
+            }
+        },
+        {
+            "LogName": "Tell Eloise",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Eloise",
+            "Entries": {
+                "LeoNewKid":"Leo's amazing! Did you know he can talk to the birds? It's so cool!$1#$b#And he said he'd teach me too!#$b#I hope we get to be really good friends.$3"
+            }
+        },
+
+
+    ]
+    }

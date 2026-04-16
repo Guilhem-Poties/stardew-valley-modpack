@@ -1,0 +1,17 @@
+{
+  "Name": "Broken Hearts",
+  "Author": "TipsSlight",
+  "Description": "A mod that adds multiple divorce events for nearly every marriage candidate",
+  "Version": "1.5.0",
+  "UniqueID": "TipsSlight.BrokenHearts",
+  "UpdateKeys": ["Nexus:12249"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": true
+    }
+  ]
+}

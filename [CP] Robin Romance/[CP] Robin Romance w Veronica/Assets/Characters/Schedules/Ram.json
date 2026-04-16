@@ -1,0 +1,17 @@
+{
+        "Mon": "800 Forest 40 13 0/1200 HaleyHouse 15 16 2/1530 Beach 39 31 1/2100 LeahHouse 13 5 2",
+        "Tue": "630 Mountain 23 21 2/1100 Hospital 2 17 0/1520 Saloon 4 19 2/2000 LeahHouse 13 5 2",
+        "Wed": "900 AnimalShop 14 16 0/1100 ScienceHouse 6 20 0/1500 Forest 92 20 1/2000 LeahHouse 13 5 2",
+        "Thu": "1000 Blacksmith 4 15 0/1400 SeedShop 15 20 0/1600 Town 49 24 0/2000 LeahHouse 13 5 2",
+        "Fri": "800 Mountain 23 21 2/1300 SeedShop 27 13 2/1700 Forest 41 10 2/2100 LeahHouse 13 5 2",
+        "Sat": "1130 HaleyHouse 4 15 2/1500 Town 43 90 3/1700 Saloon 4 19 2/2300 LeahHouse 13 5 2",
+        "Sun": "700 Mountain 23 21 2/1130 SebastianRoom 8 6 0/1500 Town 45 78 2/1800 LeahHouse 13 5 2",
+        "spring_1": "800 SeedShop 15 20 0/1000 Town 45 78 2/1500 Forest 104 36 2/1900 LeahHouse 13 5 2",
+        "spring_14": "700 Mountain 23 21 2/1130 SebastianRoom 8 6 0/1500 Town 45 78 2/1800 LeahHouse 13 5 2/2200 Town 51 92 2",
+        "marriage_Mon": "800 Forest 92 22 1/1000 ScienceHouse 4 4 2/1300 ScienceHouse 6 20 0/1400 SebastianRoom 8 6 0/1800 BusStop -1 23 3",
+        "marriage_Fri": "800 Forest 92 22 1/1000 ScienceHouse 6 20 0/1500 Saloon 4 19 2/2100 BusStop -1 23 3",
+		"DesertFestival_2": "800 Desert 29 68 0 \"Strings\\1_6_Strings:DesertFestival_Ram\"/2410 bed",
+		"marriage_DesertFestival_2": "800 Desert 32 55 2 \"Strings\\1_6_Strings:DesertFestival_Ram_marriage\"/2410 bed",
+		"GreenRain": "610 LeahHouse 13 4 2/630 LeahHouse 13 5 2",
+		
+}

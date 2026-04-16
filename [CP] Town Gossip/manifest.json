@@ -1,0 +1,12 @@
+{
+    "Name": "Town Gossip",
+    "Author": "Lemurkat",
+    "Version": "1.0.1",
+    "Description": "The villagers talk about current affairs",
+    "UniqueID": "LemurKat.TownGossip.CP",
+    "MinimumApiVersion": "1.0",
+       "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"	
+    }
+ 
+ }

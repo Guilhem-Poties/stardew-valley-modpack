@@ -1,0 +1,15 @@
+{
+  "Name": "Bachelorettes and Divorcés",
+  "Author": "PepGames",
+  "Version": "0.0.1",
+  "Description": "Makes all women who would otherwise not be datable, single and romanceable.",
+  "UniqueID": "PepGames.Bachelorettes",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": [ "" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+	  "MinimumVersion": "2.5.0"
+  },
+  "Dependencies": [
+  ]
+}

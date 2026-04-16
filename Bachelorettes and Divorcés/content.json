@@ -1,0 +1,47 @@
+ {
+	"Format": "2.5.0",
+	"ConfigSchema": {
+		"JodiSingle": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"AllowBlank": "false",
+			"Section": "gameplay"
+		},
+		"CarolineSingle": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"AllowBlank": "false",
+			"Section": "gameplay"
+		},
+		"RobinSingle": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"AllowBlank": "false",
+			"Section": "gameplay"
+		},
+		"EvelynSingle": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"AllowBlank": "false",
+			"Section": "gameplay"
+		},
+		"MarnieSingle": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"AllowBlank": "false",
+			"Section": "gameplay"
+		},
+		"PamSingle": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"AllowBlank": "false",
+			"Section": "gameplay"
+		}
+	},
+	"Changes": [
+		{
+			"Action": "Include",
+			"FromFile": "data/disposition.json"
+		},
+	],
+}

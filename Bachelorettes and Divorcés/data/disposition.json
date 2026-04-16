@@ -1,0 +1,95 @@
+{
+	"Changes":[
+		// MAKE SINGLE
+		{
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"When": 
+			{
+				"Query: '{{JodiSingle}}' = 'true'": "true",
+			},
+			"Fields": 
+			{
+				"Jodi": 
+				{
+					"CanBeRomanced": "true",
+				}
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"When": 
+			{
+				"Query: '{{CarolineSingle}}' = 'true'": "true",
+			},
+			"Fields": 
+			{
+				"Caroline": 
+				{
+					"CanBeRomanced": "true",
+				}
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"When": 
+			{
+				"Query: '{{RobinSingle}}' = 'true'": "true",
+			},
+			"Fields": 
+			{
+				"Robin": 
+				{
+					"CanBeRomanced": "true",
+				}
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"When": 
+			{
+				"Query: '{{EvelynSingle}}' = 'true'": "true",
+			},
+			"Fields": 
+			{
+				"Evelyn": 
+				{
+					"CanBeRomanced": "true",
+				}
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"When": 
+			{
+				"Query: '{{MarnieSingle}}' = 'true'": "true",
+			},
+			"Fields": 
+			{
+				"Marnie": 
+				{
+					"CanBeRomanced": "true",
+				}
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"When": 
+			{
+				"Query: '{{PamSingle}}' = 'true'": "true",
+			},
+			"Fields": 
+			{
+				"Pam": 
+				{
+					"CanBeRomanced": "true",
+				}
+			},
+		},
+	],
+}
