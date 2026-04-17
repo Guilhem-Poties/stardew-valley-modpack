@@ -1,0 +1,9 @@
+{
+    "Name": "Lookup Anything - SVE Extension",
+    "Author": "Claude (for Guilhem)",
+    "Version": "1.0.0",
+    "Description": "Override files that extend Pathoschild's Lookup Anything with Stardew Valley Expanded content (extra villager descriptions, SVE shops, SVE location labels, SVE-area fishing notes). NOT a SMAPI mod — these files are meant to be copied over the Lookup Anything mod's own files. See README.md.",
+    "UniqueID": "Guilhem.LookupAnythingSVEExtension",
+    "MinimumApiVersion": "4.1.7",
+    "UpdateKeys": []
+}

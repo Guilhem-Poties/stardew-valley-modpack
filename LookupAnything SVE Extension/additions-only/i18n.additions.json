@@ -1,0 +1,79 @@
+/*
+    SVE-only additions to Lookup Anything's i18n/default.json (English).
+
+    This file is NOT loaded by Lookup Anything. It's a reference copy of the SVE
+    additions that the override pack splices into default.json. To re-apply the
+    patches to a newer Lookup Anything release, paste the key/value pairs below
+    into Mods/LookupAnything/i18n/default.json before the closing `}`.
+*/
+{
+    // SVE shop display names (referenced from data.json -> Shops)
+    "shop.sve.sophia": "Sophia (Blue Moon Vineyard)",
+    "shop.sve.martin": "Martin (Stardrop Saloon bakery)",
+    "shop.sve.fairhaven": "Isaac & Camilla (Fairhaven Farm)",
+    "shop.sve.alesia": "Alesia (First Slash Adventurer's Guild)",
+    "shop.sve.isaac": "Isaac (First Slash Adventurer's Guild)",
+    "shop.sve.gunther": "Gunther (expedition shop)",
+    "shop.sve.joja-emporium": "Joja Emporium",
+    "shop.sve.go-goat-ranch": "Go-Goat Ranch",
+
+    // SVE character descriptions (referenced from data.json -> Characters)
+    "data.npc.sve.apples.description": "Lance's pet dragon. A blue-scaled hatchling that follows him around Castle Village.",
+    "data.npc.sve.peaches.description": "Lance's pet dragon. A pink-scaled hatchling, sibling to Apples.",
+    "data.npc.sve.dusty.description": "A scruffy dog who lives at the railroad. Susan feeds him.",
+    "data.npc.sve.charlie.description": "A chicken at Fairhaven Farm. Tends to wander and cluck at visitors.",
+    "data.npc.sve.highlands-dwarf.description": "A reclusive dwarf trader deep in the Highlands. Sells rare mining goods to those who reach him.",
+    "data.npc.sve.henchman.description": "The Swamp Witch's loyal assistant. Guards her domain in the Witch's Swamp.",
+    "data.npc.sve.magnus.description": "A dark wizard and brother to Rasmodius. Lives in a tower hidden in the Enchanted Grove.",
+    "data.npc.sve.jadu.description": "A shadow person and friend of Krobus. Quiet, secretive, and not easy to find.",
+
+    // SVE location labels (shown when a lookup references an SVE map ID)
+    "location.Custom_AdventurerSummit": "Adventurer Summit",
+    "location.Custom_Atlantis": "Atlantis",
+    "location.Custom_AuroraVineyard": "Aurora Vineyard",
+    "location.Custom_AuroraVineyardRefurbished": "Aurora Vineyard",
+    "location.Custom_BlueMoonVineyard": "Blue Moon Vineyard",
+    "location.Custom_CastleVillageOutpost": "Castle Village Outpost",
+    "location.Custom_CrimsonBadlands": "Crimson Badlands",
+    "location.Custom_DesertRailway": "Desert Railway",
+    "location.Custom_DiamondCavern": "Diamond Cavern",
+    "location.Custom_DinoIsland_North": "Dino Island (north)",
+    "location.Custom_DinoIsland_South": "Dino Island (south)",
+    "location.Custom_EnchantedGrove": "Enchanted Grove",
+    "location.Custom_FableReef": "Fable Reef",
+    "location.Custom_FirstSlashGuestRoom": "First Slash Guild (guest room)",
+    "location.Custom_FirstSlashGuild": "First Slash Adventurer's Guild",
+    "location.Custom_FirstSlashHallway": "First Slash Guild (hallway)",
+    "location.Custom_ForestWest": "Cindersap Forest (west)",
+    "location.Custom_Garden": "Community Garden",
+    "location.Custom_GoGoatRanch": "Go-Goat Ranch",
+    "location.Custom_GoGoatRanch_Interior": "Go-Goat Ranch",
+    "location.Custom_GrampletonCoast": "Grampleton Coast",
+    "location.Custom_GrampletonSuburbs": "Grampleton Suburbs",
+    "location.Custom_GrampletonSuburbsOutskirts": "Grampleton Suburbs (outskirts)",
+    "location.Custom_GrampletonSuburbsTrainStation": "Grampleton Train Station",
+    "location.Custom_GrampletonTrainStation": "Grampleton Train Station",
+    "location.Custom_GrandpasShedGreenhouse": "Grandpa's Shed (greenhouse)",
+    "location.Custom_GrandpasShedOutside": "Grandpa's Shed (outside)",
+    "location.Custom_GrenvilleFalls": "Grenville Falls",
+    "location.Custom_HenchmanBackyard": "Henchman's Backyard",
+    "location.Custom_HenchmanHouse": "Henchman's House",
+    "location.Custom_Highlands": "Highlands",
+    "location.Custom_HighlandsCavern": "Highlands Cavern",
+    "location.Custom_HighlandsOutpost": "Highlands Outpost",
+    "location.Custom_IridiumQuarry": "Iridium Quarry",
+    "location.Custom_JojaEmporium": "Joja Emporium",
+    "location.Custom_JojaPetStore": "Joja Pet Store",
+    "location.Custom_JunimoWoods": "Junimo Woods",
+    "location.Custom_MorrisProperty": "Morris's Property",
+    "location.Custom_SakuraVineyard": "Sakura Vineyard",
+    "location.Custom_SakuraVineyardCellar": "Sakura Vineyard (cellar)",
+    "location.Custom_SakuraVineyardCottage": "Sakura Vineyard (cottage)",
+    "location.Custom_SakuraVineyardDiningRoom": "Sakura Vineyard (dining)",
+    "location.Custom_ShearwaterBridge": "Shearwater Bridge",
+    "location.Custom_SpriteSpring2": "Sprite Spring",
+    "location.Custom_SpriteSpringCave": "Sprite Spring Cave",
+    "location.Custom_SVESummit": "Summit (SVE)",
+    "location.Custom_TreasureCave": "Treasure Cave",
+    "location.Custom_ZuzuCityStreet": "Zuzu City Street"
+}
