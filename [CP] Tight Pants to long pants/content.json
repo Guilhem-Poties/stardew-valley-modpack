@@ -1,0 +1,24 @@
+{
+	"Format": "1.20",
+
+
+	"Changes": [
+       
+	    { "Action": "EditImage",
+         "Target": "Characters/Farmer/Pants",
+         "FromFile": "assets/Polterpants1.png",
+         "ToArea": { "X": 1730, "Y": 0, "Width": 190, "Height": 574 },
+         },
+		 { "Action": "EditImage",
+         "Target": "Characters/Farmer/Pants",
+         "FromFile": "assets/Polterpants2.png",
+         "ToArea": { "X": 1778, "Y": 591, "Width": 45, "Height": 79 },
+         },
+	     { "Action": "EditImage",
+         "Target": "Characters/Farmer/Pants",
+         "FromFile": "assets/Polterpants3.png",
+         "ToArea": { "X": 1874, "Y": 591, "Width": 46, "Height": 79 },
+         },		 
+		]
+}
+

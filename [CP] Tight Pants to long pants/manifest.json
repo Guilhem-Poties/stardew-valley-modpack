@@ -1,0 +1,10 @@
+{
+    "Name": "tight pants to long pants",
+    "Author": "Poltergeister",
+    "Version": "2.3.0",
+    "MinimumApiVersion": "3.0.0",
+    "Description": "Switches tight pants with longer pants.",
+    "UniqueID": "Poltergeister.Pants",
+	"UpdateKeys": [],
+	"ContentPackFor": {"UniqueID": "Pathoschild.ContentPatcher"}
+}
