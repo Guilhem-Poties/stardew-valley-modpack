@@ -1,0 +1,66 @@
+{
+	"Rainy_Day_0": "The pitter patter of the rain drops on our roof is a lovely sound. Even though it makes my job a little harder, I still love the rain.$1",  	 
+	"Rainy_Day_1": "I want to invite Sebastian and Maru over one of these days. It'd be nice for the four of us to have dinner together.",
+	"Rainy_Day_2": "I've been whittling all morning since it's raining here, for you. [224 236 256 426 636 709 725]",
+	"Rainy_Day_3": "I'm glad you and Sebastian are getting along. I wasn't sure if he'd be okay with having yet another stepparent.",
+	"Rainy_Day_4": "When they were young, Maru loved a rainy day.#$b#It meant she was able to avoid the outdoors and stay inside to tinker with her gadgets.#$b#But Sebastian was just like me. We liked to sit and watch out the window as the rain drops slowly ran down it.#$b#I'm glad I have someone to watch the raindrops with again.$1",
+	"patio_Ram": "So much space! I have so many ideas of what I could build here, but I like it sort of empty.#$b#It's a nice place to do some simple woodworking.#$b#Maybe I'll build a bench here so we can sit and look out over the farm.",
+	"Rainy_Day_Ram": "An early morning walk in the rain is nice.#$b#You should come with me one day. It's good for the soul.",
+	"Rainy_Night_1": "I noticed that the bed was making a creaking noise so I fixed it.#$b#$7If we do that, it might break the bed again!",
+	"Rainy_Night_2": "Wow, you're drenched!$2#$b#Go sit in front of the fire and watch some TV. I'll whip up something to eat real quick.#$b#I'm not as good of a cook as you, but it'll be edible.$1",
+	"Rainy_Night_3": "My day was pleasant. How was yours, @?",
+	"Rainy_Night_4": "Do I like hardwood? Well yeah.#$b#Knock it off!$7",
+	"Rainy_Night_5": "'I love a rainy night, I love...'#$b#Oh, hey, when did you get home, @? You didn't hear me singing, did you?#$b#Thanks, but I don't think I have a very beautiful voice.#$b#I'm happy you like it, though --  but let me know next time you enter so silently.$9",
+	"Rainy_Night_Ram": "I took the day off on account of rain. I stayed inside and played games all day.#$b#Which games? Oh just a small CYOA where you can conquer the world.#$b#I ended up curing all the children turned into doves while managing to negotiate a lasting peace between all of the countries.#$b#It was a very rare achievement. Took me a while to reach it.#$b#Sorry, I guess I rambled on a bit, huh?$2",
+	"Indoor_Day_0": "Ah, the smell of the pines in the morning is invigorating. Have fun today!",
+	"Indoor_Day_1": "In case you decide you want to go adventuring again, take this and be careful. [93 222 236 287 403 441 636 688 693]",
+	"Indoor_Day_2": "How'd you sleep, @?#$b#Hehe, you were talking in your sleep last night. Sounded like a pretty good dream too. I wish I could have joined you.$1",
+	"Indoor_Day_3": "I'm going to call Sebastian and Maru today. It's good to check in with them every once in a while.",
+	"Indoor_Day_4": "I don't know if I'll ever tire of the smell of smoke. The burning of wood has such a pleasant aroma.#$b#Funnily enough, you actually smell better than the smoke to me now. Go figure, right?",
+	"Indoor_Day_Ram": "Your -- our -- farm is so nice. And this house is so cozy...#$b#You know what would be perfect? A swinging bench to put on the porch. Then we could sit together and watch the sunset...#$b#Yes, and hold hands, just like we're doing now. Fine, maybe a little more, but I'm trying to focus on a serious idea here!$9",
+	"Indoor_Night_0": "So what was your day like, @?",
+	"Indoor_Night_1": "I'm glad you're home, @. Emily designed a little something for me and dropped it off today.#$b#Once you're settled in for the night, I'd love to show you what she gave me!$9",
+	"Indoor_Night_2": "I've never actually told anyone this, but I'm really afraid of the dark.#$b#However, being in your arms makes me feel safer than a marshmallow in a room made of jelly. Oh, that sounds pretty good actually.",
+	"Indoor_Night_3": "It's a good night to turn off the TV and read. Would you like to join me?",
+	"Indoor_Night_4": "I've been working on my blueprint for our dream house all day.#$b#It'll be a long time, but one day we'll be living in it. How was your day?",
+	"Indoor_Night_Ram": "Yawn... I'm ready for bed. Do you think you could hold me in your arms until I fall asleep?",
+	"Outdoor_0": "Being outside agrees with me. Time to get to work on some projects I've been procrastinating on.",
+	"Outdoor_1": "Have a good day, honey! Oh, a bee house! That'd be an excellent project...",
+	"Outdoor_2": "What do you think of planting a few more trees on the farm, @? I love being surrounded by the trees.#$b#Maybe I get a little carried away when it comes to trees though. It's not fun to actually live in a forest.$2",
+	"Outdoor_3": "Ah, it's a great day for woodworking! Good luck with your endeavors for the day, honey.",
+	"Outdoor_4": "We should go camping one of these days.#$b#I know it seems redundant, living in Stardew Valley, but I think it'd be nice.#$b#Just get away, the two of us, and spend some quality time in the great outdoors.",
+	"Outdoor_Ram": "It's a good day to work outside. Don't you agree?",
+	"OneKid_0": "Don't worry, I've already raised two kids before. %kid1 is going to have a great childhood.#$b#You're a pretty great parent too, %kid1 is very lucky to have you.",
+	"OneKid_1": "I'm going to make a toy car for %kid1. Would you like to paint it?",
+	"OneKid_3": "I still can't believe it. Three kids, three spouses.#$b#It seems three is my lucky number! I'm so happy to be a mom again. And to be your wife.$1",
+	"TwoKids_1": "Sebastian and Maru are coming by to say hi to their little brother and sister.#$b#I think they are really getting along.#$b#I never thought I'd have this large of a family, but I couldn't be happier!",
+	"TwoKids_2": "%kid2 takes after you. I keep finding drawings of %favorite.",
+	"TwoKids_3": "We should take the kids on a picnic one of these days.#$b#I'll call Maru and Sebastian to join us. It can be a family outing!#$b#You'll bring a rhubarb pie? Well, I guess that'd be good.#$b#Maru will love it.#$b#*mumbles* Well, I do like rhubarb, too.$2#$b#Why'd you kiss me on the cheek? I was too adorable? You sure know how to flatter a woman, don't you?$7",
+	"Good_1": "I love you. I just wanted you to know that.",
+	"Good_2": "There were days that I could see no way out of the darkness.#$b#I'd visit the graveyard sometimes and think about what it'd be like to be buried there.#$b#Now that I have all of this with you, I can't help but feel foolish for having those thoughts. My resentment over Demetrius seems like another lifetime ago.$2#$b#I still have some problems to work through, but I'm glad that I can do so with you by my side. Thank you for understanding how I feel.$0",
+	"Good_3": "Your grandpa used to tell me, if I was single, I'd make a great wife for you, @.#$b#I always laughed, but maybe he knew a little more than he let on. Yoba only knows, I guess.",
+	"Good_4": "You know what I was thinking? We should try to smoke some fish.#$b#Smoked fish is delicious. Between my love of smoke and your love of fishing, surely we'll come up with something great!",
+	"Good_5": "I'm not, perhaps, the most feminine of girls. But... I want you to know I look at the pendant that you gave me everyday.$6#$b#Every time I do, I'm reminded of how much you love me, and how much I love you.$6#$b#Thank you for making me so happy. I hope that I do the same for you.$6",
+	"Good_6": "Emily has been teaching me how to meditate for a while, but I think I stumbled on something new.#$b#I was dreaming last night that I was making a wood sculpture. Suddenly I found myself in \"control\" of the dream.#$b#When I looked closer at the sculpture, I noticed it was of you.#$b#You showed up behind me and took my hands, then pulled me in for a kiss. It was wonder-$9#$b#Hey, I was still talking! But I'll forgive you.$7#$b#That was nice. Your kiss will linger on my lips all day.$7",
+	"Neutral_0": "After having so many kids, are you sure you're still attracted to me?",
+	"Neutral_8": "Ah! I've been wracking my brain trying to come up with a solution for this blueprint I'm working on, but nothing works.$3",
+	"funLeave_Ram": "I'm going to do some work at Marnie's today, then I'll be popping over to see Sebastian and Maru. I'll see you later tonight when I get home, alright?",
+	"funReturn_Ram": "It was fun to meet up with Maru and Sebastian. Their lives seem to be going well. I'll make dinner for us tonight, alright honey?",
+	"spring_1": "Happy new year! Now that Winter's over, I can get back to working on some larger projects around the farm.",
+	"spring_Ram": "Spring always brings new ideas and opportunities. I wonder what will happen this year.",
+	"fall_Ram": "I love the holidays and the colder weather. And you'll be done with farming soon, so we'll be able to spend more time together!",
+	"summer_Ram": "Summer is the best time of year for work. It might be hot out but at least I don't have to deal with a lot of rain.",
+	"winter_Ram": "Brr... I'm freezing. Would you hold me close and warm me up?",
+	"spouseRoom_Ram": "I'd love to get a lathe, but I can't put it in here...#$b#Hmm, maybe I should build a work shed so I don't have to always go up to the carpentry shop."
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Spouse Room Ram",
+  "Author": "Soapierbean",
+  "Version": "1.5.1",
+  "Description": "Spouse Room for Ram",
+  "UniqueID": "Fonz.SpouseRooms.Ram",
+  "UpdateKeys": [ "Nexus:3239" ],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.4.0"
+  }
+}
+
+// Made with the Spouse Room Template found on the TMXLoader NexusMod page
+// Many thanks to mouseferatu on Discord for fixing the problems that this spouse room had.

@@ -1,0 +1,125 @@
+{
+        "Introduction": "Have you met everyone in town yet? That sounds exhausting.#$b#I'm Robin's sister Veronica by the way, I'm managing the shop at the moment.",
+        "Resort": "Wow, look at these structures!$h#$b#I can tell they were made by a master builder. I'm really impressed!",
+  		"AcceptGift_(O)StardropTea": "I was just thinking of taking a break to have some tea. What a special treat. Thank you, @.",
+		"AcceptGift_(O)Book_QueenOfSauce": "This is exactly what I needed, @. Hopefully I can learn to make my meals a little more palatable. Thank you so much.$h",
+		"AcceptGift_(O)SkillBook_2": "'Woodcutter's Weekly'... This will help a lot. They've got all the latest techniques in here!#$b#Thank you, @. It's nice to have someone in town who isn't my sister as a fellow woodcutter.$h",
+		"AcceptGift_(O)308": "Don't tell anyone, but this is my secret ingredient for my cooking.$2#$b#Just kidding. Thanks, @.$0#$b#This slimy texture can't be beat by regular mayo.$h",//Void Mayo
+		//I don't think this one is really needed. "AcceptGift_(O)338": "Refined Quartz",//Refined Quartz
+		"AcceptGift_(O)424": "Thanks, @. Maybe I'll make a grilled cheese with this.$h",//Cheese
+		"AcceptGift_(O)636": "Thanks, @. #$c 0.7#I'll be sure to enjoy it!#Did you know that Robin and I used to fight over peaches when we were kids? I let her win, at least most of the time, of course.",//Peach
+		//I don't think this one is really needed. "AcceptGift_(O)725": "Oak Resin",//Oak Resin
+		"AcceptGift_(O)66": "Thanks.#$c 0.9#See you later.#Order 66 received. Sorry, I can be a dork sometimes. But hey, if this was a lightsaber crystal, purple would be the best.",//Amethyst, item number 66
+		"GreenRain": "This rain is crazy. I feel like we're in a scifi movie, exploring a strange new planet.#$b#*sigh* I want to go help Demetrius collect samples, but Robin would kill me if I didn't stay with Sebastian and Maru.$s%noturn",
+		"GreenRainFinished": "I can't wait to see what information his samples will yield.#$b#Hopefully it'll happen again so we can obtain even more samples!$h",
+		"GreenRain_2": "It's a good day to chop some wood. Good luck out there!",
+		"divorced_Sebastian": "Sebastian moved back into the basement... I'm still having a hard time believing it.$s",
+		"divorced_Maru": "Maru was crying through the night... Perhaps she'll be better off in the end, though.$s",
+		"divorced_Ram": "I don't even know what to say, @. You broke my sister's heart.$a#$b#If this isn't about business, you should go.$s",
+		"married_Sebastian": "Ugh, I'm just as much of a crybaby as my sister.$s#$b#Just ignore these tears of joy. I know Sebastian will be very happy on %farm Farm!$h",
+		"married_Maru": "We'll all miss having Maru around the house, but I'm sure we'll still see her often!",
+		"married_Ram": "I bet my sister said something like the third time's the charm, right?$u#$b#Seeing how happy she was to be standing there with you at the altar, I think she might be right.$h",//added 3_24
+		"houseUpgrade_1": "It was fun working on your house. That might be some of the finest construction I've ever done!$h#$e#I hope you're enjoying the new kitchen.",
+		"houseUpgrade_2": "What are you going to do with all that new space in your house?#$e#Or perhaps I should call it... your 'mansion'?$h",
+		"houseUpgrade_3": "So, are you getting into the aged wine business? I've heard it's very lucrative... if you have the patience.",
+		"structureBuilt_Coop": "That's probably the sturdiest coop I've ever built. Hope you get a lot of use out of it!",
+		"structureBuilt_Shed": "So, what are your plans with the new shed? The possibilities are endless!",
+		"structureBuilt_Coop_memory_oneweek": "How's that new coop treatin' ya? I'll be excited to meet your new animals!",
+		"structureBuilt_Barn_memory_oneweek": "Are you satisfied with the new barn? I'm sure you'll raise some very happy livestock in there!",
+		"structureBuilt_Slime Hutch": "*phew*... Building that slime hutch was a lot of work... I'll need a day at the spa to recuperate!$h",
+		"structureBuilt_Stable_memory_oneweek": "So, have you been riding your new horse around town?#$b#I imagine you're pretty sore, but you'll get used to it soon.$h",
+		"structureBuilt_Fish Pond": "I mentioned to Willy that you got a new fish pond. He seemed really happy about it.#$e#Apparently, he raised crabs when he was a young man. Called it a 'time-honored tradition'.$h",
+		"Resort_Leaving": "That was fun!$h",
+  		"Resort_Shore": "Hey, look! I can see another island from here.",
+  		"Resort_Chair": "Hey @. You know, I was just thinking about how far the town has come since you first moved here.#$b#You should really be proud of all you've done!$h",
+  		"Resort_Bar": "This is so relaxing...",
+  		"reject_865": "Veggie salt? No thanks. It sounds good, but I don't need it.",
+  		"reject_866": "This seems like something Evelyn would like. Maybe you should show this to her?",
+        "pamHouseUpgrade": "Our little plan worked out well, don't you think? Pam and Penny seem really happy.",
+        "pamHouseUpgradeAnonymous": "Our little plan worked out well, don't you think? Pam and Penny seem really happy.",
+        "MovieInvitation": "It's been too long since I've been to the theater. I look forward to it. I'll meet you there.$h",
+        "cc_Bridge": "Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired!#$b#It's a miracle of woodworking!",
+        "cc_Complete": "I knew it from the moment you stepped off that bus, @... you were destined to be a town hero!$h",
+        "cc_Begin": "Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!",
+        "Mon": "Have I told you that Robin built the mountain house from the ground up?#$e#I'm so proud of her!",
+        "Mon2": "Mondays, am I right?$3",
+        "Tue": "Hey, if you need any materials or blueprints, our shop is the place you're looking for!#$e#Plus, your business supports the local economy.$h",
+        "Wed": "Hi, how have you been lately?#$e#If you need any work on the farm just let us know!$1",
+        "Wed2": "How is it that I always need something from Pierre's on a Wednesday?#$b#Guess it's not surprising that the 24/7 JojaMart is more attractive to most people.$3",
+        "Wed4": "I tried to cook some lasagna the other day. But...it turned out terrible.#$b#I don't think mozzarella is supposed to be hard as a rock.$2",
+    	"Wed6": "I'm a terrible cook, but Demetrius always tries whatever I concoct.#$b#Lately he's been helping me learn how to bake better; he's not much of a cook, but he's a great baker.",
+    	"Wed8": "So it turns out I might have magic.#$b#I know, but really. The other day I brewed some soup that turned the family blue.$2#$b#I'm just kidding! I think it came out okay. You should come over for dinner one of these nights, I'd be glad to show off how much better I've gotten.$1",
+    	"Wed10": "It still amazes me that Robin built this house herself. I might be a carpenter, but Robin's got a talent for it.#$b#Hopefully I'll get to build a place like this for my own family one day.",
+        "Thu": "You're always welcome to visit us, even if you aren't shopping, you know.$h#$e#It can get pretty lonely up here in the mountains.",
+        "Thu4": "You know how I got into carpentry?#$b#Robin really liked birds as a kid, so I decided to build her a birdhouse for her birthday. Turned out I really enjoyed working with wood.$4",
+    	"Thu6": "You should come join us sometime at the cabin. It's been a while since I watched Star Fighters. We could binge it all night!",
+    	"Thu8": "I left home for the city when I was 18.#$b#But I've got to say, being here, in Stardew Valley, I feel like I'm home -- in part due to friends like you who keep me company.$2",
+    	"Thu10": "May the stars be with you!#$e#Uh...oh, you overheard that. So yeah, I'm kind of a dork.$2#$b#But...#$b#Want to say it with me?#$b#May the STARS be with you! Haha, yeah just like that!$1",
+        "Fri": "You've met my nephew Sebastian, right? He lives downstairs.#$e#He's a little shy, but I'm sure he'll warm up to you if you're nice to him.",
+        "Fri_inlaw_Sebastian": "I miss Sebastian... Feels a little less like home now.",
+        "Fri4": "#$1 RobinSeb#I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?#$e#Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much...#$e#I would talk to him about it, but he never opens up to me.",
+        "Fri4_inlaw_Sebastian": "Sebastian told me he's trying to quit smoking! I'm really proud of him.",
+        "Fri6": "Do you think Sebastian would let me sit in on one of those games he plays with Sam?#$b#Hmm, maybe not. Most people probably don't want their aunt playing those kinds of games with them.$2#$b#Oh, @, you and I should play a game like that sometime. It might be fun.$1",
+        "Sat": "Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains.",
+        "Sat2_1": "
+				I'd love to get an orange cat whose fur is super fluffy.
+				#$q 85346/85347 catVer_followup#What do you think?
+				#$r 85346 10 catVer_yes#Yeah you should.
+				#$r 85347 0 catVer_no#No you shouldn't.
+				",
+			"catVer_yes": "Yeah, I'd really love to, but I'm not sure the family would appreciate that.$2",
+			"catVer_no": "You're probably right, I don't think the family would be very appreciative if I brought one home all of a sudden.$2",
+			"catVer_followup": 
+				"$p 85346
+				#I still want to adopt a cat, but I'm waiting until the whole family can come around to the idea.
+				|I suppose I should give up on adopting a cat, there's no chance that I can convince the family to be okay with one in the house.$2
+				",
+        "Sat2_2": "Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains.",
+        "Sat6": "One of my favorite things about being up here in the mountains is sitting outside and drinking a warm cup of coffee.#$b#It's nice that the newspaper is still running too. I know most people would probably prefer to use a screen, but I still like reading the comics in the paper the old fashioned way.$4#$b#There's nothing like a warm cup of coffee and the comics section to start your day.$1",
+        "Sun": "I hope Demetrius doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants.",
+        "Sun2": "#$1 RobinDem#Demetrius almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba Robin used fire-resistant lacquer when she built the place.$u#$e#Sorry if it smells weird in here, @. It's Demetrius's bizarre science project...",
+        "Sun4": "
+				Hi @!
+				#$q 85434/85435 favColorVer_followup#I'm curious, do you know what my favorite color is?
+				#$r 85434 20 favColorVer_pink#Pink.
+				#$r 85434 10 favColorVer_orange#Orange.
+				#$r 85434 0 favColorVer_science#450nm.
+				#$r 85435 -10 favColorVer_jerk#Why do I care?
+			",
+		"favColorVer_pink": "Hey, you got it right!$1",
+		"favColorVer_orange": "Nope, wrong. I can't blame you for not knowing though.$4#$b#Pink is the right answer.$0",
+		"favColorVer_science": "Uh...$2#$b#Hmm, sounds like something Demetrius might understand.#$b#By the way, pink is the right answer.$0",
+		"favColorVer_jerk": "Okay... Sorry for asking.$3",
+		"favColorVer_followup":
+			"$p 85434
+			#I almost was yelled at the other day when I suggested painting a bedroom pink.$2#$b#I guess not everyone can appreciate such a beautiful color#1.
+			|Oh hey.
+			",
+        "Sun6": "Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?",
+        "event_wood1": "Great, then this blueprint should be a piece of cake for you!$h",
+        "event_wood2": "Well, then I have the perfect blueprint to get you started!",
+        "summer_Mon": "Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character! Unlike sand...$3",
+        "summer_Mon2": "Mondays, am I right?$3",
+        "summer_Tue": "If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h",
+        "summer_Fri": "We're pretty insulated from the rest of the world here in Stardew Valley.#$e#It has its pros and cons.",
+        "fall_Mon": "#$1 RobinMaru#Maru likes gems. She uses them in her inventions.#$e#So how are you and Maru getting along?",
+        "fall_Tue": "I love living here among the Oak trees. There's something about them that puts my mind at ease.",
+        "fall_Thu": "You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains.",
+        "fall_Thu4": "You know how I got into carpentry?#$b#Robin really liked birds as a kid, so I decided to build her a birdhouse for her birthday. Turned out I really enjoyed working with wood.$4",
+    	"fall_Thu6": "You should come join us sometime at the cabin. It's been a while since I watched Star Fighters. We could binge it all night!",
+    	"fall_Thu8": "I left home for the city when I was 18.#$b#But I've got to say, being here, in Stardew Valley, I feel like I'm home -- in part due to friends like you who keep me company.$2",
+    	"fall_Thu10": "May the stars be with you!#$e#Uh...oh, you overheard that. So yeah, I'm kind of a dork.$2#$b#But...#$b#Want to say it with me?#$b#May the STARS be with you! Haha, yeah just like that!$1",
+        "fall_Fri": "Have you met the wild man that lives behind our house?$s#$e#I guess I don't really mind, as long as he doesn't bother us.",
+        "winter_Mon": "Hey, it's a perfect time of year to gather wood.#$e#Maybe you can collect enough to upgrade your house!",
+        "winter_Tue": "Do you know how to refine quartz? First you... Oh, you probably don't want to hear. Still it's a fascinating topic to me.",
+        "winter_Fri": "Unlike Robin, my parents were proud when I told them I wanted to be a carpenter.#$e#Not so much when I told them about the other thing. They were pretty old-fashioned.",
+        "winter_Fri_inlaw_Sebastian": "I think the farm life is really healthy for Sebastian.",
+        "winter_Sat": "Our house is in such a beautiful area, don't you think?#$e#Everything looks still after a fresh snow.",
+        "summer_9": "Robin's had a hard time understanding why Maru wants to become a nurse.#$b#Although if she really wants to be a nurse, I'm sure Robin will come around to supporting that choice.$4",
+    	"summer_9_inlaw_Maru": "You must be very special to my niece. After all, she had such a huge focus on...#$b#Well, that's all in the past, so I guess that's not something for me to comment on anymore.$0#$b#Don't worry though, she loves you so much that she's all but forgotten that obsession.$1",
+    	"summer_18": "I wonder if Pierre has any green beans. Or maybe I'll have to go to JojaMart, though I'm not fond of that idea.#$b#Oh, hi @. Never mind me, I was just musing to myself.$4",
+    	"fall_20_inlaw_Ram": "I hope you got something nice for Robin tomorrow. Maybe a peach? I'm sure she'll love whatever you get her.#$b#Don't forget your sister-in-law though, my birthday is only a day later.$1",
+    	"winter_9": "You probably already know, but Sebastian is a huge Star Fighters fan.#$b#He gets that from me, actually. I'm the one who introduced him to it.$1",
+    	"winter_9_inlaw_Sebastian": "How's Robin been treating you since the marriage?#$b#She's always been overprotective when it comes to Sebastian, so you can always come complain to me if your mother-in-law is getting on your nerves.",
+    	
+    }
