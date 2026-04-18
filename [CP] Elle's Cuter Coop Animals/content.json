@@ -5,7 +5,7 @@
 					
 	*/
 
-  "Format": "2.0.0",
+  "Format": "2.8.1",
   
   "ConfigSchema": {
 	  "White Chicken Default": {
@@ -69,13 +69,13 @@
 		  "Default": "Golden",
 		  "Description": "These are the skins your Golden Chickens can have when purchased or hatched. You can list multiple options separated by commas, leave blank or write false to disable"},
 	  "Duck Default": {
-		  "AllowValues": "Cream, Blonde, Fawn, Brown, Red, Midnight, Black, Grey, Silver, White, MallardMale, MallardFemale, Void, false",
+		  "AllowValues": "Cream, Blonde, Fawn, Brown, Red, Midnight, Black, Grey, Silver, White, MallardMale, MallardFemale, Void, GooseCream, GooseBlonde, GooseFawn, GooseBrown, GooseRed, GooseMidnight, GooseBlack, GooseGrey, GooseSilver, GooseWhite, GooseCanada, GooseVoid, false",
 		  "AllowMultiple": false,
 		  "AllowBlank": true,
 		  "Default": "MallardMale",
 		  "Description": "This is the default skin for your Ducks and what Ducks on an existing save will look like. List only one, leave blank or write false to disable"},
 	  "Duck Skins": {
-		  "AllowValues": "Cream, Blonde, Fawn, Brown, Red, Midnight, Black, Grey, Silver, White, MallardMale, MallardFemale, Void, false",
+		  "AllowValues": "Cream, Blonde, Fawn, Brown, Red, Midnight, Black, Grey, Silver, White, MallardMale, MallardFemale, Void, GooseCream, GooseBlonde, GooseFawn, GooseBrown, GooseRed, GooseMidnight, GooseBlack, GooseGrey, GooseSilver, GooseWhite, GooseCanada, GooseVoid, false",
 		  "AllowMultiple": true,
 		  "AllowBlank": true,
 		  "Default": "MallardMale, MallardFemale",
@@ -93,13 +93,13 @@
 		  "Default": "SolidBlonde, DutchFawn, LopPointedBrown, LopBeltedRed",
 		  "Description": "These are the skins your Rabbits can have when purchased or born. You can list multiple options separated by commas, leave blank or write false to disable"},
 	  "Dinosaur Default": {
-		  "AllowValues": "Green, LightBlue, DarkBlue, Iridium, Red, Orange, Grey, White, Void, false",
+		  "AllowValues": "Green, LightBlue, DarkBlue, Iridium, Red, Orange, Grey, White, Void, TrikeGreen, TrikeLightBlue, TrikeDarkBlue, TrikeIridium, TrikeRed, TrikeOrange, TrikeGrey, TrikeWhite, TrikeVoid, false",
 		  "AllowMultiple": false,
 		  "AllowBlank": true,
 		  "Default": "Green",
 		  "Description": "This is the default skin for your Dinosaurs and what Dinosaurs on an existing save will look like. List only one, leave blank or write false to disable"},
 	  "Dinosaur Skins": {
-		  "AllowValues": "Green, LightBlue, DarkBlue, Iridium, Red, Orange, Grey, White, Void, false",
+		  "AllowValues": "Green, LightBlue, DarkBlue, Iridium, Red, Orange, Grey, White, Void, TrikeGreen, TrikeLightBlue, TrikeDarkBlue, TrikeIridium, TrikeRed, TrikeOrange, TrikeGrey, TrikeWhite, TrikeVoid, false",
 		  "AllowMultiple": true,
 		  "AllowBlank": true,
 		  "Default": "Green",
@@ -1755,6 +1755,172 @@
       "When": { "Duck Skins": "Void" },
 	},
 	
+    {
+      "LogName": "Duck GooseBlack",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseBlack": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseBlack",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlack",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlackBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseBlack" },
+	},
+    {
+      "LogName": "Duck GooseBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseBlonde",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlonde",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlondeBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseBlonde" },
+	},
+    {
+      "LogName": "Duck GooseBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseBrown": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseBrown",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBrown",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBrownBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseBrown" },
+	},
+    {
+      "LogName": "Duck GooseCanada",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseCanada": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseCanada",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCanada",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCanadaBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseCanada" },
+	},
+    {
+      "LogName": "Duck GooseCream",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseCream": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseCream",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCream",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCreamBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseCanada" },
+	},
+    {
+      "LogName": "Duck GooseFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseFawn": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseFawn",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseFawn",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseFawnBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseFawn" },
+	},
+    {
+      "LogName": "Duck GooseGrey",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseGrey": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseGrey",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseGrey",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseGreyBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseGrey" },
+	},
+    {
+      "LogName": "Duck GooseMidnight",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseMidnight": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseMidnight",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseMidnight",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseMidnightBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseMidnight" },
+	},
+    {
+      "LogName": "Duck GooseRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseRed": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseRed",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseRed",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseRedBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseRed" },
+	},
+    {
+      "LogName": "Duck GooseSilver",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseSilver": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseSilver",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseSilver",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseSilverBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseSilver" },
+	},
+    {
+      "LogName": "Duck GooseVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Duck", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Duck_GooseVoid": {
+		"Id": "Elle.CuterBarnAnimals_Duck_GooseVoid",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseVoid",
+			"BabyTexture": "Mods\\Elle.CuterCoopAnimals\\Duck\\GooseVoidBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Duck Skins": "GooseVoid" },
+	},
+	
     //Dinosaurs
     {
       "LogName": "Dinosaur Default",
@@ -1897,6 +2063,143 @@
 			},
 		},
       "When": { "Dinosaur Skins": "Void" },
+	},
+	
+	
+	
+    {
+      "LogName": "Dinosaur TrikeGreen",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeGreen": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeGreen",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeGreen",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeGreen" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeLightBlue",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeLightBlue": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeLightBlue",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeLightBlue",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeLightBlue" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeDarkBlue",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeDarkBlue": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeDarkBlue",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeDarkBlue",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeDarkBlue" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeIridium",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeIridium": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeIridium",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeIridium",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeIridium" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeRed": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeRed",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeRed",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeRed" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeOrange",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeOrange": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeOrange",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeOrange",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeOrange" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeGrey",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeGrey": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeGrey",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeGrey",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeGrey" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeWhite",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeWhite": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeWhite",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeWhite",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeWhite" },
+	},
+	
+    {
+      "LogName": "Dinosaur TrikeVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Dinosaur", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Dinosaur_TrikeVoid": {
+		"Id": "Elle.CuterBarnAnimals_Dinosaur_TrikeVoid",
+			"Texture": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeVoid",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Dinosaur Skins": "TrikeVoid" },
 	},
 	
     //Rabbits
@@ -3195,7 +3498,7 @@
       "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
       "ToArea": { "X": 192, "Y": 288, "Width": 16, "Height": 16 },
 	  "PatchMode": "Replace",
-      "When": { "Duck Feather Recolor": "Cream, Blonde, Fawn, Brown, Red, Midnight, Black, Grey, Silver, White, MallardMale, MallardFemale" },
+      "When": { "Duck Feather Recolor": "Cream, Blonde, Fawn, Brown, Red, Midnight, Black, Grey, Silver, White, MallardMale, MallardFemale, " },
 	},
 	{
       "LogName": "Rabbit Foot Recolor",
@@ -3246,7 +3549,7 @@
     {
       "LogName": "Load Duck Images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterCoopAnimals\\Duck\\Cream, Mods\\Elle.CuterCoopAnimals\\Duck\\Blonde, Mods\\Elle.CuterCoopAnimals\\Duck\\Fawn, Mods\\Elle.CuterCoopAnimals\\Duck\\Brown, Mods\\Elle.CuterCoopAnimals\\Duck\\Red, Mods\\Elle.CuterCoopAnimals\\Duck\\Midnight, Mods\\Elle.CuterCoopAnimals\\Duck\\Black, Mods\\Elle.CuterCoopAnimals\\Duck\\Grey, Mods\\Elle.CuterCoopAnimals\\Duck\\Silver, Mods\\Elle.CuterCoopAnimals\\Duck\\White, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardMale, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardFemale, Mods\\Elle.CuterCoopAnimals\\Duck\\Void, Mods\\Elle.CuterCoopAnimals\\Duck\\CreamBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\BlondeBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\FawnBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\BrownBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\RedBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\MidnightBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\BlackBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GreyBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\SilverBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\WhiteBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardMaleBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardFemaleBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\VoidBaby",
+      "Target": "Mods\\Elle.CuterCoopAnimals\\Duck\\Cream, Mods\\Elle.CuterCoopAnimals\\Duck\\Blonde, Mods\\Elle.CuterCoopAnimals\\Duck\\Fawn, Mods\\Elle.CuterCoopAnimals\\Duck\\Brown, Mods\\Elle.CuterCoopAnimals\\Duck\\Red, Mods\\Elle.CuterCoopAnimals\\Duck\\Midnight, Mods\\Elle.CuterCoopAnimals\\Duck\\Black, Mods\\Elle.CuterCoopAnimals\\Duck\\Grey, Mods\\Elle.CuterCoopAnimals\\Duck\\Silver, Mods\\Elle.CuterCoopAnimals\\Duck\\White, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardMale, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardFemale, Mods\\Elle.CuterCoopAnimals\\Duck\\Void, Mods\\Elle.CuterCoopAnimals\\Duck\\CreamBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\BlondeBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\FawnBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\BrownBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\RedBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\MidnightBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\BlackBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GreyBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\SilverBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\WhiteBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardMaleBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\MallardFemaleBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\VoidBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCream, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlonde, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseFawn, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBrown, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseRed, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseMidnight, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlack, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseGrey, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseSilver, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseWhite, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCanada, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseVoid, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCreamBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlondeBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseFawnBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBrownBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseRedBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseMidnightBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseBlackBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseGreyBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseSilverBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseWhiteBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseCanadaBaby, Mods\\Elle.CuterCoopAnimals\\Duck\\GooseVoidBaby",
       "FromFile": "assets/Duck/{{TargetWithoutPath}}.png"
     },
     {
@@ -3258,7 +3561,7 @@
     {
       "LogName": "Load Dinosaur Images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Green, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\LightBlue, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\DarkBlue, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Iridium, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Red, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Orange, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Grey, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\White, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Void",
+      "Target": "Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Green, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\LightBlue, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\DarkBlue, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Iridium, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Red, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Orange, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Grey, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\White, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\Void, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeGreen, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeLightBlue, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeDarkBlue, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeIridium, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeRed, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeOrange, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeGrey, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeWhite, Mods\\Elle.CuterCoopAnimals\\Dinosaur\\TrikeVoid",
       "FromFile": "assets/Dinosaur/{{TargetWithoutPath}}.png"
     },
 	

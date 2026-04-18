@@ -5,13 +5,15 @@
 					
 	*/
 
-  "Format": "2.0.0",
+  "Format": "2.8.1",
   
   "ConfigSchema": {
 	  "Dog Breeds": {
-		  "AllowValues": "Australian, AustralianFawn, AustralianBrown, AustralianRed, AustralianBlack, AustralianTricolor, AustralianVoid, Beagle, BeagleVoid, Beau, BeauHarlequin, BeauVoid, BernardFawn, BernardBrown, BernardVoid, Bernese, BerneseVoid, BorderBlonde, BorderFawn, BorderBrown, BorderRed, BorderMidnight, BorderBlack, BorderGrey, BorderSilver, BorderWhite, BorderVoid, BostonBlonde, BostonFawn, BostonBrown, BostonRed, BostonMidnight, BostonBlack, BostonGrey, BostonSilver, BostonWhite, BostonVoid, BoxerBlonde, BoxerFawn, BoxerBrown, BoxerRed, BoxerMidnight, BoxerBlack, BoxerGrey, BoxerSilver, BoxerWhite, BoxerVoid, BulldogBlonde, BulldogFawn, BulldogBrown, BulldogRed, BulldogMidnight, BulldogBlack, BulldogGrey, BulldogSilver, BulldogWhite, BulldogVoid, BullyBicolorBlonde, BullyBicolorFawn, BullyBicolorBrown, BullyBicolorRed, BullyBicolorMidnight, BullyBicolorBlack, BullyBicolorGrey, BullyBicolorSilver, BullySolidCream, BullySolidBlonde, BullySolidFawn, BullySolidBrown, BullySolidRed, BullySolidMidnight, BullySolidBlack, BullySolidGrey, BullySolidSilver, BullySolidWhite, BullySpot, BullyTricolor, BullyVoid, CharlesBicolorBlonde, CharlesBicolorFawn, CharlesBicolorBrown, CharlesBicolorRed, CharlesBicolorMidnight, CharlesBicolorBlack, CharlesBicolorGrey, CharlesBicolorSilver, CharlesSolidCream, CharlesSolidBlonde, CharlesSolidFawn, CharlesSolidBrown, CharlesSolidRed, CharlesSolidMidnight, CharlesSolidBlack, CharlesSolidGrey, CharlesSolidSilver, CharlesSolidWhite, CharlesVoid, Cocker, CockerVanilla, CockerVoid, CorgiBlonde, CorgiFawn, CorgiBrown, CorgiRed, CorgiMidnight, CorgiBlack, CorgiGrey, CorgiSilver, CorgiWhite, CorgiVoid, Dachshund, DachshundDapple, DachshundVoid, DalmatianBlonde, DalmatianFawn, DalmatianBrown, DalmatianRed, DalmatianMidnight, DalmatianBlack, DalmatianGrey, DalmatianSilver, DalmatianVoid, DaneCream, DaneBlonde, DaneFawn, DaneBrown, DaneRed, DaneMidnight, DaneBlack, DaneGrey, DaneSilver, DaneWhite, DaneVoid, Doberman, DobermanHarlequin, DobermanVoid, Foxhound, FoxhoundVoid, FrenchBlonde, FrenchFawn, FrenchBrown, FrenchRed, FrenchMidnight, FrenchBlack, FrenchGrey, FrenchSilver, FrenchWhite, FrenchVoid, GermanFawn, GermanBrown, GermanVanilla, GermanVoid, Golden, GoldenVoid, GreyhoundBicolorBlonde, GreyhoundBicolorFawn, GreyhoundBicolorBrown, GreyhoundBicolorRed, GreyhoundBicolorMidnight, GreyhoundBicolorBlack, GreyhoundBicolorGrey, GreyhoundBicolorSilver, GreyhoundSolidCream, GreyhoundSolidBlonde, GreyhoundSolidFawn, GreyhoundSolidBrown, GreyhoundSolidRed, GreyhoundSolidMidnight, GreyhoundSolidBlack, GreyhoundSolidGrey, GreyhoundSolidSilver, GreyhoundSolidWhite, GreyhoundVoid, HuskyBlonde, HuskyFawn, HuskyBrown, HuskyRed, HuskyMidnight, HuskyBlack, HuskyGrey, HuskySilver, HuskyVoid, Lab, LabVanilla, LabVoid, MalamuteBlonde, MalamuteFawn, MalamuteBrown, MalamuteRed, MalamuteMidnight, MalamuteBlack, MalamuteGrey, MalamuteSilver, MalamuteVoid, NewfyRed, NewfyMidnight, NewfyBlack, NewfyGrey, NewfyLandseer, NewfyVoid, PitBlonde, PitFawn, PitBrown, PitRed, PitMidnight, PitBlack, PitGrey, PitSilver, PitWhite, PitVoid, PoodleCream, PoodleBlonde, PoodleFawn, PoodleBrown, PoodleRed, PoodleMidnight, PoodleBlack, PoodleGrey, PoodleSilver, PoodleWhite, PoodleVoid, Pug, PugVoid, PyreneesBlonde, PyreneesCream, PyreneesWhite, PyreneesVoid, Rott, RottVoid, Samoyed, SamoyedVoid, ShibaBlonde, ShibaFawn, ShibaBrown, ShibaRed, ShibaMidnight, ShibaBlack, ShibaGrey, ShibaSilver, ShibaWhite, ShibaVoid, ShihTzuBicolorBlonde, ShihTzuBicolorFawn,ShihTzuBicolorBrown, ShihTzuBicolorRed, ShihTzuBicolorMidnight, ShihTzuBicolorBlack, ShihTzuBicolorGrey, ShihTzuBicolorSilver, ShihTzuSolidCream, ShihTzuSolidBlonde, ShihTzuSolidFawn, ShihTzuSolidBrown, ShihTzuSolidRed, ShihTzuSolidMidnight, ShihTzuSolidBlack, ShihTzuSolidGrey, ShihTzuSolidSilver, ShihTzuSolidWhite, ShihTzuVoid, SmoothBicolorBlonde, SmoothBicolorFawn, SmoothBicolorBrown, SmoothBicolorRed, SmoothBicolorMidnight, SmoothBicolorBlack, SmoothBicolorGrey, SmoothBicolorSilver, SmoothSolidCream, SmoothSolidBlonde, SmoothSolidFawn, SmoothSolidBrown, SmoothSolidRed, SmoothSolidMidnight, SmoothSolidBlack, SmoothSolidGrey, SmoothSolidSilver, SmoothSolidWhite, SmoothVoid, SpringerBicolorBlonde, SpringerBicolorFawn, SpringerBicolorBrown, SpringerBicolorRed, SpringerBicolorMidnight, SpringerBicolorBlack, SpringerBicolorGrey, SpringerBicolorSilver, SpringerSolidCream, SpringerSolidBlonde, SpringerSolidFawn, SpringerSolidBrown, SpringerSolidRed, SpringerSolidMidnight, SpringerSolidBlack, SpringerSolidGrey, SpringerSolidSilver, SpringerSolidWhite, SpringerVoid, WeimaranerBlue, WeimaranerGrey, WeimaranerSilver, WeimaranerTaupe, WeimaranerVoid, CharlesTricolor, CorgiMerle, CorgiTricolor, CorgiTricolor2, ChowCream, ChowBlonde, ChowFawn, ChowBrown, ChowRed, ChowMidnight, ChowBlack, ChowGrey, ChowSilver, ChowWhite, ChowVoid, GermanSolidCream, GermanSolidBlonde, GermanSolidFawn, GermanSolidBrown, GermanSolidRed, GermanSolidMidnight, GermanSolidBlack, GermanSolidGrey, GermanSolidSilver, GermanSolidWhite, GermanPanda, Westie, WestieVoid, DaneMantle, SchnauzerSilver, SchnauzerGrey, SchnauzerBlack, SchnauzerBlackSolid, SchnauzerVoid, KeeshondSilver, KeeshondGrey, KeeshondBlack, KeeshondVoid, LabBlack",
+		  "AllowValues": "Australian, AustralianFawn, AustralianBrown, AustralianRed, AustralianBlack, AustralianTricolor, AustralianVoid, Beagle, BeagleVoid, Beau, BeauHarlequin, BeauVoid, BernardFawn, BernardBrown, BernardVoid, Bernese, BerneseVoid, BorderBlonde, BorderFawn, BorderBrown, BorderRed, BorderMidnight, BorderBlack, BorderGrey, BorderSilver, BorderWhite, BorderVoid, BorzoiBlack, BorzoiBlonde, BorzoiBrown, BorzoiFawn, BorzoiGrey, BorzoiMidnight, BorzoiRed, BorzoiSilver, BorzoiSolidBlack, BorzoiSolidWhite, BorzoiTricolor, BorzoiVoid, BostonBlonde, BostonFawn, BostonBrown, BostonRed, BostonMidnight, BostonBlack, BostonGrey, BostonSilver, BostonWhite, BostonVoid, BoxerBlonde, BoxerFawn, BoxerBrown, BoxerRed, BoxerMidnight, BoxerBlack, BoxerGrey, BoxerSilver, BoxerWhite, BoxerVoid, BulldogBlonde, BulldogFawn, BulldogBrown, BulldogRed, BulldogMidnight, BulldogBlack, BulldogGrey, BulldogSilver, BulldogWhite, BulldogVoid, BullyBicolorBlonde, BullyBicolorFawn, BullyBicolorBrown, BullyBicolorRed, BullyBicolorMidnight, BullyBicolorBlack, BullyBicolorGrey, BullyBicolorSilver, BullySolidCream, BullySolidBlonde, BullySolidFawn, BullySolidBrown, BullySolidRed, BullySolidMidnight, BullySolidBlack, BullySolidGrey, BullySolidSilver, BullySolidWhite, BullySpot, BullyTricolor, BullyVoid, CharlesBicolorBlonde, CharlesBicolorFawn, CharlesBicolorBrown, CharlesBicolorRed, CharlesBicolorMidnight, CharlesBicolorBlack, CharlesBicolorGrey, CharlesBicolorSilver, CharlesSolidCream, CharlesSolidBlonde, CharlesSolidFawn, CharlesSolidBrown, CharlesSolidRed, CharlesSolidMidnight, CharlesSolidBlack, CharlesSolidGrey, CharlesSolidSilver, CharlesSolidWhite, CharlesTricolor, CharlesVoid, ChowCream, ChowBlonde, ChowFawn, ChowBrown, ChowRed, ChowMidnight, ChowBlack, ChowGrey, ChowSilver, ChowWhite, ChowVoid, Cocker, CockerVanilla, CockerVoid, CorgiBlonde, CorgiFawn, CorgiBrown, CorgiRed, CorgiMidnight, CorgiBlack, CorgiGrey, CorgiSilver, CorgiWhite, CorgiMerle, CorgiTricolor, CorgiTricolor2, CorgiVoid, Dachshund, DachshundDapple, DachshundVoid, DalmatianBlonde, DalmatianFawn, DalmatianBrown, DalmatianRed, DalmatianMidnight, DalmatianBlack, DalmatianGrey, DalmatianSilver, DalmatianVoid, DaneCream, DaneBlonde, DaneFawn, DaneBrown, DaneRed, DaneMidnight, DaneBlack, DaneGrey, DaneSilver, DaneWhite, DaneMantle, DaneVoid, Doberman, DobermanHarlequin, DobermanVoid, Foxhound, FoxhoundVoid, FrenchBlonde, FrenchFawn, FrenchBrown, FrenchRed, FrenchMidnight, FrenchBlack, FrenchGrey, FrenchSilver, FrenchWhite, FrenchVoid, GermanFawn, GermanBrown, GermanVanilla, GermanSolidCream, GermanSolidBlonde, GermanSolidFawn, GermanSolidBrown, GermanSolidRed, GermanSolidMidnight, GermanSolidBlack, GermanSolidGrey, GermanSolidSilver, GermanSolidWhite, GermanPanda, GermanVoid, Golden, GoldenVoid, GreyhoundBicolorBlonde, GreyhoundBicolorFawn, GreyhoundBicolorBrown, GreyhoundBicolorRed, GreyhoundBicolorMidnight, GreyhoundBicolorBlack, GreyhoundBicolorGrey, GreyhoundBicolorSilver, GreyhoundSolidCream, GreyhoundSolidBlonde, GreyhoundSolidFawn, GreyhoundSolidBrown, GreyhoundSolidRed, GreyhoundSolidMidnight, GreyhoundSolidBlack, GreyhoundSolidGrey, GreyhoundSolidSilver, GreyhoundSolidWhite, GreyhoundVoid, HuskyBlonde, HuskyFawn, HuskyBrown, HuskyRed, HuskyMidnight, HuskyBlack, HuskyGrey, HuskySilver, HuskyVoid, KeeshondSilver, KeeshondGrey, KeeshondBlack, KeeshondVoid, Lab, LabVanilla, LabBlack, LabVoid, MalamuteBlonde, MalamuteFawn, MalamuteBrown, MalamuteRed, MalamuteMidnight, MalamuteBlack, MalamuteGrey, MalamuteSilver, MalamuteVoid, NewfyRed, NewfyMidnight, NewfyBlack, NewfyGrey, NewfyLandseer, NewfyVoid, PitBlonde, PitFawn, PitBrown, PitRed, PitMidnight, PitBlack, PitGrey, PitSilver, PitWhite, PitVoid, PoodleCream, PoodleBlonde, PoodleFawn, PoodleBrown, PoodleRed, PoodleMidnight, PoodleBlack, PoodleGrey, PoodleSilver, PoodleWhite, PoodleVoid, Pug, PugVoid, PyreneesBlonde, PyreneesCream, PyreneesWhite, PyreneesVoid, Rott, RottVoid, RoughBlack, RoughBlonde, RoughBrown, RoughFawn, RoughGrey, RoughMerle, RoughMidnight, RoughRed, RoughSilver, RoughTricolor, RoughTricolor2, RoughVoid, Samoyed, SamoyedVoid, SchnauzerSilver, SchnauzerGrey, SchnauzerBlack, SchnauzerBlackSolid, SchnauzerVoid, ShibaBlonde, ShibaFawn, ShibaBrown, ShibaRed, ShibaMidnight, ShibaBlack, ShibaGrey, ShibaSilver, ShibaWhite, ShibaVoid, ShihTzuBicolorBlonde, ShihTzuBicolorFawn,ShihTzuBicolorBrown, ShihTzuBicolorRed, ShihTzuBicolorMidnight, ShihTzuBicolorBlack, ShihTzuBicolorGrey, ShihTzuBicolorSilver, ShihTzuSolidCream, ShihTzuSolidBlonde, ShihTzuSolidFawn, ShihTzuSolidBrown, ShihTzuSolidRed, ShihTzuSolidMidnight, ShihTzuSolidBlack, ShihTzuSolidGrey, ShihTzuSolidSilver, ShihTzuSolidWhite, ShihTzuVoid, SmoothBicolorBlonde, SmoothBicolorFawn, SmoothBicolorBrown, SmoothBicolorRed, SmoothBicolorMidnight, SmoothBicolorBlack, SmoothBicolorGrey, SmoothBicolorSilver, SmoothSolidCream, SmoothSolidBlonde, SmoothSolidFawn, SmoothSolidBrown, SmoothSolidRed, SmoothSolidMidnight, SmoothSolidBlack, SmoothSolidGrey, SmoothSolidSilver, SmoothSolidWhite, SmoothVoid, SpringerBicolorBlonde, SpringerBicolorFawn, SpringerBicolorBrown, SpringerBicolorRed, SpringerBicolorMidnight, SpringerBicolorBlack, SpringerBicolorGrey, SpringerBicolorSilver, SpringerSolidCream, SpringerSolidBlonde, SpringerSolidFawn, SpringerSolidBrown, SpringerSolidRed, SpringerSolidMidnight, SpringerSolidBlack, SpringerSolidGrey, SpringerSolidSilver, SpringerSolidWhite, SpringerVoid, WeimaranerBlue, WeimaranerGrey, WeimaranerSilver, WeimaranerTaupe, WeimaranerVoid, Westie, WestieVoid",
 		  "AllowMultiple": true,
-		  "Default": "Australian, BernardBrown, Bernese, BorderBlack, BullySpot, Dachshund, CorgiFawn, DalmatianBlack, GermanFawn, GreyhoundBicolorSilver, HuskyGrey, MalamuteGrey, NewfyLandseer, PitBrown, PoodleMidnight, Rott, Samoyed, WeimaranerSilver, ShihTzuBicolorBrown, SmoothBicolorFawn, SpringerBicolorBlack, Westie, KeeshondSilver, SchnauzerSilver, ChowFawn"},
+		  "Default": "Australian, BernardBrown, Bernese, BorderBlack, BorzoiSolidWhite, BullySpot, Dachshund, ChowFawn, CorgiFawn, DalmatianBlack, GermanFawn, GreyhoundBicolorSilver, HuskyGrey, KeeshondSilver, MalamuteGrey, NewfyLandseer, PitBrown, PoodleMidnight, Rott, RoughTricolor2, Samoyed, SchnauzerSilver, WeimaranerSilver, ShihTzuBicolorBrown, SmoothBicolorFawn, SpringerBicolorBlack, Westie"},
+	  "Adoption Price": {
+		  "Default": "40000"},
     },
 	
 	
@@ -34,7 +36,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "AustralianBlack" },
@@ -56,7 +59,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "AustralianTricolor" },
@@ -78,7 +82,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "AustralianFawn" },
@@ -100,7 +105,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "AustralianBrown" },
@@ -122,7 +128,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "AustralianRed" },
@@ -144,7 +151,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Australian" },
@@ -166,7 +174,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "AustralianVoid" },
@@ -190,7 +199,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Lab" },
@@ -212,7 +222,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "LabVanilla" },
@@ -234,7 +245,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "LabVoid" },
@@ -256,7 +268,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "LabBlack" },
@@ -280,7 +293,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Beagle" },
@@ -302,7 +316,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BeagleVoid" },
@@ -326,7 +341,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Beau" },
@@ -348,7 +364,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BeauHarlequin" },
@@ -370,7 +387,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BeauVoid" },
@@ -394,7 +412,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BernardFawn" },
@@ -416,7 +435,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BernardBrown" },
@@ -438,7 +458,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BernardVoid" },
@@ -462,7 +483,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Bernese" },
@@ -484,7 +506,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BerneseVoid" },
@@ -508,7 +531,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderWhite" },
@@ -530,7 +554,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderBlonde" },
@@ -552,7 +577,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderFawn" },
@@ -574,7 +600,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderBrown" },
@@ -596,7 +623,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderRed" },
@@ -618,7 +646,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderMidnight" },
@@ -640,7 +669,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderBlack" },
@@ -662,7 +692,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderGrey" },
@@ -684,7 +715,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderSilver" },
@@ -706,7 +738,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BorderVoid" },
@@ -730,7 +763,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonWhite" },
@@ -752,7 +786,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonBlonde" },
@@ -774,7 +809,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonFawn" },
@@ -796,7 +832,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonBrown" },
@@ -818,7 +855,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonRed" },
@@ -840,7 +878,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonMidnight" },
@@ -862,7 +901,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonBlack" },
@@ -884,7 +924,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonGrey" },
@@ -906,7 +947,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonSilver" },
@@ -928,7 +970,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BostonVoid" },
@@ -952,7 +995,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerWhite" },
@@ -974,7 +1018,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerBlonde" },
@@ -996,7 +1041,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerFawn" },
@@ -1018,7 +1064,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerBrown" },
@@ -1040,7 +1087,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerRed" },
@@ -1062,7 +1110,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerMidnight" },
@@ -1084,7 +1133,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerBlack" },
@@ -1106,7 +1156,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerGrey" },
@@ -1128,7 +1179,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerSilver" },
@@ -1150,7 +1202,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BoxerVoid" },
@@ -1174,7 +1227,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogWhite" },
@@ -1196,7 +1250,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogBlonde" },
@@ -1218,7 +1273,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogFawn" },
@@ -1240,7 +1296,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogBrown" },
@@ -1262,7 +1319,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogRed" },
@@ -1284,7 +1342,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogMidnight" },
@@ -1306,7 +1365,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogBlack" },
@@ -1328,7 +1388,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogGrey" },
@@ -1350,7 +1411,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogSilver" },
@@ -1372,7 +1434,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BulldogVoid" },
@@ -1396,7 +1459,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidCream" },
@@ -1418,7 +1482,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidBlonde" },
@@ -1440,7 +1505,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidFawn" },
@@ -1462,7 +1528,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidBrown" },
@@ -1484,7 +1551,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidRed" },
@@ -1506,7 +1574,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidMidnight" },
@@ -1528,7 +1597,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidBlack" },
@@ -1550,7 +1620,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidGrey" },
@@ -1572,7 +1643,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidSilver" },
@@ -1594,7 +1666,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySolidWhite" },
@@ -1616,7 +1689,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyTricolor" },
@@ -1638,7 +1712,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorBlonde" },
@@ -1660,7 +1735,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorFawn" },
@@ -1682,7 +1758,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorBrown" },
@@ -1704,7 +1781,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorRed" },
@@ -1726,7 +1804,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorMidnight" },
@@ -1748,7 +1827,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorBlack" },
@@ -1770,7 +1850,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorGrey" },
@@ -1792,7 +1873,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyBicolorSilver" },
@@ -1814,7 +1896,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullySpot" },
@@ -1836,7 +1919,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "BullyVoid" },
@@ -1860,7 +1944,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidCream" },
@@ -1882,7 +1967,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidBlonde" },
@@ -1904,7 +1990,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidFawn" },
@@ -1926,7 +2013,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidBrown" },
@@ -1948,7 +2036,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidRed" },
@@ -1970,7 +2059,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidMidnight" },
@@ -1992,7 +2082,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidBlack" },
@@ -2014,7 +2105,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidGrey" },
@@ -2036,7 +2128,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidSilver" },
@@ -2058,7 +2151,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesSolidWhite" },
@@ -2081,7 +2175,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorBlonde" },
@@ -2103,7 +2198,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorFawn" },
@@ -2125,7 +2221,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorBrown" },
@@ -2147,7 +2244,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorRed" },
@@ -2169,7 +2267,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorMidnight" },
@@ -2191,7 +2290,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorBlack" },
@@ -2213,7 +2313,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorGrey" },
@@ -2235,7 +2336,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesBicolorSilver" },
@@ -2257,7 +2359,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesVoid" },
@@ -2281,7 +2384,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CharlesTricolor" },
@@ -2305,7 +2409,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Cocker" },
@@ -2327,7 +2432,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CockerVanilla" },
@@ -2349,7 +2455,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CockerVoid" },
@@ -2373,7 +2480,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Dachshund" },
@@ -2395,7 +2503,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DachshundDapple" },
@@ -2417,7 +2526,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DachshundVoid" },
@@ -2441,7 +2551,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Doberman" },
@@ -2463,7 +2574,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DobermanHarlequin" },
@@ -2485,7 +2597,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DobermanVoid" },
@@ -2509,7 +2622,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiWhite" },
@@ -2531,7 +2645,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiBlonde" },
@@ -2553,7 +2668,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiFawn" },
@@ -2575,7 +2691,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiBrown" },
@@ -2597,7 +2714,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiRed" },
@@ -2619,7 +2737,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiMidnight" },
@@ -2641,7 +2760,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiBlack" },
@@ -2663,7 +2783,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiGrey" },
@@ -2685,7 +2806,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiSilver" },
@@ -2707,7 +2829,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiVoid" },
@@ -2731,7 +2854,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiMerle" },
@@ -2753,7 +2877,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiTricolor" },
@@ -2775,7 +2900,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "CorgiTricolor2" },
@@ -2800,7 +2926,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianBlonde" },
@@ -2822,7 +2949,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianFawn" },
@@ -2844,7 +2972,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianBrown" },
@@ -2866,7 +2995,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianRed" },
@@ -2888,7 +3018,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianMidnight" },
@@ -2910,7 +3041,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianBlack" },
@@ -2932,7 +3064,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianGrey" },
@@ -2954,7 +3087,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianSilver" },
@@ -2976,7 +3110,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DalmatianVoid" },
@@ -3000,7 +3135,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneCream" },
@@ -3022,7 +3158,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneBlonde" },
@@ -3044,7 +3181,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneFawn" },
@@ -3066,7 +3204,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneBrown" },
@@ -3088,7 +3227,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneRed" },
@@ -3110,7 +3250,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneMidnight" },
@@ -3132,7 +3273,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneBlack" },
@@ -3154,7 +3296,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneGrey" },
@@ -3176,7 +3319,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneSilver" },
@@ -3198,7 +3342,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneWhite" },
@@ -3220,7 +3365,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneVoid" },
@@ -3244,7 +3390,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "DaneMantle" },
@@ -3268,7 +3415,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Foxhound" },
@@ -3290,7 +3438,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FoxhoundVoid" },
@@ -3314,7 +3463,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanFawn" },
@@ -3336,7 +3486,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanBrown" },
@@ -3358,7 +3509,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanVanilla" },
@@ -3380,7 +3532,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanVoid" },
@@ -3404,7 +3557,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanPanda" },
@@ -3426,7 +3580,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidCream" },
@@ -3448,7 +3603,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidBlonde" },
@@ -3470,7 +3626,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidFawn" },
@@ -3492,7 +3649,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidBrown" },
@@ -3514,7 +3672,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidRed" },
@@ -3536,7 +3695,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidMidnight" },
@@ -3558,7 +3718,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidBlack" },
@@ -3580,7 +3741,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidGrey" },
@@ -3602,7 +3764,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidSilver" },
@@ -3624,7 +3787,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GermanSolidWhite" },
@@ -3648,7 +3812,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Golden" },
@@ -3670,7 +3835,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GoldenVoid" },
@@ -3694,7 +3860,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchWhite" },
@@ -3716,7 +3883,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchBlonde" },
@@ -3738,7 +3906,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchFawn" },
@@ -3760,7 +3929,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchBrown" },
@@ -3782,7 +3952,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchRed" },
@@ -3804,7 +3975,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchMidnight" },
@@ -3826,7 +3998,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchBlack" },
@@ -3848,7 +4021,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchGrey" },
@@ -3870,7 +4044,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchSilver" },
@@ -3892,7 +4067,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "FrenchVoid" },
@@ -3916,7 +4092,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidCream" },
@@ -3938,7 +4115,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidBlonde" },
@@ -3960,7 +4138,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidFawn" },
@@ -3982,7 +4161,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidBrown" },
@@ -4004,7 +4184,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidRed" },
@@ -4026,7 +4207,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidMidnight" },
@@ -4048,7 +4230,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidBlack" },
@@ -4070,7 +4253,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidGrey" },
@@ -4092,7 +4276,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidSilver" },
@@ -4114,7 +4299,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundSolidWhite" },
@@ -4139,7 +4325,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorBlonde" },
@@ -4161,7 +4348,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorFawn" },
@@ -4183,7 +4371,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorBrown" },
@@ -4205,7 +4394,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorRed" },
@@ -4227,7 +4417,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorMidnight" },
@@ -4249,7 +4440,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorBlack" },
@@ -4271,7 +4463,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorGrey" },
@@ -4293,7 +4486,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundBicolorSilver" },
@@ -4315,7 +4509,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "GreyhoundVoid" },
@@ -4340,7 +4535,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyBlonde" },
@@ -4362,7 +4558,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyFawn" },
@@ -4384,7 +4581,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyBrown" },
@@ -4406,7 +4604,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyRed" },
@@ -4428,7 +4627,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyMidnight" },
@@ -4450,7 +4650,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyBlack" },
@@ -4472,7 +4673,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyGrey" },
@@ -4494,7 +4696,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskySilver" },
@@ -4516,7 +4719,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "HuskyVoid" },
@@ -4541,7 +4745,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteBlonde" },
@@ -4563,7 +4768,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteFawn" },
@@ -4585,7 +4791,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteBrown" },
@@ -4607,7 +4814,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteRed" },
@@ -4629,7 +4837,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteMidnight" },
@@ -4651,7 +4860,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteBlack" },
@@ -4673,7 +4883,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteGrey" },
@@ -4695,7 +4906,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteSilver" },
@@ -4717,7 +4929,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "MalamuteVoid" },
@@ -4741,7 +4954,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "NewfyRed" },
@@ -4763,7 +4977,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "NewfyMidnight" },
@@ -4785,7 +5000,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "NewfyBlack" },
@@ -4807,7 +5023,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "NewfyGrey" },
@@ -4829,7 +5046,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "NewfyLandseer" },
@@ -4851,7 +5069,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "NewfyVoid" },
@@ -4875,7 +5094,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PyreneesBlonde" },
@@ -4897,7 +5117,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PyreneesCream" },
@@ -4919,7 +5140,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PyreneesWhite" },
@@ -4941,7 +5163,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PyreneesVoid" },
@@ -4965,7 +5188,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitWhite" },
@@ -4987,7 +5211,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitBlonde" },
@@ -5009,7 +5234,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitFawn" },
@@ -5031,7 +5257,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitBrown" },
@@ -5053,7 +5280,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitRed" },
@@ -5075,7 +5303,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitMidnight" },
@@ -5097,7 +5326,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitBlack" },
@@ -5119,7 +5349,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitGrey" },
@@ -5141,7 +5372,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitSilver" },
@@ -5163,7 +5395,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PitVoid" },
@@ -5187,7 +5420,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleCream" },
@@ -5209,7 +5443,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleBlonde" },
@@ -5231,7 +5466,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleFawn" },
@@ -5253,7 +5489,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleBrown" },
@@ -5275,7 +5512,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleRed" },
@@ -5297,7 +5535,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleMidnight" },
@@ -5319,7 +5558,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleBlack" },
@@ -5341,7 +5581,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleGrey" },
@@ -5363,7 +5604,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleSilver" },
@@ -5385,7 +5627,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleWhite" },
@@ -5408,7 +5651,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PoodleVoid" },
@@ -5433,7 +5677,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Rott" },
@@ -5455,7 +5700,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "RottVoid" },
@@ -5480,7 +5726,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Samoyed" },
@@ -5502,7 +5749,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SamoyedVoid" },
@@ -5527,7 +5775,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "WeimaranerBlue" },
@@ -5550,7 +5799,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "WeimaranerGrey" },
@@ -5573,7 +5823,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "WeimaranerSilver" },
@@ -5596,7 +5847,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "WeimaranerTaupe" },
@@ -5619,7 +5871,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "WeimaranerVoid" },
@@ -5643,7 +5896,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaWhite" },
@@ -5665,7 +5919,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaBlonde" },
@@ -5687,7 +5942,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaFawn" },
@@ -5709,7 +5965,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaBrown" },
@@ -5731,7 +5988,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaRed" },
@@ -5753,7 +6011,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaMidnight" },
@@ -5775,7 +6034,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaBlack" },
@@ -5797,7 +6057,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaGrey" },
@@ -5819,7 +6080,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaSilver" },
@@ -5841,7 +6103,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShibaVoid" },
@@ -5865,7 +6128,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidCream" },
@@ -5887,7 +6151,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidBlonde" },
@@ -5909,7 +6174,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidFawn" },
@@ -5931,7 +6197,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidBrown" },
@@ -5953,7 +6220,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidRed" },
@@ -5975,7 +6243,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidMidnight" },
@@ -5997,7 +6266,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidBlack" },
@@ -6019,7 +6289,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidGrey" },
@@ -6041,7 +6312,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidSilver" },
@@ -6063,7 +6335,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuSolidWhite" },
@@ -6085,7 +6358,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorBlonde" },
@@ -6107,7 +6381,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorFawn" },
@@ -6129,7 +6404,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorBrown" },
@@ -6151,7 +6427,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorRed" },
@@ -6173,7 +6450,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorMidnight" },
@@ -6195,7 +6473,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorBlack" },
@@ -6217,7 +6496,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorGrey" },
@@ -6239,7 +6519,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuBicolorSilver" },
@@ -6261,7 +6542,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ShihTzuVoid" },
@@ -6285,7 +6567,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidCream" },
@@ -6307,7 +6590,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidBlonde" },
@@ -6329,7 +6613,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidFawn" },
@@ -6351,7 +6636,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidBrown" },
@@ -6373,7 +6659,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidRed" },
@@ -6395,7 +6682,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidMidnight" },
@@ -6417,7 +6705,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidBlack" },
@@ -6439,7 +6728,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidGrey" },
@@ -6461,7 +6751,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidSilver" },
@@ -6483,7 +6774,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothSolidWhite" },
@@ -6505,7 +6797,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorBlonde" },
@@ -6527,7 +6820,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorFawn" },
@@ -6549,7 +6843,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorBrown" },
@@ -6571,7 +6866,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorRed" },
@@ -6593,7 +6889,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorMidnight" },
@@ -6615,7 +6912,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorBlack" },
@@ -6637,7 +6935,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorGrey" },
@@ -6659,7 +6958,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothBicolorSilver" },
@@ -6681,7 +6981,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SmoothVoid" },
@@ -6705,7 +7006,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidCream" },
@@ -6727,7 +7029,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidBlonde" },
@@ -6749,7 +7052,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidFawn" },
@@ -6771,7 +7075,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidBrown" },
@@ -6793,7 +7098,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidRed" },
@@ -6815,7 +7121,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidMidnight" },
@@ -6837,7 +7144,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidBlack" },
@@ -6859,7 +7167,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidGrey" },
@@ -6881,7 +7190,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidSilver" },
@@ -6903,7 +7213,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerSolidWhite" },
@@ -6925,7 +7236,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorBlonde" },
@@ -6947,7 +7259,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorFawn" },
@@ -6969,7 +7282,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorBrown" },
@@ -6991,7 +7305,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorRed" },
@@ -7013,7 +7328,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorMidnight" },
@@ -7035,7 +7351,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorBlack" },
@@ -7057,7 +7374,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorGrey" },
@@ -7079,7 +7397,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerBicolorSilver" },
@@ -7101,7 +7420,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SpringerVoid" },
@@ -7125,7 +7445,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Pug" },
@@ -7147,7 +7468,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "PugVoid" },
@@ -7171,7 +7493,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowCream" },
@@ -7193,7 +7516,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowBlonde" },
@@ -7215,7 +7539,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowFawn" },
@@ -7237,7 +7562,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowBrown" },
@@ -7259,7 +7585,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowRed" },
@@ -7281,7 +7608,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowMidnight" },
@@ -7303,7 +7631,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowBlack" },
@@ -7325,7 +7654,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowGrey" },
@@ -7347,7 +7677,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowSilver" },
@@ -7369,7 +7700,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowWhite" },
@@ -7391,7 +7723,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "ChowVoid" },
@@ -7415,7 +7748,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "Westie" },
@@ -7437,7 +7771,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "WestieVoid" },
@@ -7461,7 +7796,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SchnauzerSilver" },
@@ -7483,7 +7819,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SchnauzerGrey" },
@@ -7505,7 +7842,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SchnauzerBlack" },
@@ -7527,7 +7865,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SchnauzerBlackSolid" },
@@ -7549,7 +7888,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "SchnauzerVoid" },
@@ -7573,7 +7913,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "KeeshondSilver" },
@@ -7595,7 +7936,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "KeeshondGrey" },
@@ -7617,7 +7959,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "KeeshondBlack" },
@@ -7639,10 +7982,567 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Dog Breeds": "KeeshondVoid" },
+	},
+	
+    //Rough Collie
+    {
+      "LogName": "RoughBlonde",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughBlonde": {
+		"Id": "Elle.CuterDogs.RoughBlonde",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughBlonde",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 16,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughBlonde" },
+	},
+    {
+      "LogName": "RoughFawn",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughFawn": {
+		"Id": "Elle.CuterDogs.RoughFawn",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughFawn",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 32,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughFawn" },
+	},
+    {
+      "LogName": "RoughBrown",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughBrown": {
+		"Id": "Elle.CuterDogs.RoughBrown",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughBrown",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 48,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughBrown" },
+	},
+    {
+      "LogName": "RoughRed",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughRed": {
+		"Id": "Elle.CuterDogs.RoughRed",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughRed",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 64,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughRed" },
+	},
+    {
+      "LogName": "RoughMidnight",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughMidnight": {
+		"Id": "Elle.CuterDogs.RoughMidnight",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughMidnight",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 80,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughMidnight" },
+	},
+    {
+      "LogName": "RoughBlack",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughBlack": {
+		"Id": "Elle.CuterDogs.RoughBlack",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughBlack",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 96,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughBlack" },
+	},
+    {
+      "LogName": "RoughGrey",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughGrey": {
+		"Id": "Elle.CuterDogs.RoughGrey",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughGrey",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 112,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughGrey" },
+	},
+    {
+      "LogName": "RoughSilver",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughSilver": {
+		"Id": "Elle.CuterDogs.RoughSilver",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughSilver",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 128,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughSilver" },
+	},
+    {
+      "LogName": "RoughMerle",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughMerle": {
+		"Id": "Elle.CuterDogs.RoughMerle",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughMerle",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 144,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughMerle" },
+	},
+    {
+      "LogName": "RoughTricolor",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughTricolor": {
+		"Id": "Elle.CuterDogs.RoughTricolor",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughTricolor",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 128,
+				"Y": 544,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughTricolor" },
+	},
+    {
+      "LogName": "RoughTricolor2",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughTricolor2": {
+		"Id": "Elle.CuterDogs.RoughTricolor2",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughTricolor2",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 144,
+				"Y": 544,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughTricolor2" },
+	},
+    {
+      "LogName": "RoughVoid",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.RoughVoid": {
+		"Id": "Elle.CuterDogs.RoughVoid",
+			"Texture": "Mods\\Elle.CuterDogs\\RoughVoid",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 0,
+				"Y": 560,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "RoughVoid" },
+	},
+	
+    //Rough Collie
+    {
+      "LogName": "BorzoiBlonde",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiBlonde": {
+		"Id": "Elle.CuterDogs.BorzoiBlonde",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiBlonde",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 16,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiBlonde" },
+	},
+    {
+      "LogName": "BorzoiFawn",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiFawn": {
+		"Id": "Elle.CuterDogs.BorzoiFawn",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiFawn",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 32,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiFawn" },
+	},
+    {
+      "LogName": "BorzoiBrown",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiBrown": {
+		"Id": "Elle.CuterDogs.BorzoiBrown",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiBrown",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 48,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiBrown" },
+	},
+    {
+      "LogName": "BorzoiRed",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiRed": {
+		"Id": "Elle.CuterDogs.BorzoiRed",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiRed",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 64,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiRed" },
+	},
+    {
+      "LogName": "BorzoiMidnight",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiMidnight": {
+		"Id": "Elle.CuterDogs.BorzoiMidnight",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiMidnight",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 80,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiMidnight" },
+	},
+    {
+      "LogName": "BorzoiBlack",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiBlack": {
+		"Id": "Elle.CuterDogs.BorzoiBlack",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiBlack",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 96,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiBlack" },
+	},
+    {
+      "LogName": "BorzoiGrey",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiGrey": {
+		"Id": "Elle.CuterDogs.BorzoiGrey",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiGrey",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 112,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiGrey" },
+	},
+    {
+      "LogName": "BorzoiSilver",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiSilver": {
+		"Id": "Elle.CuterDogs.BorzoiSilver",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiSilver",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 128,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiSilver" },
+	},
+    {
+      "LogName": "BorzoiSolidWhite",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiSolidWhite": {
+		"Id": "Elle.CuterDogs.BorzoiSolidWhite",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiSolidWhite",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 144,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiSolidWhite" },
+	},
+    {
+      "LogName": "BorzoiVoid",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiVoid": {
+		"Id": "Elle.CuterDogs.BorzoiVoid",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiVoid",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 0,
+				"Y": 576,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiVoid" },
+	},
+    {
+      "LogName": "BorzoiSolidBlack",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiSolidBlack": {
+		"Id": "Elle.CuterDogs.BorzoiSolidBlack",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiSolidBlack",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 96,
+				"Y": 544,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiSolidBlack" },
+	},
+    {
+      "LogName": "BorzoiTricolor",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Dog", "Breeds" ],
+      "Entries": {
+      "Elle.CuterDogs.BorzoiTricolor": {
+		"Id": "Elle.CuterDogs.BorzoiTricolor",
+			"Texture": "Mods\\Elle.CuterDogs\\BorzoiTricolor",
+			"IconTexture": "Mods\\Elle.CuterDogs\\icons",
+			"IconSourceRect": {
+				"X": 112,
+				"Y": 544,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Dog Breeds": "BorzoiTricolor" },
 	},
 	
 	
@@ -7650,7 +8550,7 @@
     {
       "LogName": "Load images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterDogs\\Australian, Mods\\Elle.CuterDogs\\AustralianFawn, Mods\\Elle.CuterDogs\\AustralianBrown, Mods\\Elle.CuterDogs\\AustralianRed, Mods\\Elle.CuterDogs\\AustralianBlack, Mods\\Elle.CuterDogs\\AustralianTricolor, Mods\\Elle.CuterDogs\\AustralianVoid, Mods\\Elle.CuterDogs\\Beagle, Mods\\Elle.CuterDogs\\BeagleVoid, Mods\\Elle.CuterDogs\\Beau, Mods\\Elle.CuterDogs\\BeauHarlequin, Mods\\Elle.CuterDogs\\BeauVoid, Mods\\Elle.CuterDogs\\BernardFawn, Mods\\Elle.CuterDogs\\BernardBrown, Mods\\Elle.CuterDogs\\BernardVoid, Mods\\Elle.CuterDogs\\Bernese, Mods\\Elle.CuterDogs\\BerneseVoid, Mods\\Elle.CuterDogs\\BorderBlonde, Mods\\Elle.CuterDogs\\BorderFawn, Mods\\Elle.CuterDogs\\BorderBrown, Mods\\Elle.CuterDogs\\BorderRed, Mods\\Elle.CuterDogs\\BorderMidnight, Mods\\Elle.CuterDogs\\BorderBlack, Mods\\Elle.CuterDogs\\BorderGrey, Mods\\Elle.CuterDogs\\BorderSilver, Mods\\Elle.CuterDogs\\BorderWhite, Mods\\Elle.CuterDogs\\BorderVoid, Mods\\Elle.CuterDogs\\BostonBlonde, Mods\\Elle.CuterDogs\\BostonFawn, Mods\\Elle.CuterDogs\\BostonBrown, Mods\\Elle.CuterDogs\\BostonRed, Mods\\Elle.CuterDogs\\BostonMidnight, Mods\\Elle.CuterDogs\\BostonBlack, Mods\\Elle.CuterDogs\\BostonGrey, Mods\\Elle.CuterDogs\\BostonSilver, Mods\\Elle.CuterDogs\\BostonWhite, Mods\\Elle.CuterDogs\\BostonVoid, Mods\\Elle.CuterDogs\\BoxerBlonde, Mods\\Elle.CuterDogs\\BoxerFawn, Mods\\Elle.CuterDogs\\BoxerBrown, Mods\\Elle.CuterDogs\\BoxerRed, Mods\\Elle.CuterDogs\\BoxerMidnight, Mods\\Elle.CuterDogs\\BoxerBlack, Mods\\Elle.CuterDogs\\BoxerGrey, Mods\\Elle.CuterDogs\\BoxerSilver, Mods\\Elle.CuterDogs\\BoxerWhite, Mods\\Elle.CuterDogs\\BoxerVoid, Mods\\Elle.CuterDogs\\BulldogBlonde, Mods\\Elle.CuterDogs\\BulldogFawn, Mods\\Elle.CuterDogs\\BulldogBrown, Mods\\Elle.CuterDogs\\BulldogRed, Mods\\Elle.CuterDogs\\BulldogMidnight, Mods\\Elle.CuterDogs\\BulldogBlack, Mods\\Elle.CuterDogs\\BulldogGrey, Mods\\Elle.CuterDogs\\BulldogSilver, Mods\\Elle.CuterDogs\\BulldogWhite, Mods\\Elle.CuterDogs\\BulldogVoid, Mods\\Elle.CuterDogs\\BullyBicolorBlonde, Mods\\Elle.CuterDogs\\BullyBicolorFawn, Mods\\Elle.CuterDogs\\BullyBicolorBrown, Mods\\Elle.CuterDogs\\BullyBicolorRed, Mods\\Elle.CuterDogs\\BullyBicolorMidnight, Mods\\Elle.CuterDogs\\BullyBicolorBlack, Mods\\Elle.CuterDogs\\BullyBicolorGrey, Mods\\Elle.CuterDogs\\BullyBicolorSilver, Mods\\Elle.CuterDogs\\BullySolidCream, Mods\\Elle.CuterDogs\\BullySolidBlonde, Mods\\Elle.CuterDogs\\BullySolidFawn, Mods\\Elle.CuterDogs\\BullySolidBrown, Mods\\Elle.CuterDogs\\BullySolidRed, Mods\\Elle.CuterDogs\\BullySolidMidnight, Mods\\Elle.CuterDogs\\BullySolidBlack, Mods\\Elle.CuterDogs\\BullySolidGrey, Mods\\Elle.CuterDogs\\BullySolidSilver, Mods\\Elle.CuterDogs\\BullySolidWhite, Mods\\Elle.CuterDogs\\BullySpot, Mods\\Elle.CuterDogs\\BullyTricolor, Mods\\Elle.CuterDogs\\BullyVoid, Mods\\Elle.CuterDogs\\CharlesBicolorBlonde, Mods\\Elle.CuterDogs\\CharlesBicolorFawn, Mods\\Elle.CuterDogs\\CharlesBicolorBrown, Mods\\Elle.CuterDogs\\CharlesBicolorRed, Mods\\Elle.CuterDogs\\CharlesBicolorMidnight, Mods\\Elle.CuterDogs\\CharlesBicolorBlack, Mods\\Elle.CuterDogs\\CharlesBicolorGrey, Mods\\Elle.CuterDogs\\CharlesBicolorSilver, Mods\\Elle.CuterDogs\\CharlesSolidCream, Mods\\Elle.CuterDogs\\CharlesSolidBlonde, Mods\\Elle.CuterDogs\\CharlesSolidFawn, Mods\\Elle.CuterDogs\\CharlesSolidBrown, Mods\\Elle.CuterDogs\\CharlesSolidRed, Mods\\Elle.CuterDogs\\CharlesSolidMidnight, Mods\\Elle.CuterDogs\\CharlesSolidBlack, Mods\\Elle.CuterDogs\\CharlesSolidGrey, Mods\\Elle.CuterDogs\\CharlesSolidSilver, Mods\\Elle.CuterDogs\\CharlesSolidWhite, Mods\\Elle.CuterDogs\\CharlesVoid, Mods\\Elle.CuterDogs\\CharlesTricolor, Mods\\Elle.CuterDogs\\ChowCream, Mods\\Elle.CuterDogs\\ChowBlonde, Mods\\Elle.CuterDogs\\ChowFawn, Mods\\Elle.CuterDogs\\ChowBrown, Mods\\Elle.CuterDogs\\ChowRed, Mods\\Elle.CuterDogs\\ChowMidnight, Mods\\Elle.CuterDogs\\ChowBlack, Mods\\Elle.CuterDogs\\ChowGrey, Mods\\Elle.CuterDogs\\ChowSilver, Mods\\Elle.CuterDogs\\ChowWhite, Mods\\Elle.CuterDogs\\ChowVoid, Mods\\Elle.CuterDogs\\Cocker, Mods\\Elle.CuterDogs\\CockerVanilla, Mods\\Elle.CuterDogs\\CockerVoid, Mods\\Elle.CuterDogs\\CorgiBlonde, Mods\\Elle.CuterDogs\\CorgiFawn, Mods\\Elle.CuterDogs\\CorgiBrown, Mods\\Elle.CuterDogs\\CorgiRed, Mods\\Elle.CuterDogs\\CorgiMidnight, Mods\\Elle.CuterDogs\\CorgiBlack, Mods\\Elle.CuterDogs\\CorgiGrey, Mods\\Elle.CuterDogs\\CorgiSilver, Mods\\Elle.CuterDogs\\CorgiWhite, Mods\\Elle.CuterDogs\\CorgiVoid, Mods\\Elle.CuterDogs\\CorgiMerle, Mods\\Elle.CuterDogs\\CorgiTricolor, Mods\\Elle.CuterDogs\\CorgiTricolor2,  Mods\\Elle.CuterDogs\\Dachshund, Mods\\Elle.CuterDogs\\DachshundDapple, Mods\\Elle.CuterDogs\\DachshundVoid, Mods\\Elle.CuterDogs\\DalmatianBlonde, Mods\\Elle.CuterDogs\\DalmatianFawn, Mods\\Elle.CuterDogs\\DalmatianBrown, Mods\\Elle.CuterDogs\\DalmatianRed, Mods\\Elle.CuterDogs\\DalmatianMidnight, Mods\\Elle.CuterDogs\\DalmatianBlack, Mods\\Elle.CuterDogs\\DalmatianGrey, Mods\\Elle.CuterDogs\\DalmatianSilver, Mods\\Elle.CuterDogs\\DalmatianVoid, Mods\\Elle.CuterDogs\\DaneCream, Mods\\Elle.CuterDogs\\DaneBlonde, Mods\\Elle.CuterDogs\\DaneFawn, Mods\\Elle.CuterDogs\\DaneBrown, Mods\\Elle.CuterDogs\\DaneRed, Mods\\Elle.CuterDogs\\DaneMidnight, Mods\\Elle.CuterDogs\\DaneBlack, Mods\\Elle.CuterDogs\\DaneGrey, Mods\\Elle.CuterDogs\\DaneSilver, Mods\\Elle.CuterDogs\\DaneWhite, Mods\\Elle.CuterDogs\\DaneVoid, Mods\\Elle.CuterDogs\\DaneMantle, Mods\\Elle.CuterDogs\\Doberman, Mods\\Elle.CuterDogs\\DobermanHarlequin, Mods\\Elle.CuterDogs\\DobermanVoid, Mods\\Elle.CuterDogs\\Foxhound, Mods\\Elle.CuterDogs\\FoxhoundVoid, Mods\\Elle.CuterDogs\\FrenchBlonde, Mods\\Elle.CuterDogs\\FrenchFawn, Mods\\Elle.CuterDogs\\FrenchBrown, Mods\\Elle.CuterDogs\\FrenchRed, Mods\\Elle.CuterDogs\\FrenchMidnight, Mods\\Elle.CuterDogs\\FrenchBlack, Mods\\Elle.CuterDogs\\FrenchGrey, Mods\\Elle.CuterDogs\\FrenchSilver, Mods\\Elle.CuterDogs\\FrenchWhite, Mods\\Elle.CuterDogs\\FrenchVoid, Mods\\Elle.CuterDogs\\GermanFawn, Mods\\Elle.CuterDogs\\GermanBrown, Mods\\Elle.CuterDogs\\GermanVanilla, Mods\\Elle.CuterDogs\\GermanVoid, Mods\\Elle.CuterDogs\\GermanSolidCream, Mods\\Elle.CuterDogs\\GermanSolidBlonde, Mods\\Elle.CuterDogs\\GermanSolidFawn, Mods\\Elle.CuterDogs\\GermanSolidBrown, Mods\\Elle.CuterDogs\\GermanSolidRed, Mods\\Elle.CuterDogs\\GermanSolidMidnight, Mods\\Elle.CuterDogs\\GermanSolidBlack, Mods\\Elle.CuterDogs\\GermanSolidGrey, Mods\\Elle.CuterDogs\\GermanSolidSilver, Mods\\Elle.CuterDogs\\GermanSolidWhite,  Mods\\Elle.CuterDogs\\GermanPanda, Mods\\Elle.CuterDogs\\Golden, Mods\\Elle.CuterDogs\\GoldenVoid, Mods\\Elle.CuterDogs\\GreyhoundBicolorBlonde, Mods\\Elle.CuterDogs\\GreyhoundBicolorFawn, Mods\\Elle.CuterDogs\\GreyhoundBicolorBrown, Mods\\Elle.CuterDogs\\GreyhoundBicolorRed, Mods\\Elle.CuterDogs\\GreyhoundBicolorMidnight, Mods\\Elle.CuterDogs\\GreyhoundBicolorBlack, Mods\\Elle.CuterDogs\\GreyhoundBicolorGrey, Mods\\Elle.CuterDogs\\GreyhoundBicolorSilver, Mods\\Elle.CuterDogs\\GreyhoundSolidCream, Mods\\Elle.CuterDogs\\GreyhoundSolidBlonde, Mods\\Elle.CuterDogs\\GreyhoundSolidFawn, Mods\\Elle.CuterDogs\\GreyhoundSolidBrown, Mods\\Elle.CuterDogs\\GreyhoundSolidRed, Mods\\Elle.CuterDogs\\GreyhoundSolidMidnight, Mods\\Elle.CuterDogs\\GreyhoundSolidBlack, Mods\\Elle.CuterDogs\\GreyhoundSolidGrey, Mods\\Elle.CuterDogs\\GreyhoundSolidSilver, Mods\\Elle.CuterDogs\\GreyhoundSolidWhite, Mods\\Elle.CuterDogs\\GreyhoundVoid, Mods\\Elle.CuterDogs\\HuskyBlonde, Mods\\Elle.CuterDogs\\HuskyFawn, Mods\\Elle.CuterDogs\\HuskyBrown, Mods\\Elle.CuterDogs\\HuskyRed, Mods\\Elle.CuterDogs\\HuskyMidnight, Mods\\Elle.CuterDogs\\HuskyBlack, Mods\\Elle.CuterDogs\\HuskyGrey, Mods\\Elle.CuterDogs\\HuskySilver, Mods\\Elle.CuterDogs\\HuskyVoid, Mods\\Elle.CuterDogs\\KeeshondBlack, Mods\\Elle.CuterDogs\\KeeshondGrey, Mods\\Elle.CuterDogs\\KeeshondSilver, Mods\\Elle.CuterDogs\\KeeshondVoid, Mods\\Elle.CuterDogs\\Lab, Mods\\Elle.CuterDogs\\LabVanilla, Mods\\Elle.CuterDogs\\LabVoid, Mods\\Elle.CuterDogs\\LabBlack, Mods\\Elle.CuterDogs\\MalamuteBlonde, Mods\\Elle.CuterDogs\\MalamuteFawn, Mods\\Elle.CuterDogs\\MalamuteBrown, Mods\\Elle.CuterDogs\\MalamuteRed, Mods\\Elle.CuterDogs\\MalamuteMidnight, Mods\\Elle.CuterDogs\\MalamuteBlack, Mods\\Elle.CuterDogs\\MalamuteGrey, Mods\\Elle.CuterDogs\\MalamuteSilver, Mods\\Elle.CuterDogs\\MalamuteVoid, Mods\\Elle.CuterDogs\\NewfyRed, Mods\\Elle.CuterDogs\\NewfyMidnight, Mods\\Elle.CuterDogs\\NewfyBlack, Mods\\Elle.CuterDogs\\NewfyGrey, Mods\\Elle.CuterDogs\\NewfyLandseer, Mods\\Elle.CuterDogs\\NewfyVoid, Mods\\Elle.CuterDogs\\PitBlonde, Mods\\Elle.CuterDogs\\PitFawn, Mods\\Elle.CuterDogs\\PitBrown, Mods\\Elle.CuterDogs\\PitRed, Mods\\Elle.CuterDogs\\PitMidnight, Mods\\Elle.CuterDogs\\PitBlack, Mods\\Elle.CuterDogs\\PitGrey, Mods\\Elle.CuterDogs\\PitSilver, Mods\\Elle.CuterDogs\\PitWhite, Mods\\Elle.CuterDogs\\PitVoid, Mods\\Elle.CuterDogs\\PoodleCream, Mods\\Elle.CuterDogs\\PoodleBlonde, Mods\\Elle.CuterDogs\\PoodleFawn, Mods\\Elle.CuterDogs\\PoodleBrown, Mods\\Elle.CuterDogs\\PoodleRed, Mods\\Elle.CuterDogs\\PoodleMidnight, Mods\\Elle.CuterDogs\\PoodleBlack, Mods\\Elle.CuterDogs\\PoodleGrey, Mods\\Elle.CuterDogs\\PoodleSilver, Mods\\Elle.CuterDogs\\PoodleWhite, Mods\\Elle.CuterDogs\\PoodleVoid, Mods\\Elle.CuterDogs\\Pug, Mods\\Elle.CuterDogs\\PugVoid, Mods\\Elle.CuterDogs\\PyreneesBlonde, Mods\\Elle.CuterDogs\\PyreneesCream, Mods\\Elle.CuterDogs\\PyreneesWhite, Mods\\Elle.CuterDogs\\PyreneesVoid, Mods\\Elle.CuterDogs\\Rott, Mods\\Elle.CuterDogs\\RottVoid, Mods\\Elle.CuterDogs\\Samoyed, Mods\\Elle.CuterDogs\\SamoyedVoid, Mods\\Elle.CuterDogs\\SchnauzerBlack, Mods\\Elle.CuterDogs\\SchnauzerBlackSolid, Mods\\Elle.CuterDogs\\SchnauzerGrey, Mods\\Elle.CuterDogs\\SchnauzerSilver, Mods\\Elle.CuterDogs\\SchnauzerVoid, Mods\\Elle.CuterDogs\\ShibaBlonde, Mods\\Elle.CuterDogs\\ShibaFawn, Mods\\Elle.CuterDogs\\ShibaBrown, Mods\\Elle.CuterDogs\\ShibaRed, Mods\\Elle.CuterDogs\\ShibaMidnight, Mods\\Elle.CuterDogs\\ShibaBlack, Mods\\Elle.CuterDogs\\ShibaGrey, Mods\\Elle.CuterDogs\\ShibaSilver, Mods\\Elle.CuterDogs\\ShibaWhite, Mods\\Elle.CuterDogs\\ShibaVoid, Mods\\Elle.CuterDogs\\ShihTzuBicolorBlonde, Mods\\Elle.CuterDogs\\ShihTzuBicolorFawn, Mods\\Elle.CuterDogs\\ShihTzuBicolorBrown, Mods\\Elle.CuterDogs\\ShihTzuBicolorRed, Mods\\Elle.CuterDogs\\ShihTzuBicolorMidnight, Mods\\Elle.CuterDogs\\ShihTzuBicolorBlack, Mods\\Elle.CuterDogs\\ShihTzuBicolorGrey, Mods\\Elle.CuterDogs\\ShihTzuBicolorSilver, Mods\\Elle.CuterDogs\\ShihTzuSolidCream, Mods\\Elle.CuterDogs\\ShihTzuSolidBlonde, Mods\\Elle.CuterDogs\\ShihTzuSolidFawn, Mods\\Elle.CuterDogs\\ShihTzuSolidBrown, Mods\\Elle.CuterDogs\\ShihTzuSolidRed, Mods\\Elle.CuterDogs\\ShihTzuSolidMidnight, Mods\\Elle.CuterDogs\\ShihTzuSolidBlack, Mods\\Elle.CuterDogs\\ShihTzuSolidGrey, Mods\\Elle.CuterDogs\\ShihTzuSolidSilver, Mods\\Elle.CuterDogs\\ShihTzuSolidWhite, Mods\\Elle.CuterDogs\\ShihTzuVoid, Mods\\Elle.CuterDogs\\SmoothBicolorBlonde, Mods\\Elle.CuterDogs\\SmoothBicolorFawn, Mods\\Elle.CuterDogs\\SmoothBicolorBrown, Mods\\Elle.CuterDogs\\SmoothBicolorRed, Mods\\Elle.CuterDogs\\SmoothBicolorMidnight, Mods\\Elle.CuterDogs\\SmoothBicolorBlack, Mods\\Elle.CuterDogs\\SmoothBicolorGrey, Mods\\Elle.CuterDogs\\SmoothBicolorSilver, Mods\\Elle.CuterDogs\\SmoothSolidCream, Mods\\Elle.CuterDogs\\SmoothSolidBlonde, Mods\\Elle.CuterDogs\\SmoothSolidFawn, Mods\\Elle.CuterDogs\\SmoothSolidBrown, Mods\\Elle.CuterDogs\\SmoothSolidRed, Mods\\Elle.CuterDogs\\SmoothSolidMidnight, Mods\\Elle.CuterDogs\\SmoothSolidBlack, Mods\\Elle.CuterDogs\\SmoothSolidGrey, Mods\\Elle.CuterDogs\\SmoothSolidSilver, Mods\\Elle.CuterDogs\\SmoothSolidWhite, Mods\\Elle.CuterDogs\\SmoothVoid, Mods\\Elle.CuterDogs\\SpringerBicolorBlonde, Mods\\Elle.CuterDogs\\SpringerBicolorFawn, Mods\\Elle.CuterDogs\\SpringerBicolorBrown, Mods\\Elle.CuterDogs\\SpringerBicolorRed, Mods\\Elle.CuterDogs\\SpringerBicolorMidnight, Mods\\Elle.CuterDogs\\SpringerBicolorBlack, Mods\\Elle.CuterDogs\\SpringerBicolorGrey, Mods\\Elle.CuterDogs\\SpringerBicolorSilver, Mods\\Elle.CuterDogs\\SpringerSolidCream, Mods\\Elle.CuterDogs\\SpringerSolidBlonde, Mods\\Elle.CuterDogs\\SpringerSolidFawn, Mods\\Elle.CuterDogs\\SpringerSolidBrown, Mods\\Elle.CuterDogs\\SpringerSolidRed, Mods\\Elle.CuterDogs\\SpringerSolidMidnight, Mods\\Elle.CuterDogs\\SpringerSolidBlack, Mods\\Elle.CuterDogs\\SpringerSolidGrey, Mods\\Elle.CuterDogs\\SpringerSolidSilver, Mods\\Elle.CuterDogs\\SpringerSolidWhite, Mods\\Elle.CuterDogs\\SpringerVoid, Mods\\Elle.CuterDogs\\WeimaranerBlue, Mods\\Elle.CuterDogs\\WeimaranerGrey, Mods\\Elle.CuterDogs\\WeimaranerSilver, Mods\\Elle.CuterDogs\\WeimaranerTaupe, Mods\\Elle.CuterDogs\\WeimaranerVoid, Mods\\Elle.CuterDogs\\Westie, Mods\\Elle.CuterDogs\\WestieVoid,  Mods\\Elle.CuterDogs\\icons",
+      "Target": "Mods\\Elle.CuterDogs\\Australian, Mods\\Elle.CuterDogs\\AustralianFawn, Mods\\Elle.CuterDogs\\AustralianBrown, Mods\\Elle.CuterDogs\\AustralianRed, Mods\\Elle.CuterDogs\\AustralianBlack, Mods\\Elle.CuterDogs\\AustralianTricolor, Mods\\Elle.CuterDogs\\AustralianVoid, Mods\\Elle.CuterDogs\\Beagle, Mods\\Elle.CuterDogs\\BeagleVoid, Mods\\Elle.CuterDogs\\Beau, Mods\\Elle.CuterDogs\\BeauHarlequin, Mods\\Elle.CuterDogs\\BeauVoid, Mods\\Elle.CuterDogs\\BernardFawn, Mods\\Elle.CuterDogs\\BernardBrown, Mods\\Elle.CuterDogs\\BernardVoid, Mods\\Elle.CuterDogs\\Bernese, Mods\\Elle.CuterDogs\\BerneseVoid, Mods\\Elle.CuterDogs\\BorderBlonde, Mods\\Elle.CuterDogs\\BorderFawn, Mods\\Elle.CuterDogs\\BorderBrown, Mods\\Elle.CuterDogs\\BorderRed, Mods\\Elle.CuterDogs\\BorderMidnight, Mods\\Elle.CuterDogs\\BorderBlack, Mods\\Elle.CuterDogs\\BorderGrey, Mods\\Elle.CuterDogs\\BorderSilver, Mods\\Elle.CuterDogs\\BorderWhite, Mods\\Elle.CuterDogs\\BorderVoid, Mods\\Elle.CuterDogs\\BostonBlonde, Mods\\Elle.CuterDogs\\BostonFawn, Mods\\Elle.CuterDogs\\BostonBrown, Mods\\Elle.CuterDogs\\BostonRed, Mods\\Elle.CuterDogs\\BostonMidnight, Mods\\Elle.CuterDogs\\BostonBlack, Mods\\Elle.CuterDogs\\BostonGrey, Mods\\Elle.CuterDogs\\BostonSilver, Mods\\Elle.CuterDogs\\BostonWhite, Mods\\Elle.CuterDogs\\BostonVoid, Mods\\Elle.CuterDogs\\BoxerBlonde, Mods\\Elle.CuterDogs\\BoxerFawn, Mods\\Elle.CuterDogs\\BoxerBrown, Mods\\Elle.CuterDogs\\BoxerRed, Mods\\Elle.CuterDogs\\BoxerMidnight, Mods\\Elle.CuterDogs\\BoxerBlack, Mods\\Elle.CuterDogs\\BoxerGrey, Mods\\Elle.CuterDogs\\BoxerSilver, Mods\\Elle.CuterDogs\\BoxerWhite, Mods\\Elle.CuterDogs\\BoxerVoid, Mods\\Elle.CuterDogs\\BulldogBlonde, Mods\\Elle.CuterDogs\\BulldogFawn, Mods\\Elle.CuterDogs\\BulldogBrown, Mods\\Elle.CuterDogs\\BulldogRed, Mods\\Elle.CuterDogs\\BulldogMidnight, Mods\\Elle.CuterDogs\\BulldogBlack, Mods\\Elle.CuterDogs\\BulldogGrey, Mods\\Elle.CuterDogs\\BulldogSilver, Mods\\Elle.CuterDogs\\BulldogWhite, Mods\\Elle.CuterDogs\\BulldogVoid, Mods\\Elle.CuterDogs\\BullyBicolorBlonde, Mods\\Elle.CuterDogs\\BullyBicolorFawn, Mods\\Elle.CuterDogs\\BullyBicolorBrown, Mods\\Elle.CuterDogs\\BullyBicolorRed, Mods\\Elle.CuterDogs\\BullyBicolorMidnight, Mods\\Elle.CuterDogs\\BullyBicolorBlack, Mods\\Elle.CuterDogs\\BullyBicolorGrey, Mods\\Elle.CuterDogs\\BullyBicolorSilver, Mods\\Elle.CuterDogs\\BullySolidCream, Mods\\Elle.CuterDogs\\BullySolidBlonde, Mods\\Elle.CuterDogs\\BullySolidFawn, Mods\\Elle.CuterDogs\\BullySolidBrown, Mods\\Elle.CuterDogs\\BullySolidRed, Mods\\Elle.CuterDogs\\BullySolidMidnight, Mods\\Elle.CuterDogs\\BullySolidBlack, Mods\\Elle.CuterDogs\\BullySolidGrey, Mods\\Elle.CuterDogs\\BullySolidSilver, Mods\\Elle.CuterDogs\\BullySolidWhite, Mods\\Elle.CuterDogs\\BullySpot, Mods\\Elle.CuterDogs\\BullyTricolor, Mods\\Elle.CuterDogs\\BullyVoid, Mods\\Elle.CuterDogs\\CharlesBicolorBlonde, Mods\\Elle.CuterDogs\\CharlesBicolorFawn, Mods\\Elle.CuterDogs\\CharlesBicolorBrown, Mods\\Elle.CuterDogs\\CharlesBicolorRed, Mods\\Elle.CuterDogs\\CharlesBicolorMidnight, Mods\\Elle.CuterDogs\\CharlesBicolorBlack, Mods\\Elle.CuterDogs\\CharlesBicolorGrey, Mods\\Elle.CuterDogs\\CharlesBicolorSilver, Mods\\Elle.CuterDogs\\CharlesSolidCream, Mods\\Elle.CuterDogs\\CharlesSolidBlonde, Mods\\Elle.CuterDogs\\CharlesSolidFawn, Mods\\Elle.CuterDogs\\CharlesSolidBrown, Mods\\Elle.CuterDogs\\CharlesSolidRed, Mods\\Elle.CuterDogs\\CharlesSolidMidnight, Mods\\Elle.CuterDogs\\CharlesSolidBlack, Mods\\Elle.CuterDogs\\CharlesSolidGrey, Mods\\Elle.CuterDogs\\CharlesSolidSilver, Mods\\Elle.CuterDogs\\CharlesSolidWhite, Mods\\Elle.CuterDogs\\CharlesVoid, Mods\\Elle.CuterDogs\\CharlesTricolor, Mods\\Elle.CuterDogs\\ChowCream, Mods\\Elle.CuterDogs\\ChowBlonde, Mods\\Elle.CuterDogs\\ChowFawn, Mods\\Elle.CuterDogs\\ChowBrown, Mods\\Elle.CuterDogs\\ChowRed, Mods\\Elle.CuterDogs\\ChowMidnight, Mods\\Elle.CuterDogs\\ChowBlack, Mods\\Elle.CuterDogs\\ChowGrey, Mods\\Elle.CuterDogs\\ChowSilver, Mods\\Elle.CuterDogs\\ChowWhite, Mods\\Elle.CuterDogs\\ChowVoid, Mods\\Elle.CuterDogs\\Cocker, Mods\\Elle.CuterDogs\\CockerVanilla, Mods\\Elle.CuterDogs\\CockerVoid, Mods\\Elle.CuterDogs\\CorgiBlonde, Mods\\Elle.CuterDogs\\CorgiFawn, Mods\\Elle.CuterDogs\\CorgiBrown, Mods\\Elle.CuterDogs\\CorgiRed, Mods\\Elle.CuterDogs\\CorgiMidnight, Mods\\Elle.CuterDogs\\CorgiBlack, Mods\\Elle.CuterDogs\\CorgiGrey, Mods\\Elle.CuterDogs\\CorgiSilver, Mods\\Elle.CuterDogs\\CorgiWhite, Mods\\Elle.CuterDogs\\CorgiVoid, Mods\\Elle.CuterDogs\\CorgiMerle, Mods\\Elle.CuterDogs\\CorgiTricolor, Mods\\Elle.CuterDogs\\CorgiTricolor2,  Mods\\Elle.CuterDogs\\Dachshund, Mods\\Elle.CuterDogs\\DachshundDapple, Mods\\Elle.CuterDogs\\DachshundVoid, Mods\\Elle.CuterDogs\\DalmatianBlonde, Mods\\Elle.CuterDogs\\DalmatianFawn, Mods\\Elle.CuterDogs\\DalmatianBrown, Mods\\Elle.CuterDogs\\DalmatianRed, Mods\\Elle.CuterDogs\\DalmatianMidnight, Mods\\Elle.CuterDogs\\DalmatianBlack, Mods\\Elle.CuterDogs\\DalmatianGrey, Mods\\Elle.CuterDogs\\DalmatianSilver, Mods\\Elle.CuterDogs\\DalmatianVoid, Mods\\Elle.CuterDogs\\DaneCream, Mods\\Elle.CuterDogs\\DaneBlonde, Mods\\Elle.CuterDogs\\DaneFawn, Mods\\Elle.CuterDogs\\DaneBrown, Mods\\Elle.CuterDogs\\DaneRed, Mods\\Elle.CuterDogs\\DaneMidnight, Mods\\Elle.CuterDogs\\DaneBlack, Mods\\Elle.CuterDogs\\DaneGrey, Mods\\Elle.CuterDogs\\DaneSilver, Mods\\Elle.CuterDogs\\DaneWhite, Mods\\Elle.CuterDogs\\DaneVoid, Mods\\Elle.CuterDogs\\DaneMantle, Mods\\Elle.CuterDogs\\Doberman, Mods\\Elle.CuterDogs\\DobermanHarlequin, Mods\\Elle.CuterDogs\\DobermanVoid, Mods\\Elle.CuterDogs\\Foxhound, Mods\\Elle.CuterDogs\\FoxhoundVoid, Mods\\Elle.CuterDogs\\FrenchBlonde, Mods\\Elle.CuterDogs\\FrenchFawn, Mods\\Elle.CuterDogs\\FrenchBrown, Mods\\Elle.CuterDogs\\FrenchRed, Mods\\Elle.CuterDogs\\FrenchMidnight, Mods\\Elle.CuterDogs\\FrenchBlack, Mods\\Elle.CuterDogs\\FrenchGrey, Mods\\Elle.CuterDogs\\FrenchSilver, Mods\\Elle.CuterDogs\\FrenchWhite, Mods\\Elle.CuterDogs\\FrenchVoid, Mods\\Elle.CuterDogs\\GermanFawn, Mods\\Elle.CuterDogs\\GermanBrown, Mods\\Elle.CuterDogs\\GermanVanilla, Mods\\Elle.CuterDogs\\GermanVoid, Mods\\Elle.CuterDogs\\GermanSolidCream, Mods\\Elle.CuterDogs\\GermanSolidBlonde, Mods\\Elle.CuterDogs\\GermanSolidFawn, Mods\\Elle.CuterDogs\\GermanSolidBrown, Mods\\Elle.CuterDogs\\GermanSolidRed, Mods\\Elle.CuterDogs\\GermanSolidMidnight, Mods\\Elle.CuterDogs\\GermanSolidBlack, Mods\\Elle.CuterDogs\\GermanSolidGrey, Mods\\Elle.CuterDogs\\GermanSolidSilver, Mods\\Elle.CuterDogs\\GermanSolidWhite,  Mods\\Elle.CuterDogs\\GermanPanda, Mods\\Elle.CuterDogs\\Golden, Mods\\Elle.CuterDogs\\GoldenVoid, Mods\\Elle.CuterDogs\\GreyhoundBicolorBlonde, Mods\\Elle.CuterDogs\\GreyhoundBicolorFawn, Mods\\Elle.CuterDogs\\GreyhoundBicolorBrown, Mods\\Elle.CuterDogs\\GreyhoundBicolorRed, Mods\\Elle.CuterDogs\\GreyhoundBicolorMidnight, Mods\\Elle.CuterDogs\\GreyhoundBicolorBlack, Mods\\Elle.CuterDogs\\GreyhoundBicolorGrey, Mods\\Elle.CuterDogs\\GreyhoundBicolorSilver, Mods\\Elle.CuterDogs\\GreyhoundSolidCream, Mods\\Elle.CuterDogs\\GreyhoundSolidBlonde, Mods\\Elle.CuterDogs\\GreyhoundSolidFawn, Mods\\Elle.CuterDogs\\GreyhoundSolidBrown, Mods\\Elle.CuterDogs\\GreyhoundSolidRed, Mods\\Elle.CuterDogs\\GreyhoundSolidMidnight, Mods\\Elle.CuterDogs\\GreyhoundSolidBlack, Mods\\Elle.CuterDogs\\GreyhoundSolidGrey, Mods\\Elle.CuterDogs\\GreyhoundSolidSilver, Mods\\Elle.CuterDogs\\GreyhoundSolidWhite, Mods\\Elle.CuterDogs\\GreyhoundVoid, Mods\\Elle.CuterDogs\\HuskyBlonde, Mods\\Elle.CuterDogs\\HuskyFawn, Mods\\Elle.CuterDogs\\HuskyBrown, Mods\\Elle.CuterDogs\\HuskyRed, Mods\\Elle.CuterDogs\\HuskyMidnight, Mods\\Elle.CuterDogs\\HuskyBlack, Mods\\Elle.CuterDogs\\HuskyGrey, Mods\\Elle.CuterDogs\\HuskySilver, Mods\\Elle.CuterDogs\\HuskyVoid, Mods\\Elle.CuterDogs\\KeeshondBlack, Mods\\Elle.CuterDogs\\KeeshondGrey, Mods\\Elle.CuterDogs\\KeeshondSilver, Mods\\Elle.CuterDogs\\KeeshondVoid, Mods\\Elle.CuterDogs\\Lab, Mods\\Elle.CuterDogs\\LabVanilla, Mods\\Elle.CuterDogs\\LabVoid, Mods\\Elle.CuterDogs\\LabBlack, Mods\\Elle.CuterDogs\\MalamuteBlonde, Mods\\Elle.CuterDogs\\MalamuteFawn, Mods\\Elle.CuterDogs\\MalamuteBrown, Mods\\Elle.CuterDogs\\MalamuteRed, Mods\\Elle.CuterDogs\\MalamuteMidnight, Mods\\Elle.CuterDogs\\MalamuteBlack, Mods\\Elle.CuterDogs\\MalamuteGrey, Mods\\Elle.CuterDogs\\MalamuteSilver, Mods\\Elle.CuterDogs\\MalamuteVoid, Mods\\Elle.CuterDogs\\NewfyRed, Mods\\Elle.CuterDogs\\NewfyMidnight, Mods\\Elle.CuterDogs\\NewfyBlack, Mods\\Elle.CuterDogs\\NewfyGrey, Mods\\Elle.CuterDogs\\NewfyLandseer, Mods\\Elle.CuterDogs\\NewfyVoid, Mods\\Elle.CuterDogs\\PitBlonde, Mods\\Elle.CuterDogs\\PitFawn, Mods\\Elle.CuterDogs\\PitBrown, Mods\\Elle.CuterDogs\\PitRed, Mods\\Elle.CuterDogs\\PitMidnight, Mods\\Elle.CuterDogs\\PitBlack, Mods\\Elle.CuterDogs\\PitGrey, Mods\\Elle.CuterDogs\\PitSilver, Mods\\Elle.CuterDogs\\PitWhite, Mods\\Elle.CuterDogs\\PitVoid, Mods\\Elle.CuterDogs\\PoodleCream, Mods\\Elle.CuterDogs\\PoodleBlonde, Mods\\Elle.CuterDogs\\PoodleFawn, Mods\\Elle.CuterDogs\\PoodleBrown, Mods\\Elle.CuterDogs\\PoodleRed, Mods\\Elle.CuterDogs\\PoodleMidnight, Mods\\Elle.CuterDogs\\PoodleBlack, Mods\\Elle.CuterDogs\\PoodleGrey, Mods\\Elle.CuterDogs\\PoodleSilver, Mods\\Elle.CuterDogs\\PoodleWhite, Mods\\Elle.CuterDogs\\PoodleVoid, Mods\\Elle.CuterDogs\\Pug, Mods\\Elle.CuterDogs\\PugVoid, Mods\\Elle.CuterDogs\\PyreneesBlonde, Mods\\Elle.CuterDogs\\PyreneesCream, Mods\\Elle.CuterDogs\\PyreneesWhite, Mods\\Elle.CuterDogs\\PyreneesVoid, Mods\\Elle.CuterDogs\\Rott, Mods\\Elle.CuterDogs\\RottVoid, Mods\\Elle.CuterDogs\\Samoyed, Mods\\Elle.CuterDogs\\SamoyedVoid, Mods\\Elle.CuterDogs\\SchnauzerBlack, Mods\\Elle.CuterDogs\\SchnauzerBlackSolid, Mods\\Elle.CuterDogs\\SchnauzerGrey, Mods\\Elle.CuterDogs\\SchnauzerSilver, Mods\\Elle.CuterDogs\\SchnauzerVoid, Mods\\Elle.CuterDogs\\ShibaBlonde, Mods\\Elle.CuterDogs\\ShibaFawn, Mods\\Elle.CuterDogs\\ShibaBrown, Mods\\Elle.CuterDogs\\ShibaRed, Mods\\Elle.CuterDogs\\ShibaMidnight, Mods\\Elle.CuterDogs\\ShibaBlack, Mods\\Elle.CuterDogs\\ShibaGrey, Mods\\Elle.CuterDogs\\ShibaSilver, Mods\\Elle.CuterDogs\\ShibaWhite, Mods\\Elle.CuterDogs\\ShibaVoid, Mods\\Elle.CuterDogs\\ShihTzuBicolorBlonde, Mods\\Elle.CuterDogs\\ShihTzuBicolorFawn, Mods\\Elle.CuterDogs\\ShihTzuBicolorBrown, Mods\\Elle.CuterDogs\\ShihTzuBicolorRed, Mods\\Elle.CuterDogs\\ShihTzuBicolorMidnight, Mods\\Elle.CuterDogs\\ShihTzuBicolorBlack, Mods\\Elle.CuterDogs\\ShihTzuBicolorGrey, Mods\\Elle.CuterDogs\\ShihTzuBicolorSilver, Mods\\Elle.CuterDogs\\ShihTzuSolidCream, Mods\\Elle.CuterDogs\\ShihTzuSolidBlonde, Mods\\Elle.CuterDogs\\ShihTzuSolidFawn, Mods\\Elle.CuterDogs\\ShihTzuSolidBrown, Mods\\Elle.CuterDogs\\ShihTzuSolidRed, Mods\\Elle.CuterDogs\\ShihTzuSolidMidnight, Mods\\Elle.CuterDogs\\ShihTzuSolidBlack, Mods\\Elle.CuterDogs\\ShihTzuSolidGrey, Mods\\Elle.CuterDogs\\ShihTzuSolidSilver, Mods\\Elle.CuterDogs\\ShihTzuSolidWhite, Mods\\Elle.CuterDogs\\ShihTzuVoid, Mods\\Elle.CuterDogs\\SmoothBicolorBlonde, Mods\\Elle.CuterDogs\\SmoothBicolorFawn, Mods\\Elle.CuterDogs\\SmoothBicolorBrown, Mods\\Elle.CuterDogs\\SmoothBicolorRed, Mods\\Elle.CuterDogs\\SmoothBicolorMidnight, Mods\\Elle.CuterDogs\\SmoothBicolorBlack, Mods\\Elle.CuterDogs\\SmoothBicolorGrey, Mods\\Elle.CuterDogs\\SmoothBicolorSilver, Mods\\Elle.CuterDogs\\SmoothSolidCream, Mods\\Elle.CuterDogs\\SmoothSolidBlonde, Mods\\Elle.CuterDogs\\SmoothSolidFawn, Mods\\Elle.CuterDogs\\SmoothSolidBrown, Mods\\Elle.CuterDogs\\SmoothSolidRed, Mods\\Elle.CuterDogs\\SmoothSolidMidnight, Mods\\Elle.CuterDogs\\SmoothSolidBlack, Mods\\Elle.CuterDogs\\SmoothSolidGrey, Mods\\Elle.CuterDogs\\SmoothSolidSilver, Mods\\Elle.CuterDogs\\SmoothSolidWhite, Mods\\Elle.CuterDogs\\SmoothVoid, Mods\\Elle.CuterDogs\\SpringerBicolorBlonde, Mods\\Elle.CuterDogs\\SpringerBicolorFawn, Mods\\Elle.CuterDogs\\SpringerBicolorBrown, Mods\\Elle.CuterDogs\\SpringerBicolorRed, Mods\\Elle.CuterDogs\\SpringerBicolorMidnight, Mods\\Elle.CuterDogs\\SpringerBicolorBlack, Mods\\Elle.CuterDogs\\SpringerBicolorGrey, Mods\\Elle.CuterDogs\\SpringerBicolorSilver, Mods\\Elle.CuterDogs\\SpringerSolidCream, Mods\\Elle.CuterDogs\\SpringerSolidBlonde, Mods\\Elle.CuterDogs\\SpringerSolidFawn, Mods\\Elle.CuterDogs\\SpringerSolidBrown, Mods\\Elle.CuterDogs\\SpringerSolidRed, Mods\\Elle.CuterDogs\\SpringerSolidMidnight, Mods\\Elle.CuterDogs\\SpringerSolidBlack, Mods\\Elle.CuterDogs\\SpringerSolidGrey, Mods\\Elle.CuterDogs\\SpringerSolidSilver, Mods\\Elle.CuterDogs\\SpringerSolidWhite, Mods\\Elle.CuterDogs\\SpringerVoid, Mods\\Elle.CuterDogs\\WeimaranerBlue, Mods\\Elle.CuterDogs\\WeimaranerGrey, Mods\\Elle.CuterDogs\\WeimaranerSilver, Mods\\Elle.CuterDogs\\WeimaranerTaupe, Mods\\Elle.CuterDogs\\WeimaranerVoid, Mods\\Elle.CuterDogs\\Westie, Mods\\Elle.CuterDogs\\WestieVoid,  Mods\\Elle.CuterDogs\\icons, Mods\\Elle.CuterDogs\\BorzoiBlack, Mods\\Elle.CuterDogs\\BorzoiBlonde, Mods\\Elle.CuterDogs\\BorzoiBrown, Mods\\Elle.CuterDogs\\BorzoiFawn, Mods\\Elle.CuterDogs\\BorzoiGrey, Mods\\Elle.CuterDogs\\BorzoiMidnight, Mods\\Elle.CuterDogs\\BorzoiRed, Mods\\Elle.CuterDogs\\BorzoiSilver, Mods\\Elle.CuterDogs\\BorzoiSolidBlack, Mods\\Elle.CuterDogs\\BorzoiSolidWhite, Mods\\Elle.CuterDogs\\BorzoiVoid, Mods\\Elle.CuterDogs\\BorzoiTricolor, Mods\\Elle.CuterDogs\\RoughBlack, Mods\\Elle.CuterDogs\\RoughBlonde, Mods\\Elle.CuterDogs\\RoughBrown, Mods\\Elle.CuterDogs\\RoughFawn, Mods\\Elle.CuterDogs\\RoughGrey, Mods\\Elle.CuterDogs\\RoughMerle, Mods\\Elle.CuterDogs\\RoughMidnight, Mods\\Elle.CuterDogs\\RoughRed, Mods\\Elle.CuterDogs\\RoughSilver, Mods\\Elle.CuterDogs\\RoughTricolor, Mods\\Elle.CuterDogs\\RoughTricolor2, Mods\\Elle.CuterDogs\\RoughVoid",
       "FromFile": "assets/{{TargetWithoutPath}}.png"
     },
 	

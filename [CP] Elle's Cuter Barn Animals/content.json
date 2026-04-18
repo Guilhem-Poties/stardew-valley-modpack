@@ -5,7 +5,7 @@
 					
 	*/
 
-  "Format": "2.0.0",
+  "Format": "2.8.1",
   
   "ConfigSchema": {
 	  "White Cow Default": {
@@ -33,37 +33,37 @@
 		  "Default": "HerefordFawn, HerefordBrown, HerefordRed",
 		  "Description": "These are the skins your Brown Cows can have when purchased or born. You can list multiple options separated by commas, leave blank or write false to disable"},
 	  "Goat Default": {
-		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, LongSolidCream, LongSolidBlonde, LongSolidFawn, LongSolidBrown, LongSolidRed, LongSolidMidnight, LongSolidBlack, LongSolidGrey, LongSolidSilver, LongSolidWhite, LongSocksBlonde, LongSocksFawn, LongSocksBrown, LongSocksRed, LongSocksMidnight, LongSocksBlack, LongSocksGrey, LongSocksSilver, LongSpottedBlonde, LongSpottedFawn, LongSpottedBrown, LongSpottedRed, LongSpottedMidnight, LongSpottedBlack, LongSpottedGrey, LongSpottedSilver, LongBeltedBlonde, LongBeltedFawn, LongBeltedBrown, LongBeltedRed, LongBeltedMidnight, LongBeltedBlack, LongBeltedGrey, LongBeltedSilver, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, LongSolidVoid, LongSpottedVoid, LongBeltedVoid, LongSocksVoid, false",
+		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, LongSolidCream, LongSolidBlonde, LongSolidFawn, LongSolidBrown, LongSolidRed, LongSolidMidnight, LongSolidBlack, LongSolidGrey, LongSolidSilver, LongSolidWhite, LongSocksBlonde, LongSocksFawn, LongSocksBrown, LongSocksRed, LongSocksMidnight, LongSocksBlack, LongSocksGrey, LongSocksSilver, LongSpottedBlonde, LongSpottedFawn, LongSpottedBrown, LongSpottedRed, LongSpottedMidnight, LongSpottedBlack, LongSpottedGrey, LongSpottedSilver, LongBeltedBlonde, LongBeltedFawn, LongBeltedBrown, LongBeltedRed, LongBeltedMidnight, LongBeltedBlack, LongBeltedGrey, LongBeltedSilver, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, LongSolidVoid, LongSpottedVoid, LongBeltedVoid, LongSocksVoid, LongAlpineCream, LongAlpineBlonde, LongAlpineFawn, LongAlpineBrown, LongAlpineRed, LongAlpineWhite, LongAlpineSilver, LongAlpineVoid, LongBoerBlonde, LongBoerFawn, LongBoerBrown, LongBoerRed, LongBoerSilver, LongBoerGrey, LongBoerBlack, LongBoerMidnight, LongBoerVoid, BoerBlonde, BoerFawn, BoerBrown, BoerRed, BoerSilver, BoerGrey, BoerBlack, BoerMidnight, BoerVoid, AlpineVoid, AlpineSilver, AlpineWhite, AlpineRed, AlpineBrown, AlpineFawn, AlpineBlonde, AlpineCream, false",
 		  "AllowMultiple": false,
 		  "AllowBlank": true,
 		  "Default": "SolidBlonde",
 		  "Description": "This is the default skin for your Goats and what Goats on an existing save will look like. List only one, leave blank or write false to disable"},
 	  "Goat Skins": {
-		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, LongSolidCream, LongSolidBlonde, LongSolidFawn, LongSolidBrown, LongSolidRed, LongSolidMidnight, LongSolidBlack, LongSolidGrey, LongSolidSilver, LongSolidWhite, LongSocksBlonde, LongSocksFawn, LongSocksBrown, LongSocksRed, LongSocksMidnight, LongSocksBlack, LongSocksGrey, LongSocksSilver, LongSpottedBlonde, LongSpottedFawn, LongSpottedBrown, LongSpottedRed, LongSpottedMidnight, LongSpottedBlack, LongSpottedGrey, LongSpottedSilver, LongBeltedBlonde, LongBeltedFawn, LongBeltedBrown, LongBeltedRed, LongBeltedMidnight, LongBeltedBlack, LongBeltedGrey, LongBeltedSilver, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, LongSolidVoid, LongSpottedVoid, LongBeltedVoid, LongSocksVoid, false",
+		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, LongSolidCream, LongSolidBlonde, LongSolidFawn, LongSolidBrown, LongSolidRed, LongSolidMidnight, LongSolidBlack, LongSolidGrey, LongSolidSilver, LongSolidWhite, LongSocksBlonde, LongSocksFawn, LongSocksBrown, LongSocksRed, LongSocksMidnight, LongSocksBlack, LongSocksGrey, LongSocksSilver, LongSpottedBlonde, LongSpottedFawn, LongSpottedBrown, LongSpottedRed, LongSpottedMidnight, LongSpottedBlack, LongSpottedGrey, LongSpottedSilver, LongBeltedBlonde, LongBeltedFawn, LongBeltedBrown, LongBeltedRed, LongBeltedMidnight, LongBeltedBlack, LongBeltedGrey, LongBeltedSilver, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, LongSolidVoid, LongSpottedVoid, LongBeltedVoid, LongSocksVoid, LongAlpineCream, LongAlpineBlonde, LongAlpineFawn, LongAlpineBrown, LongAlpineRed, LongAlpineWhite, LongAlpineSilver, LongAlpineVoid, LongBoerBlonde, LongBoerFawn, LongBoerBrown, LongBoerRed, LongBoerSilver, LongBoerGrey, LongBoerBlack, LongBoerMidnight, LongBoerVoid, BoerBlonde, BoerFawn, BoerBrown, BoerRed, BoerSilver, BoerGrey, BoerBlack, BoerMidnight, BoerVoid, AlpineVoid, AlpineSilver, AlpineWhite, AlpineRed, AlpineBrown, AlpineFawn, AlpineBlonde, AlpineCream, false",
 		  "AllowMultiple": true,
 		  "AllowBlank": true,
 		  "Default": "SolidCream, SolidBlonde, LongSolidGrey, LongSolidSilver",
 		  "Description": "These are the skins your Goats can have when purchased or born. You can list multiple options separated by commas, leave blank or write false to disable"},
 	  "Sheep Default": {
-		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, AlpacaSolidCream, AlpacaSolidBlonde, AlpacaSolidFawn, AlpacaSolidBrown, AlpacaSolidRed, AlpacaSolidMidnight, AlpacaSolidBlack, AlpacaSolidGrey, AlpacaSolidSilver, AlpacaSolidWhite, AlpacaSpottedBlonde, AlpacaSpottedFawn, AlpacaSpottedBrown, AlpacaSpottedRed, AlpacaSpottedMidnight, AlpacaSpottedBlack, AlpacaSpottedGrey, AlpacaSpottedSilver, AlpacaSocksBlonde, AlpacaSocksFawn, AlpacaSocksBrown, AlpacaSocksRed, AlpacaSocksMidnight, AlpacaSocksBlack, AlpacaSocksGrey, AlpacaSocksSilver, SolidVoid, SpottedVoid, SocksVoid, AlpacaSolidVoid, AlpacaSpottedVoid, AlpacaSocksVoid, false",
+		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, AlpacaSolidCream, AlpacaSolidBlonde, AlpacaSolidFawn, AlpacaSolidBrown, AlpacaSolidRed, AlpacaSolidMidnight, AlpacaSolidBlack, AlpacaSolidGrey, AlpacaSolidSilver, AlpacaSolidWhite, AlpacaSpottedBlonde, AlpacaSpottedFawn, AlpacaSpottedBrown, AlpacaSpottedRed, AlpacaSpottedMidnight, AlpacaSpottedBlack, AlpacaSpottedGrey, AlpacaSpottedSilver, AlpacaSocksBlonde, AlpacaSocksFawn, AlpacaSocksBrown, AlpacaSocksRed, AlpacaSocksMidnight, AlpacaSocksBlack, AlpacaSocksGrey, AlpacaSocksSilver, SolidVoid, SpottedVoid, SocksVoid, AlpacaSolidVoid, AlpacaSpottedVoid, AlpacaSocksVoid, SuffolkBlonde, SuffolkFawn, SuffolkBrown, SuffolkRed, SuffolkSilver, SuffolkGrey, SuffolkBlack, SuffolkMidnight, SuffolkVoid, false",
 		  "AllowMultiple": false,
 		  "AllowBlank": true,
 		  "Default": "SolidCream",
 		  "Description": "This is the default skin for your Sheep and what Sheep on an existing save will look like. List only one, leave blank or write false to disable"},
 	  "Sheep Skins": {
-		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, AlpacaSolidCream, AlpacaSolidBlonde, AlpacaSolidFawn, AlpacaSolidBrown, AlpacaSolidRed, AlpacaSolidMidnight, AlpacaSolidBlack, AlpacaSolidGrey, AlpacaSolidSilver, AlpacaSolidWhite, AlpacaSpottedBlonde, AlpacaSpottedFawn, AlpacaSpottedBrown, AlpacaSpottedRed, AlpacaSpottedMidnight, AlpacaSpottedBlack, AlpacaSpottedGrey, AlpacaSpottedSilver, AlpacaSocksBlonde, AlpacaSocksFawn, AlpacaSocksBrown, AlpacaSocksRed, AlpacaSocksMidnight, AlpacaSocksBlack, AlpacaSocksGrey, AlpacaSocksSilver, SolidVoid, SpottedVoid, SocksVoid, AlpacaSolidVoid, AlpacaSpottedVoid, AlpacaSocksVoid, false",
+		  "AllowValues": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, AlpacaSolidCream, AlpacaSolidBlonde, AlpacaSolidFawn, AlpacaSolidBrown, AlpacaSolidRed, AlpacaSolidMidnight, AlpacaSolidBlack, AlpacaSolidGrey, AlpacaSolidSilver, AlpacaSolidWhite, AlpacaSpottedBlonde, AlpacaSpottedFawn, AlpacaSpottedBrown, AlpacaSpottedRed, AlpacaSpottedMidnight, AlpacaSpottedBlack, AlpacaSpottedGrey, AlpacaSpottedSilver, AlpacaSocksBlonde, AlpacaSocksFawn, AlpacaSocksBrown, AlpacaSocksRed, AlpacaSocksMidnight, AlpacaSocksBlack, AlpacaSocksGrey, AlpacaSocksSilver, SolidVoid, SpottedVoid, SocksVoid, AlpacaSolidVoid, AlpacaSpottedVoid, AlpacaSocksVoid, SuffolkBlonde, SuffolkFawn, SuffolkBrown, SuffolkRed, SuffolkSilver, SuffolkGrey, SuffolkBlack, SuffolkMidnight, SuffolkVoid, false",
 		  "AllowMultiple": true,
 		  "AllowBlank": true,
 		  "Default": "SolidCream, SpottedBlonde, SocksFawn",
 		  "Description": "These are the skins your Sheep can have when purchased or born. You can list multiple options separated by commas, leave blank or write false to disable"},
 	  "Pig Default": {
-		  "AllowValues": "SolidPink, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedPink, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedPink, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, DeerBlonde, DeerFawn, DeerBrown, DeerRed, DeerMidnight, DeerBlack, DeerGrey, DeerSilver, DeerVoid, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, false",
+		  "AllowValues": "SolidPink, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedPink, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedPink, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, DeerBlonde, DeerFawn, DeerBrown, DeerRed, DeerMidnight, DeerBlack, DeerGrey, DeerSilver, DeerVoid, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, MiniPink, MiniCream, MiniBlonde, MiniFawn, MiniBrown, MiniRed, MiniMidnight, MiniBlack, MiniGrey, MiniSilver, MiniWhite, MiniVoid, false",
 		  "AllowMultiple": false,
 		  "AllowBlank": true,
 		  "Default": "SolidPink",
 		  "Description": "This is the default skin for your Pigs and what Pigs on an existing save will look like. List only one, leave blank or write false to disable"},
 	  "Pig Skins": {
-		  "AllowValues": "SolidPink, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedPink, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedPink, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, DeerBlonde, DeerFawn, DeerBrown, DeerRed, DeerMidnight, DeerBlack, DeerGrey, DeerSilver, DeerVoid, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, false",
+		  "AllowValues": "SolidPink, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedPink, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedPink, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, DeerBlonde, DeerFawn, DeerBrown, DeerRed, DeerMidnight, DeerBlack, DeerGrey, DeerSilver, DeerVoid, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, MiniPink, MiniCream, MiniBlonde, MiniFawn, MiniBrown, MiniRed, MiniMidnight, MiniBlack, MiniGrey, MiniSilver, MiniWhite, MiniVoid, false",
 		  "AllowMultiple": true,
 		  "AllowBlank": true,
 		  "Default": "SolidPink, SpottedPink",
@@ -2899,6 +2899,518 @@
       "When": { "Goat Skins": "LongSpottedVoid" },
 	},
 	
+    {
+      "LogName": "Goat AlpineBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineBlonde",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBlonde",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBlondeBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineBlonde" },
+	},
+    {
+      "LogName": "Goat AlpineBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineBrown": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineBrown",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBrown",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBrownBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineBrown" },
+	},
+    {
+      "LogName": "Goat AlpineCream",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineCream": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineCream",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineCream",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineCreamBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineCream" },
+	},
+    {
+      "LogName": "Goat AlpineFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineFawn": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineFawn",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineFawn",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineFawnBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineFawn" },
+	},
+    {
+      "LogName": "Goat AlpineRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineRed": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineRed",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineRed",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineRedBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineRed" },
+	},
+    {
+      "LogName": "Goat AlpineSilver",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineSilver": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineSilver",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineSilver",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineSilverBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineSilver" },
+	},
+    {
+      "LogName": "Goat AlpineVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineVoid": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineVoid",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineVoid",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineVoidBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "AlpineVoid" },
+	},
+    {
+      "LogName": "Goat AlpineWhite",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_AlpineWhite": {
+		"Id": "Elle.CuterBarnAnimals_Goat_AlpineWhite",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineWhite",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineWhiteBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerBlack" },
+	},
+    {
+      "LogName": "Goat BoerBlack",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerBlack": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerBlack",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlack",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlackBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerBlack" },
+	},
+    {
+      "LogName": "Goat BoerBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerBlonde",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlonde",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlondeBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerBlonde" },
+	},
+    {
+      "LogName": "Goat BoerBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerBrown": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerBrown",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBrown",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBrownBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerBrown" },
+	},
+    {
+      "LogName": "Goat BoerFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerFawn": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerFawn",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerFawn",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerFawnBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerFawn" },
+	},
+    {
+      "LogName": "Goat BoerGrey",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerGrey": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerGrey",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerGrey",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerGreyBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerGrey" },
+	},
+    {
+      "LogName": "Goat BoerMidnight",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerMidnight": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerMidnight",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerMidnight",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerMidnightBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerMidnight" },
+	},
+    {
+      "LogName": "Goat BoerRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerRed": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerRed",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerRed",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerRedBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerRed" },
+	},
+    {
+      "LogName": "Goat BoerSilver",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerSilver": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerSilver",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerSilver",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerSilverBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerSilver" },
+	},
+    {
+      "LogName": "Goat BoerVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_BoerVoid": {
+		"Id": "Elle.CuterBarnAnimals_Goat_BoerVoid",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerVoid",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\BoerVoidBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "BoerVoid" },
+	},
+	
+    {
+      "LogName": "Goat LongAlpineBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineBlonde",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBlonde",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBlondeBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineBlonde" },
+	},
+    {
+      "LogName": "Goat LongAlpineBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineBrown": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineBrown",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBrown",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBrownBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineBrown" },
+	},
+    {
+      "LogName": "Goat LongAlpineCream",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineCream": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineCream",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineCream",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineCreamBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineCream" },
+	},
+    {
+      "LogName": "Goat LongAlpineFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineFawn": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineFawn",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineFawn",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineFawnBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineFawn" },
+	},
+    {
+      "LogName": "Goat LongAlpineRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineRed": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineRed",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineRed",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineRedBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineRed" },
+	},
+    {
+      "LogName": "Goat LongAlpineSilver",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineSilver": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineSilver",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineSilver",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineSilverBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineSilver" },
+	},
+    {
+      "LogName": "Goat LongAlpineVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineVoid": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineVoid",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineVoid",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineVoidBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongAlpineVoid" },
+	},
+    {
+      "LogName": "Goat LongAlpineWhite",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongAlpineWhite": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongAlpineWhite",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineWhite",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineWhiteBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerBlack" },
+	},
+    {
+      "LogName": "Goat LongBoerBlack",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerBlack": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerBlack",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlack",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlackBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerBlack" },
+	},
+    {
+      "LogName": "Goat LongBoerBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerBlonde",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlonde",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlondeBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerBlonde" },
+	},
+    {
+      "LogName": "Goat LongBoerBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerBrown": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerBrown",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBrown",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBrownBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerBrown" },
+	},
+    {
+      "LogName": "Goat LongBoerFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerFawn": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerFawn",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerFawn",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerFawnBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerFawn" },
+	},
+    {
+      "LogName": "Goat LongBoerGrey",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerGrey": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerGrey",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerGrey",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerGreyBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerGrey" },
+	},
+    {
+      "LogName": "Goat LongBoerMidnight",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerMidnight": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerMidnight",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerMidnight",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerMidnightBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerMidnight" },
+	},
+    {
+      "LogName": "Goat LongBoerRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerRed": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerRed",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerRed",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerRedBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerRed" },
+	},
+    {
+      "LogName": "Goat LongBoerSilver",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerSilver": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerSilver",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerSilver",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerSilverBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerSilver" },
+	},
+    {
+      "LogName": "Goat LongBoerVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Goat", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Goat_LongBoerVoid": {
+		"Id": "Elle.CuterBarnAnimals_Goat_LongBoerVoid",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerVoid",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerVoidBaby",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Goat Skins": "LongBoerVoid" },
+	},
+	
     //Sheep
     {
       "LogName": "Sheep Default",
@@ -3910,6 +4422,151 @@
       "When": { "Sheep Skins": "AlpacaSocksVoid" },
 	},
 	
+    {
+      "LogName": "Sheep SuffolkBlack",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkBlack": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkBlack",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlack",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlackBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlackSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkBlack" },
+	},
+    {
+      "LogName": "Sheep SuffolkBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkBlonde",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlonde",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlondeBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlondeSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkBlonde" },
+	},
+    {
+      "LogName": "Sheep SuffolkBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkBrown": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkBrown",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBrown",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBrownBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBrownSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkBrown" },
+	},
+    {
+      "LogName": "Sheep SuffolkFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkFawn": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkFawn",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkFawn",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkFawnBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkFawnSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkFawn" },
+	},
+    {
+      "LogName": "Sheep SuffolkGrey",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkGrey": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkGrey",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkGrey",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkGreyBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkGreySheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkGrey" },
+	},
+    {
+      "LogName": "Sheep SuffolkMidnight",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkMidnight": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkMidnight",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkMidnight",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkMidnightBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkMidnightSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkMidnight" },
+	},
+    {
+      "LogName": "Sheep SuffolkRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkRed": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkRed",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkRed",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkRedBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkRedSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkRed" },
+	},
+    {
+      "LogName": "Sheep SuffolkSilver",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkSilver": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkSilver",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkSilver",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkSilverBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkSilverSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkSilver" },
+	},
+    {
+      "LogName": "Sheep SuffolkVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Sheep", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Sheep_SuffolkVoid": {
+		"Id": "Elle.CuterBarnAnimals_Sheep_SuffolkVoid",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkVoid",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkVoidBaby",
+			"HarvestedTexture": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkVoidSheared",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Sheep Skins": "SuffolkVoid" },
+	},
+	
     //Pigs
     {
       "LogName": "Pig Default",
@@ -4727,6 +5384,187 @@
       "When": { "Pig Skins": "SpottedVoid" },
 	},
 	
+    {
+      "LogName": "Pig MiniBlack",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniBlack": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniBlack",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBlack",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBlack",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniBlack" },
+	},
+    {
+      "LogName": "Pig MiniBlonde",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniBlonde": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniBlonde",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBlonde",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBlonde",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniBlonde" },
+	},
+    {
+      "LogName": "Pig MiniBrown",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniBrown": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniBrown",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBrown",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBrown",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniBrown" },
+	},
+    {
+      "LogName": "Pig MiniCream",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniCream": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniCream",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniCream",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniCream",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniCream" },
+	},
+    {
+      "LogName": "Pig MiniFawn",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniFawn": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniFawn",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniFawn",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniFawn",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniFawn" },
+	},
+    {
+      "LogName": "Pig MiniGrey",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniGrey": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniGrey",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniGrey",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniGrey",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniGrey" },
+	},
+    {
+      "LogName": "Pig MiniMidnight",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniMidnight": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniMidnight",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniMidnight",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniMidnight",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniMidnight" },
+	},
+    {
+      "LogName": "Pig MiniPink",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniPink": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniPink",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniPink",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniPink",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniPink" },
+	},
+    {
+      "LogName": "Pig MiniRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniRed": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniRed",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniRed",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniRed",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniSilver" },
+	},
+    {
+      "LogName": "Pig MiniRed",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniSilver": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniSilver",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniSilver",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniSilver",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniSilver" },
+	},
+    {
+      "LogName": "Pig MiniVoid",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniVoid": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniVoid",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniVoid",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniVoid",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniVoid" },
+	},
+    {
+      "LogName": "Pig MiniWhite",
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+	  "TargetField": [ "Pig", "Skins" ],
+      "Entries": {
+      "Elle.CuterBarnAnimals_Pig_MiniWhite": {
+		"Id": "Elle.CuterBarnAnimals_Pig_MiniWhite",
+			"Texture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniWhite",
+			"BabyTexture": "Mods\\Elle.CuterBarnAnimals\\Pig\\MiniWhite",
+			"Weight": "1.0",
+			},
+		},
+      "When": { "Pig Skins": "MiniWhite" },
+	},
+	
     //Ostriches
     {
       "LogName": "Ostrich Default",
@@ -4888,81 +5726,6 @@
       "When": { "Ostrich Skins": "Void" },
 	},
 	
-	// Shadow Removal
-	
-    {
-      "LogName": "White Cow Shadow",
-      "Action": "EditData",
-      "Target": "Data/FarmAnimals",
-	  "TargetField": [ "White Cow" ],
-      "Entries": {
-	  "ShadowWhenBabySwims": {"Visible": false,},
-	  "ShadowWhenBaby": {"Visible": false,},
-	  "ShadowWhenAdultSwims": {"Visible": false,},
-	  "ShadowWhenAdult": {"Visible": false,},
-		},
-	},
-    {
-      "LogName": "Brown Cow Shadow",
-      "Action": "EditData",
-      "Target": "Data/FarmAnimals",
-	  "TargetField": [ "Brown Cow" ],
-      "Entries": {
-	  "ShadowWhenBabySwims": {"Visible": false,},
-	  "ShadowWhenBaby": {"Visible": false,},
-	  "ShadowWhenAdultSwims": {"Visible": false,},
-	  "ShadowWhenAdult": {"Visible": false,},
-		},
-	},
-    {
-      "LogName": "Goat Shadow",
-      "Action": "EditData",
-      "Target": "Data/FarmAnimals",
-	  "TargetField": [ "Goat" ],
-      "Entries": {
-	  "ShadowWhenBabySwims": {"Visible": false,},
-	  "ShadowWhenBaby": {"Visible": false,},
-	  "ShadowWhenAdultSwims": {"Visible": false,},
-	  "ShadowWhenAdult": {"Visible": false,},
-		},
-	},
-    {
-      "LogName": "Sheep Shadow",
-      "Action": "EditData",
-      "Target": "Data/FarmAnimals",
-	  "TargetField": [ "Sheep" ],
-      "Entries": {
-	  "ShadowWhenBabySwims": {"Visible": false,},
-	  "ShadowWhenBaby": {"Visible": false,},
-	  "ShadowWhenAdultSwims": {"Visible": false,},
-	  "ShadowWhenAdult": {"Visible": false,},
-		},
-	},
-    {
-      "LogName": "Pig Shadow",
-      "Action": "EditData",
-      "Target": "Data/FarmAnimals",
-	  "TargetField": [ "Pig" ],
-      "Entries": {
-	  "ShadowWhenBabySwims": {"Visible": false,},
-	  "ShadowWhenBaby": {"Visible": false,},
-	  "ShadowWhenAdultSwims": {"Visible": false,},
-	  "ShadowWhenAdult": {"Visible": false,},
-		},
-	},
-    {
-      "LogName": "Ostrich Shadow",
-      "Action": "EditData",
-      "Target": "Data/FarmAnimals",
-	  "TargetField": [ "Ostrich" ],
-      "Entries": {
-	  "ShadowWhenBabySwims": {"Visible": false,},
-	  "ShadowWhenBaby": {"Visible": false,},
-	  "ShadowWhenAdultSwims": {"Visible": false,},
-	  "ShadowWhenAdult": {"Visible": false,},
-		},
-	},
-	
     // Shop Icons
 	{
       "LogName": "Cow Shop Icon",
@@ -4992,7 +5755,7 @@
 	  "FromArea": { "X": 0, "Y": 0, "Width": 32, "Height": 16 }, 
 	  "ToArea": { "X": 64, "Y": 448, "Width": 32, "Height": 16 },
 	  "PatchMode": "Replace",
-      "When": { "Goat Default": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, LongSolidCream, LongSolidBlonde, LongSolidFawn, LongSolidBrown, LongSolidRed, LongSolidMidnight, LongSolidBlack, LongSolidGrey, LongSolidSilver, LongSolidWhite, LongSocksBlonde, LongSocksFawn, LongSocksBrown, LongSocksRed, LongSocksMidnight, LongSocksBlack, LongSocksGrey, LongSocksSilver, LongSpottedBlonde, LongSpottedFawn, LongSpottedBrown, LongSpottedRed, LongSpottedMidnight, LongSpottedBlack, LongSpottedGrey, LongSpottedSilver, LongBeltedBlonde, LongBeltedFawn, LongBeltedBrown, LongBeltedRed, LongBeltedMidnight, LongBeltedBlack, LongBeltedGrey, LongBeltedSilver, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, LongSolidVoid, LongSpottedVoid, LongBeltedVoid, LongSocksVoid" },
+      "When": { "Goat Default": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, LongSolidCream, LongSolidBlonde, LongSolidFawn, LongSolidBrown, LongSolidRed, LongSolidMidnight, LongSolidBlack, LongSolidGrey, LongSolidSilver, LongSolidWhite, LongSocksBlonde, LongSocksFawn, LongSocksBrown, LongSocksRed, LongSocksMidnight, LongSocksBlack, LongSocksGrey, LongSocksSilver, LongSpottedBlonde, LongSpottedFawn, LongSpottedBrown, LongSpottedRed, LongSpottedMidnight, LongSpottedBlack, LongSpottedGrey, LongSpottedSilver, LongBeltedBlonde, LongBeltedFawn, LongBeltedBrown, LongBeltedRed, LongBeltedMidnight, LongBeltedBlack, LongBeltedGrey, LongBeltedSilver, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, LongSolidVoid, LongSpottedVoid, LongBeltedVoid, LongSocksVoid, LongAlpineCream, LongAlpineBlonde, LongAlpineFawn, LongAlpineBrown, LongAlpineRed, LongAlpineWhite, LongAlpineSilver, LongAlpineVoid, LongBoerBlonde, LongBoerFawn, LongBoerBrown, LongBoerRed, LongBoerSilver, LongBoerGrey, LongBoerBlack, LongBoerMidnight, LongBoerVoid, BoerBlonde, BoerFawn, BoerBrown, BoerRed, BoerSilver, BoerGrey, BoerBlack, BoerMidnight, BoerVoid, AlpineVoid, AlpineSilver, AlpineWhite, AlpineRed, AlpineBrown, AlpineFawn, AlpineBlonde, AlpineCream" },
 	},
 	{
       "LogName": "Sheep Shop Icon",
@@ -5002,7 +5765,7 @@
 	  "FromArea": { "X": 0, "Y": 0, "Width": 32, "Height": 16 }, 
 	  "ToArea": { "X": 32, "Y": 464, "Width": 32, "Height": 16 },
 	  "PatchMode": "Replace",
-      "When": { "Sheep Default": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, AlpacaSolidCream, AlpacaSolidBlonde, AlpacaSolidFawn, AlpacaSolidBrown, AlpacaSolidRed, AlpacaSolidMidnight, AlpacaSolidBlack, AlpacaSolidGrey, AlpacaSolidSilver, AlpacaSolidWhite, AlpacaSpottedBlonde, AlpacaSpottedFawn, AlpacaSpottedBrown, AlpacaSpottedRed, AlpacaSpottedMidnight, AlpacaSpottedBlack, AlpacaSpottedGrey, AlpacaSpottedSilver, AlpacaSocksBlonde, AlpacaSocksFawn, AlpacaSocksBrown, AlpacaSocksRed, AlpacaSocksMidnight, AlpacaSocksBlack, AlpacaSocksGrey, AlpacaSocksSilver, SolidVoid, SpottedVoid, SocksVoid, AlpacaSolidVoid, AlpacaSolidVoid, AlpacaSocksVoid" },
+      "When": { "Sheep Default": "SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, AlpacaSolidCream, AlpacaSolidBlonde, AlpacaSolidFawn, AlpacaSolidBrown, AlpacaSolidRed, AlpacaSolidMidnight, AlpacaSolidBlack, AlpacaSolidGrey, AlpacaSolidSilver, AlpacaSolidWhite, AlpacaSpottedBlonde, AlpacaSpottedFawn, AlpacaSpottedBrown, AlpacaSpottedRed, AlpacaSpottedMidnight, AlpacaSpottedBlack, AlpacaSpottedGrey, AlpacaSpottedSilver, AlpacaSocksBlonde, AlpacaSocksFawn, AlpacaSocksBrown, AlpacaSocksRed, AlpacaSocksMidnight, AlpacaSocksBlack, AlpacaSocksGrey, AlpacaSocksSilver, SolidVoid, SpottedVoid, SocksVoid, AlpacaSolidVoid, AlpacaSolidVoid, AlpacaSocksVoid, SuffolkBlonde, SuffolkFawn, SuffolkBrown, SuffolkRed, SuffolkSilver, SuffolkGrey, SuffolkBlack, SuffolkMidnight, SuffolkVoid" },
 	},
 	{
       "LogName": "Pig Shop Icon",
@@ -5012,7 +5775,7 @@
 	  "FromArea": { "X": 0, "Y": 0, "Width": 32, "Height": 16 }, 
 	  "ToArea": { "X": 0, "Y": 480, "Width": 32, "Height": 16 },
 	  "PatchMode": "Replace",
-      "When": { "Pig Default": "SolidPink, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedPink, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedPink, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, DeerBlonde, DeerFawn, DeerBrown, DeerRed, DeerMidnight, DeerBlack, DeerGrey, DeerSilver, DeerVoid, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid" },
+      "When": { "Pig Default": "SolidPink, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SpottedPink, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, BeltedPink, BeltedBlonde, BeltedFawn, BeltedBrown, BeltedRed, BeltedMidnight, BeltedBlack, BeltedGrey, BeltedSilver, DeerBlonde, DeerFawn, DeerBrown, DeerRed, DeerMidnight, DeerBlack, DeerGrey, DeerSilver, DeerVoid, SolidVoid, SpottedVoid, BeltedVoid, SocksVoid, MiniPink, MiniCream, MiniBlonde, MiniFawn, MiniBrown, MiniRed, MiniMidnight, MiniBlack, MiniGrey, MiniSilver, MiniWhite, MiniVoid" },
 	},
 	{
       "LogName": "Ostrich Shop Icon",
@@ -5057,19 +5820,19 @@
     {
       "LogName": "Load Goat Images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterBarnAnimals\\Goat\\SolidCream, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidRed, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksRed, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidCream, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksVoidBaby",
+      "Target": "Mods\\Elle.CuterBarnAnimals\\Goat\\SolidCream, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidRed, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksRed, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidCream, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\SolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\SpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\BeltedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\SocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBeltedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongSocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineCream, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerRed, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerGrey, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlack, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerMidnight, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineVoid, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineRed, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineFawn, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBlonde, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineCream, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineCreamBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineBrown, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineRed, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineWhite, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineSilver, Mods\\Elle.CuterBarnAnimals\\Goat\\LongAlpineVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\LongBoerVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerGreyBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerBlackBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\BoerVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineVoidBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineSilverBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineRedBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBrownBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineFawnBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Goat\\AlpineCreamBaby",
       "FromFile": "assets/Goat/{{TargetWithoutPath}}.png"
     },
     {
       "LogName": "Load Sheep Images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidCream, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidWhite, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidCream, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidWhite, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidCreamSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidWhiteSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidCreamSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidWhiteSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksVoidSheared",
+      "Target": "Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidCream, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidWhite, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidCream, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidWhite, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidCreamSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidWhiteSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidCreamSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidWhiteSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SolidVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SpottedVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SocksVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSolidVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSpottedVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\AlpacaSocksVoidSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlonde, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkFawn, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBrown, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkRed, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkSilver, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkGrey, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlack, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkMidnight, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkVoid, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkFawnBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBrownBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkRedBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkSilverBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkGreyBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlackBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkVoidBaby, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlondeSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkFawnSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBrownSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkRedSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkSilverSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkGreySheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkBlackSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkMidnightSheared, Mods\\Elle.CuterBarnAnimals\\Sheep\\SuffolkVoidSheared",
       "FromFile": "assets/Sheep/{{TargetWithoutPath}}.png"
     },
     {
       "LogName": "Load Pig Images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterBarnAnimals\\Pig\\SolidPink, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidCream, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidRed, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidWhite, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksRed, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedPink, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedRed, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedPink, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedRed, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerRed, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidPinkBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedPinkBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedPinkBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedVoidBaby",
+      "Target": "Mods\\Elle.CuterBarnAnimals\\Pig\\SolidPink, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidCream, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidRed, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidWhite, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksRed, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedPink, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedRed, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedPink, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedRed, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerRed, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidPinkBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidCreamBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidWhiteBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedPinkBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedPinkBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlondeBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerFawnBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBrownBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerRedBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerMidnightBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerBlackBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerGreyBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerSilverBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\DeerVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SolidVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SpottedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\SocksVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedVoid, Mods\\Elle.CuterBarnAnimals\\Pig\\BeltedVoidBaby, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniPink, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniCream, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBlonde, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniFawn, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBrown, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniRed, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniMidnight, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniBlack, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniGrey, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniSilver, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniWhite, Mods\\Elle.CuterBarnAnimals\\Pig\\MiniVoid",
       "FromFile": "assets/Pig/{{TargetWithoutPath}}.png"
     },
     {

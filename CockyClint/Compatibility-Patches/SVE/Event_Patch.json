@@ -1,0 +1,1352 @@
+{
+  "Changes": [
+    { //Remove SVE heart events
+      "Action": "EditData",
+			"Target": "Data/Events/Town",
+			"Entries": {
+				"1000014/t 1000 1600/f Clint 2000/w sunny/e 1000034": null,
+        "1005014/t 2000 2400/f Clint 2000/f Emily 2000/w sunny/e 101/z winter/y 2": null
+      }
+    },
+    { //Remove SVE heart events
+      "Action": "EditData",
+			"Target": "Data/Events/Blacksmith",
+			"Entries": {
+				"1005015/e 1005014": null
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Blacksmith",
+      "Entries": {
+        "{{ModId}}_2heart/f Clint 500/t 900 1700/DayOfWeek Mon Tue Wed Thu Fri/p Clint": "event1/4 15/farmer 5 19 0 Clint 3 13 2 Lewis -30 -30 0 Morris -100 -100 1/skippable/
+        viewport 4 15/
+        advancedMove farmer false 0 -4 2 1500 3 1/
+        pause 1500/
+        warp Lewis 5 19/
+        advancedMove Lewis false 0 -2 -2 0 0 -2/
+        pause 3000/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.01}}\"/
+        speak Clint \"{{i18n:2HeartEvent.Clint.02}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.03}}\"/
+        speak Clint \"{{i18n:2HeartEvent.Clint.04}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.05}}\"/
+        speak Clint \"{{i18n:2HeartEvent.Clint.06}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.07}}\"/
+        speak Clint \"{{i18n:2HeartEvent.Clint.08}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.09}}\"/
+        speak Clint \"{{i18n:2HeartEvent.Clint.10}}\"/
+        faceDirection Lewis 1/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.11}}\"/
+        quickQuestion #{{i18n:2HeartEvent.Decision1.Answer1}}#{{i18n:2HeartEvent.Decision1.Answer2}}#{{i18n:2HeartEvent.Decision1.Answer3}}
+        (break)speak Clint \"{{i18n:2HeartEvent.Decision1.React1}}\"
+        (break)speak Lewis \"{{i18n:2HeartEvent.Decision1.React2}}\"
+        (break)speak Lewis \"{{i18n:2HeartEvent.Decision1.React3}}\"\\speak Clint \"{{i18n:2HeartEvent.Decision1.React3}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.12}}\"/
+        advancedMove Lewis false 0 2 2 0 0 2/
+        pause 800/
+        globalfade/
+        viewport -1000 -1000/
+        stopMusic/
+        changeLocation Town/
+        warp farmer -100 -100/
+        warp Clint -100 -100/
+        warp Morris 91 87/
+        animate Morris false true 100 16 17 18/
+        globalFadeToClear 0.007 true/
+        viewport 93 86/
+        warp Lewis 94 82/
+        playSound doorClose/
+        advancedMove Lewis false 0 2 -2 0 0 1/
+        proceedPosition Lewis/
+        stopAnimation Morris/
+        faceDirection Morris 0/
+        speak Morris \"{{i18n:2HeartEvent.Morris.13.SVEPatch}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.14}}\"/
+        advancedMove Lewis false 1 0 0 2/
+        faceDirection Morris 1/
+        speak Morris \"{{i18n:2HeartEvent.Morris.15.SVEPatch}}\"/
+        proceedPosition Lewis/
+        faceDirection Lewis 3/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.16}}\"/
+        speak Morris \"{{i18n:2HeartEvent.Morris.17.SVEPatch}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.18}}\"/
+        speak Morris \"{{i18n:2HeartEvent.Morris.19.SVEPatch}}\"/
+        speak Lewis \"{{i18n:2HeartEvent.Lewis.20}}\"/
+        advancedMove Lewis false 0 7 -20 0/
+        faceDirection Morris 2/
+        emote Morris 40 false/
+        pause 3000/
+        faceDirection Morris 0/
+        pause 3000/
+        globalfade/
+        viewport -1000 -1000/
+        changeLocation Blacksmith/
+        end dialogue Clint \"{{i18n:2HeartEvent.AfterEventDialogue}}\"",
+        "{{ModId}}_10heart/f Clint 2500/p Clint/e {{ModId}}_8heart": "playful/6 11/farmer 4 12 0 Clint 8 5 2/skippable/changeSprite Clint Shirtless/
+        changePortrait Clint Shirtless/
+        animate Clint false true 100 16 16 16 16 16 16 16 17 18 19 19 19 19 18 17/
+        move farmer 0 -1 0/
+        doAction 4 10/
+        viewport move 0 -2 1000/
+        move farmer 0 -4 1/
+        stopMusic/
+        pause 300/
+        jump farmer/
+        pause 500/
+        speed farmer 4/
+        move farmer 0 4 2 true/
+        stopAnimation Clint 12/
+        pause 1500/
+        emote Clint 8/
+        pause 2000/
+        animate Clint false true 100 16 16 16 16 16 16 16 17 18 19 19 19 19 18 17/
+        viewport move 0 2 1000/
+        pause 2000/
+        emote farmer 40/
+        pause 2000/
+        faceDirection farmer 1/
+        pause 400/
+        faceDirection farmer 3/
+        pause 400/
+        faceDirection farmer 2/
+        pause 1000/
+        faceDirection farmer 0/
+        pause 2000/
+        viewport move 0 -2 1000/
+        speed farmer 2/
+        move farmer 0 -1 0/
+        pause 2000/
+        move farmer 0 -1 0/
+        pause 3000/
+        move farmer 0 -2 1/
+        pause 500/
+        viewport move 0 2 1000/
+        speed farmer 6/
+        move farmer 0 4 2 true/
+        positionOffset farmer 0 10/
+        stopAnimation Clint 12/
+        emote Clint 16 true/
+        speak Clint \"{{i18n:10HeartEvent.Clint.01}}\"/
+        speed Clint 4/
+        advancedMove Clint false -4 0 0 7 1 0 0 3 1 1/
+        advancedMove farmer false 0 1 2 0 3 300 2 300 1 300 0 3 3 300 2 200 4 200 7 0 3 1/
+        viewport move 0 2 4000/
+        pause 3000/
+        playMusic event1/
+        speak Clint \"{{i18n:10HeartEvent.Clint.02}}\"/
+        pause 1500/
+        emote Clint 40/
+        speak Clint \"{{i18n:10HeartEvent.Clint.03}}\"/
+        speed Clint 2/
+        move Clint 4 0 1 true/
+        viewport move 1 0 5000/
+        speak Clint \"{{i18n:10HeartEvent.Clint.04}}\"/
+        move Clint 3 0 1/
+        speak Clint \"{{i18n:10HeartEvent.Clint.05}}\"/
+        animate Clint false false 200 5 4/
+        positionOffset Clint 24 0/
+        emote farmer 16 true/
+        animate farmer true false 200 7 6/
+        positionOffset farmer 8 0/
+        speak Clint \"{{i18n:10HeartEvent.Clint.06}}\"/
+        animate Clint false false 150 5 4/
+        positionOffset Clint 26 0/
+        startJittering/
+        animate farmer true false 150 7 6/
+        positionOffset farmer 8 0/
+        stopAnimation Clint 20/
+        playSound crafting/
+        pause 300/
+        stopJittering/
+        speak Clint \"{{i18n:10HeartEvent.Clint.07}}\"/
+        emote farmer 60/
+        speak Clint \"{{i18n:10HeartEvent.Clint.08}}\"/
+        showframe Clint 21/
+        showframe farmer 101 true/
+        positionOffset farmer 8 0/
+        positionOffset Clint -9 0/
+        specificTemporarySprite heart 13 14/
+        pause 2000/
+        globalfade/
+        viewport -1000 -1000/
+        end dialogue Clint \"{{i18n:10HeartEvent.AfterEventDialogue}}\"",
+        "{{ModId}}_14heart/f Clint 3500/p Clint/e {{ModId}}_10heart": "breezy/5 12/farmer -1000 -1000 3 Clint 6 13 2 Marlon 6 14 0/skippable/
+        viewport 5 12/
+        pause 1500/
+        speak Marlon \"{{i18n:14HeartEvent.Marlon.01}}\"/
+        speak Clint \"{{i18n:14HeartEvent.Clint.02}}\"/
+        speak Marlon \"{{i18n:14HeartEvent.Marlon.03}}\"/
+        speak Clint \"{{i18n:14HeartEvent.Clint.04}}\"/
+        speak Marlon \"{{i18n:14HeartEvent.Marlon.05}}\"/
+        advancedMove Marlon false -1 0 0 5/
+        pause 500/
+        advancedMove Clint false 0 -1 -2 0 0 -1/
+        pause 1700/
+        doAction 4 10/
+        move Clint 0 -7 0 true/ 
+        viewport move 0 -4 2000/
+        pause 700/
+        warp Marlon -1000 -1000/
+        proceedPosition Clint/
+        move Clint -1 0 0 false/ 
+        pause 2000/
+        move Clint -1 0 0/
+        pause 1000/
+        move Clint 4 0 0/
+        pause 3000/
+        move Clint -1 0 0/
+        pause 2000/
+        emote Clint 8/
+        pause 1000/
+        stopMusic/
+        showframe Clint 51/
+        pause 5000/
+        emote Clint 40/
+        pause 2000/
+        globalfade/
+        viewport -2000 -2000/
+        changeLocation Town/
+        warp Clint 46 93/
+        pause 2000/
+        globalFadeToClear 0.007 true/
+        viewport 45 90/
+        advancedMove Clint false 0 -4 -2 0 3 1/
+        pause 5000/
+        playMusic sweet/
+        speak Clint \"{{i18n:14HeartEvent.Clint.06}}\"/
+        pause 2000/
+        speak Clint \"{{i18n:14HeartEvent.Clint.07}}\"/
+        speak Clint \"{{i18n:14HeartEvent.Clint.08}}\"/
+        pause 3000/
+        speak Clint \"{{i18n:14HeartEvent.Clint.09}}\"/
+        pause 1000/
+        speak Clint \"{{i18n:14HeartEvent.Clint.10}}\"/
+        speak Clint \"{{i18n:14HeartEvent.Clint.11}}\"/
+        pause 2000/
+        warp farmer 74 95/
+        advancedMove farmer false -27 0 0 -6 3 1/
+        speak Clint \"{{i18n:14HeartEvent.Clint.12}}\"/
+        proceedPosition farmer/
+        pause 1000/
+        faceDirection Clint 1/
+        speak Clint \"{{i18n:14HeartEvent.Clint.13}}\"/
+        advancedMove farmer false -2 0 0 -1 -1 0 3 1/
+        proceedPosition farmer/
+        faceDirection Clint 3/
+        speak Clint \"{{i18n:14HeartEvent.Clint.14}}\"/
+        pause 2000/
+        faceDirection Clint 0/
+        speak Clint \"{{i18n:14HeartEvent.Clint.15}}\"/
+        faceDirection Clint 3/
+        pause 1000/
+        speak Clint \"{{i18n:14HeartEvent.Clint.16}}\"/
+        faceDirection farmer 2/
+        pause 1000/
+        faceDirection farmer 3/
+        emote farmer 60/
+        pause 1000/
+        speak Clint \"{{i18n:14HeartEvent.Clint.17}}\"/
+        advancedMove Clint false 2 0 0 10/
+        pause 500/
+        globalfade/
+        viewport 1000 1000/
+        end dialogueWarpOut Clint \"{{i18n:14HeartEvent.AfterEventDialogue}}\""
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "Entries": {
+        "{{ModId}}_7heart/f Clint 1750/t 900 1700/DayOfWeek Mon Tue Wed Thu Fri/e {{ModId}}_6heart": "breezy/88 55/farmer -1000 -1000 0 Clint 88 59 0 Marlon 84 53 1 Morris -1000 -1000 2/skippable/
+          advancedMove Marlon false 4 0 2 1/
+          advancedMove Clint false 0 -5/
+          pause 1000/
+          emote Clint 16 true/
+          pause 1000/
+          speak Clint \"{{i18n:7HeartEvent.Clint.01}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.02}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.03}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.04}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.05}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.06}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.07}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.08}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.09}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.10}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.11}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.12}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.13}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.14}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.15}}\"/
+          warp Morris 95 51/
+          advancedMove Morris false 0 3 -2 0/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.16}}\"/
+          emote Morris 16 true/
+          move Morris -4 0 3/
+          speak Morris \"{{i18n:7HeartEvent.Morris.17.SVEPatch}}\"/
+          faceDirection Clint 1/
+          faceDirection Marlon 1/
+          speak Clint \"{{i18n:7HeartEvent.Clint.18}}\"/
+          speak Morris \"{{i18n:7HeartEvent.Morris.19.SVEPatch}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.20}}\"/
+          speak Morris \"{{i18n:7HeartEvent.Morris.21.SVEPatch}}\"/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.22}}\"/
+          speak Morris \"{{i18n:7HeartEvent.Morris.23.SVEPatch}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.24}}\"/
+          speak Morris \"{{i18n:7HeartEvent.Morris.25.SVEPatch}}\"/
+          advancedMove Morris false 0 -2 -6 0 0 1 -30 0/
+          pause 1000/
+          faceDirection Marlon 2/
+          pause 1000/
+          speak Marlon \"{{i18n:7HeartEvent.Marlon.26}}\"/
+          speak Clint \"{{i18n:7HeartEvent.Clint.27}}\"/
+          advancedMove Clint false 0 10/
+          pause 1000/
+          globalfade/
+          viewport 1000 1000/
+          end dialogue Clint \"{{i18n:7HeartEvent.AfterEventDialogue}}\"",
+        "{{ModId}}_8heart/f Clint 2000/t 900 1700/DayOfWeek Mon Tue Wed Thu Fri/e {{ModId}}_7heart": "fall1/74 54/farmer 63 54 1 Clint 74 54 2 Morris -1000 -1000 2/skippable/
+          move farmer 5 0 1/
+          pause 2000/
+          move farmer 5 0 2/
+          speak Clint \"{{i18n:8HeartEvent.Clint.01}}\"/
+          pause 6000/
+          speak Clint \"{{i18n:8HeartEvent.Clint.02}}\"/
+          faceDirection farmer 1/
+          pause 300/
+          quickQuestion #{{i18n:8HeartEvent.Decision1.Answer1}}#{{i18n:8HeartEvent.Decision1.Answer2}}#{{i18n:8HeartEvent.Decision1.Answer3}}
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision1.React1}}\"
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision1.React2}}\"
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision1.React3}}\"/
+          faceDirection farmer 2/
+          pause 4000/
+          emote Clint 40/
+          pause 3000/
+          speak Clint \"{{i18n:8HeartEvent.Clint.03}}\"/
+          quickQuestion #{{i18n:8HeartEvent.Decision2.Answer1}}#{{i18n:8HeartEvent.Decision2.Answer2}}
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision2.React1}}\"
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision2.React2}}\"/
+          speak Clint \"{{i18n:8HeartEvent.Clint.04}}\"/
+          pause 8000/
+          faceDirection Clint 3/
+          pause 1500/
+          faceDirection Clint 2/
+          pause 5000/
+          emote Clint 40/
+          pause 3000/
+          speak Clint \"{{i18n:8HeartEvent.Clint.05}}\"/
+          quickQuestion #{{i18n:8HeartEvent.Decision3.Answer1}}#{{i18n:8HeartEvent.Decision3.Answer2}}
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision3.React1}}\"
+          (break)speak Clint \"{{i18n:8HeartEvent.Decision3.React2}}\"/
+          pause 1000/
+          speak Clint \"{{i18n:8HeartEvent.Clint.06}}\"/
+          advancedMove Clint false 10 0 0 -1 10 0 1 1/
+          faceDirection farmer 1/
+          globalfade/
+          viewport 1000 1000/
+          stopMusic/
+          warp Morris 95 53/
+          animate Morris false true 100 16 17 18/
+          warp farmer 77 52/
+          move farmer 17 0 1 true/
+          pause 2800/
+          globalFadeToClear 0.007 true/
+          viewport 95 54/
+          pause 4000/
+          stopAnimation Morris 12/
+          speak Morris \"{{i18n:8HeartEvent.Morris.07.SVEPatch}}\"/
+          speak Clint \"{{i18n:8HeartEvent.Clint.08}}\"/
+          speak Morris \"{{i18n:8HeartEvent.Morris.09}}\"/
+          playMusic sweet/
+          faceDirection farmer 2/
+          pause 500/
+          speak Clint \"{{i18n:8HeartEvent.Clint.10}}\"/
+          speak Morris \"{{i18n:8HeartEvent.Morris.11}}\"/
+          speak Clint \"{{i18n:8HeartEvent.Clint.12}}\"/
+          speak Morris \"{{i18n:8HeartEvent.Morris.13}}\"/
+          speak Clint \"{{i18n:8HeartEvent.Clint.14}}\"/
+          speak Morris \"{{i18n:8HeartEvent.Morris.15}}\"/
+          move Morris 0 -2 0/
+          warp Morris -1000 -1000/
+          pause 2000/
+          faceDirection Clint 0/
+          speak Clint \"{{i18n:8HeartEvent.Clint.16}}\"/
+          advancedMove Clint false -6 0 0 10/
+          pause 500/
+          faceDirection farmer 3/
+          pause 1000/
+          globalfade/
+          viewport 1000 1000/
+          end dialogue Clint \"{{i18n:8HeartEvent.AfterEventDialogue}}\"/"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Mountain",
+      "Entries": {
+        "{{ModId}}_5heart/f Clint 1250/t 600 1700/e {{ModId}}_4heart/G DATE_RANGE Spring 5 1": "jaunty/53 7/farmer 45 7 0 Clint 51 7 1/skippable/
+          advancedMove Clint false 4 0 3 1/
+          pause 700/
+          faceDirection farmer 1/
+          pause 500/
+          move farmer 9 0 1/
+          speak Clint \"{{i18n:5HeartEvent.Clint.01}}\"/
+          pause 400/
+          stopMusic/
+          addTemporaryActor Marlon_Wounded 16 32 55 5 2/
+          faceDirection Clint 0/
+          faceDirection farmer 0/
+          jump Clint/
+          jump farmer 6/
+          speak Clint \"{{i18n:5HeartEvent.Clint.02}}\"/
+          speak Marlon \"{{i18n:5HeartEvent.Marlon.03}}\"/
+          emote Clint 16/
+          speak Clint \"{{i18n:5HeartEvent.Clint.04}}\"/
+          speak Marlon \"{{i18n:5HeartEvent.Marlon.05}}\"/
+          advancedMove Marlon_Wounded false 0 1 1 0 0 3 3 0 0 2 3 0 0 2 18 0/
+          pause 800/
+          faceDirection Clint 1/
+          faceDirection farmer 1/
+          pause 6000/
+          advancedMove Clint false 0 1 -12 0 1 1/
+          pause 2500/
+          faceDirection farmer 3/
+          pause 1000/
+          move farmer -5 0 1 true/
+          globalfade/
+          viewport -1000 -1000/
+          pause 1000/
+          stopAdvancedMoves/
+          pause 1000/
+          globalFadeToClear 0.007 true/
+          viewport 48 26/
+          warp Clint 48 26/
+          warp farmer 43 25/
+          playMusic sadpiano/
+          pause 1000/
+          move farmer 2 0 1/
+          pause 3000/
+          move farmer 3 0 1/
+          pause 5000/
+          faceDirection farmer 2/
+          pause 3000/
+          faceDirection farmer 1/
+          pause 4000/
+          speak Clint \"{{i18n:5HeartEvent.Clint.06}}\"/
+          pause 1500/
+          faceDirection farmer 2/
+          pause 1000/
+          quickQuestion #{{i18n:5HeartEvent.Decision1.Answer1}}#{{i18n:5HeartEvent.Decision1.Answer2}}
+          (break)speak Clint \"{{i18n:5HeartEvent.Decision1.React1}}\"
+          (break)speak Clint \"{{i18n:5HeartEvent.Decision1.React2}}\"/
+          speak Clint \"{{i18n:5HeartEvent.Clint.07}}\"/
+          pause 2000/
+          speak Clint \"{{i18n:5HeartEvent.Clint.08}}\"/
+          advancedMove Clint false -8 0 0 5/
+          pause 800/
+          faceDirection farmer 3/
+          globalfade/
+          viewport -1000 -1000/
+          end dialogue Clint \"{{i18n:5HeartEvent.AfterEventDialogue}}\"",
+        "{{ModId}}_6heart/f Clint 1500/t 600 1700/e {{ModId}}_5heart": "jaunty/49 7/farmer 56 8 3 Clint 45 8 1/skippable/changeSprite Clint Fight/
+          advancedMove Clint false 7 0 0 -1 3 0 0 -2/
+          move farmer -3 0 3 true/
+          pause 2000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.01}}\"/
+          pause 2000/
+          faceDirection farmer 0/
+          pause 1800/
+          warp Clint -1000 -1000/
+          pause 1000/
+          move farmer -7 0 3/
+          pause 5000/
+          faceDirection farmer 1/
+          pause 2000/
+          faceDirection farmer 3/
+          pause 1000/
+          emote farmer 40/
+          pause 1000/
+          move farmer -1 0 3/
+          pause 2000/
+          faceDirection farmer 1/
+          pause 2000/
+          faceDirection farmer 3/
+          pause 1000/
+          advancedMove farmer false 10 0/
+          pause 2000/
+          globalfade 0.007 true/
+          pause 2000/
+          warp farmer -1000 -1000/
+          
+          changeToTemporaryMap Mines\\27/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+		      stopAnimation Clint 4/
+		      stopAnimation farmer/
+          faceDirection farmer 2/
+          addObject 40 6 34/
+          addObject 24 10 32/
+          addObject 31 6 44/
+          addObject 19 7 34/
+          addObject 39 5 38/
+          addObject 26 10 32/
+          addObject 24 11 34/
+          ambientLight 255 255 255/
+          warp Clint 34 7/
+          addTemporaryActor Skeleton_Custom 16 32 35 9 3 true Character Skeleton_Custom_1/
+          addTemporaryActor Skeleton_Custom 16 32 36 7 3 true Character Skeleton_Custom_2/
+          addTemporaryActor Skeleton_Custom 16 32 35 7 3 true Character Skeleton_Custom_3/
+          addTemporaryActor Rock_Crab_Custom 16 24 34 5 2 true/
+          pause 2000/
+          playMusic tribal/
+          globalFadeToClear 0.007 true/
+          viewport 34 6/
+          pause 1000/
+          animate Clint false false 100 16 17 18/
+          pause 200/
+          animate Skeleton_Custom_3 false false 150 16 17/
+          playSound clubswipe/
+          playSound skeletonHit/
+          pause 300/
+          warp Skeleton_Custom_3 -1000 -1000/
+          advancedMove Skeleton_Custom_1 false -1 0 0 -1/
+          pause 500/
+          speak Clint \"{{i18n:6HeartEvent.Clint.02}}\"/
+          viewport move -4 0 2000/
+          move Rock_Crab_Custom 0 1 2 true/
+          pause 1600/
+          warp farmer 24 7/
+          pause 100/
+          faceDirection farmer 3/
+          pause 100/
+          faceDirection farmer 1/
+          emote farmer 16 true/
+          pause 500/
+          speed farmer 7/
+          move farmer 11 0 1 true/
+          pause 300/
+          screenFlash 1/
+          playSound swordswipe/
+          warp farmer 35 7/
+          viewport 34 6/
+          pause 300/          
+          animate Skeleton_Custom_1 false false 150 16 17/
+          animate Skeleton_Custom_2 false false 150 16 17/
+          animate Rock_Crab_Custom false false 150 16 17/
+          pause 300/
+          warp Skeleton_Custom_1 1000 1000/
+          warp Skeleton_Custom_2 1000 1000/
+          warp Rock_Crab_Custom 1000 1000/
+          pause 1000/
+          stopMusic/
+          speak Clint \"{{i18n:6HeartEvent.Clint.03}}\"/
+          faceDirection farmer 3/
+          quickQuestion #{{i18n:6HeartEvent.Decision1.Answer1}}#{{i18n:6HeartEvent.Decision1.Answer2}}
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision1.React1}}\"
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision1.React2}}\"/
+          speak Clint \"{{i18n:6HeartEvent.Clint.04}}\"/
+          quickQuestion #{{i18n:6HeartEvent.Decision2.Answer1}}#{{i18n:6HeartEvent.Decision2.Answer2}}
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision2.React1}}\"
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision2.React2}}\"\\animate farmer false true 100 102 103\\pause 300\\speak Clint \"{{i18n:6HeartEvent.Decision2.React2.Followup}}\"/
+          advancedMove Clint false -10 0/
+          pause 1400/
+          stopAnimation farmer 0/
+          speed farmer 2/
+          advancedMove farmer false -6 0/
+          globalfade 0.007 true/
+          pause 2000/
+          
+          changeToTemporaryMap Mines\\12/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation farmer/
+          stopAnimation Clint 4/
+          addObject 6 7 34/
+          addObject 6 6 32/
+          addObject 8 9 44/
+          addObject 25 6 44/
+          addObject 24 6 32/
+          warp farmer 9 7/
+          warp Clint 9 8/
+          warp Skeleton_Custom_1 8 7/
+          warp Skeleton_Custom_2 8 8/
+          warp Skeleton_Custom_3 7 7/
+          addTemporaryActor Skeleton_Custom 16 32 7 9 1 true Character Skeleton_Custom_4/
+          addTemporaryActor Skeleton_Custom 16 32 9 9 1 true Character Skeleton_Custom_5/
+          ambientLight 255 255 255/
+          pause 500/
+          playMusic Cowboy_OVERWORLD/
+          pause 7000/
+          globalFadeToClear 0.007 true/
+          speed farmer 6/
+          speed Clint 6/
+          advancedMove farmer false 33 0/
+          advancedMove Clint false 33 0/
+          speed Skeleton_Custom_1 4/
+          speed Skeleton_Custom_2 5/
+          speed Skeleton_Custom_3 4/
+          speed Skeleton_Custom_4 4/
+          speed Skeleton_Custom_5 4/
+          advancedMove Skeleton_Custom_1 false 33 0/
+          move Skeleton_Custom_2 33 0 1 true/
+          move Skeleton_Custom_3 33 0 1 true/
+          move Skeleton_Custom_4 33 0 1 true/
+          move Skeleton_Custom_5 33 0 1 true/
+          viewport 15 8/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.05}}\"/
+          viewport move 5 0 3000/
+          pause 3000/
+          globalfade 0.007 true/
+          pause 2000/
+          warp Clint -1000 -1000/
+          warp farmer -1000 -1000/
+          warp Skeleton_Custom_1 -1000 -1000/
+          warp Skeleton_Custom_2 -1000 -1000/
+          warp Skeleton_Custom_3 -1000 -1000/
+          warp Skeleton_Custom_4 -1000 -1000/
+          warp Skeleton_Custom_5 -1000 -1000/
+
+          changeToTemporaryMap Mines\\13/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation farmer/
+          stopAnimation Skeleton_Custom_1 4/
+          stopAnimation Clint 12/
+          pause 1000/
+          warp farmer 12 11/
+          warp Clint 16 13/
+          warp Skeleton_Custom_1 13 15/
+          ambientLight 240 240 240/
+          viewport 14 13/
+          pause 2000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.06}}\"/
+          pause 3000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.07}}\"/
+          pause 3000/
+          textAboveHead Skeleton_Custom_1 \"{{i18n:6HeartEvent.Skeleton.08}}\"/
+          playSound skeletonDie/
+          pause 400/
+          speed Clint 6/
+          advancedMove Clint false 15 0/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.09}}\"/
+          pause 1000/
+          globalfade 0.007 true/
+          pause 2000/
+          warp farmer -1000 -1000/
+          warp Clint -1000 -1000/
+          warp Skeleton_Custom_1 -1000 -1000/
+
+          changeToTemporaryMap Mines\\17/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation Clint 0/
+          warp farmer 13 26/
+          warp Clint 12 30/
+          warp Rock_Crab_Custom 12 33/
+          addObject 11 30 34/
+          addObject 11 29 32/
+          addObject 15 28 44/
+          addObject 16 33 34/
+          addObject 9 34 38/
+          addObject 9 25 32/
+          addObject 10 23 34/
+          ambientLight 0 0 0/
+          pause 1000/
+          globalFadeToClear 0.007 true/
+          viewport 12 30/
+          faceDirection Clint 1/
+          pause 1000/
+          faceDirection farmer 3/
+          pause 1000/
+          faceDirection Clint 2/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.10}}\"/
+          pause 1000/
+          faceDirection Clint 3/
+          pause 500/
+          faceDirection farmer 0/
+          pause 500/
+          faceDirection Clint 1/
+          pause 1000/
+          faceDirection Clint 2/
+          move Rock_Crab_Custom 0 -3 0 true/
+          pause 300/
+          jump Clint 8/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.11}}\"/
+          faceDirection farmer 2/
+          speed Clint 6/
+          advancedMove Clint false 0 -10/
+          globalfade 0.007 true/
+          pause 800/
+          faceDirection farmer 0/
+          pause 500/
+          warp Clint -1000 -1000/
+          warp farmer -1000 -1000/
+          warp Rock_Crab_Custom -1000 -1000/
+          
+          changeToTemporaryMap Mines\\23/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation Clint 4/
+          warp farmer 22 15/
+          warp Clint 26 13/
+          warp Skeleton_Custom_1 27 13/
+          addObject 26 14 34/
+          addObject 25 16 32/
+          addObject 23 14 44/
+          addObject 13 12 44/
+          addObject 12 12 44/
+          addObject 17 12 34/
+          addObject 22 11 34/
+          addObject 14 15 38/
+          addObject 21 21 38/
+          addObject 31 7 38/
+          addObject 20 16 32/
+          addObject 18 9 32/
+          addObject 26 16 32/
+          addObject 26 19 34/
+          addObject 26 12 34/
+          addObject 27 11 34/
+          addObject 27 12 38/
+          addObject 25 18 32/
+          addObject 17 12 34/
+          addObject 9 11 74/
+          addObject 11 11 765/
+          addObject 11 9 765/
+          addObject 12 15 765/
+          addObject 9 12 765/
+          addObject 10 15 765/
+          addObject 12 11 765/
+          addObject 9 10 765/
+          addObject 13 10 765/
+          addObject 11 10 765/
+          addObject 6 7 765/
+          addObject 11 14 765/
+          addObject 8 9 765/
+          addObject 11 19 765/
+          addObject 12 19 765/
+          addObject 12 18 765/
+          addObject 13 13 {{ModId}}_BrokenSword/
+          ambientLight 0 0 0/
+          pause 1000/
+          globalFadeToClear 0.007 true/
+          viewport 35 13/
+          pause 1000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.12}}\"/
+          move farmer 4 0 0 true/ 
+          pause 500/
+          animate Clint false false 100 16 17 18/
+          pause 200/
+          animate Skeleton_Custom_1 false false 150 16 17/
+          playSound clubswipe/
+          playSound skeletonHit/
+          pause 300/
+          warp Skeleton_Custom_1 -1000 -1000/
+          pause 2000/
+          faceDirection Clint 0/
+          pause 800/
+          stopMusic/
+          faceDirection Clint 3/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.13}}\"/
+          viewport move -9 0 2000/
+          speed Clint 4/
+          advancedMove Clint false -12 0 3 1/
+          faceDirection farmer 3/
+          pause 500/
+          speed farmer 3/
+          advancedMove farmer false -11 0 0 -1 -1 0 3 1/
+          pause 1000/
+          speak Clint \"{{i18n:6HeartEvent.Clint.14}}\"/
+          globalfade/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation Clint 8/
+          stopAnimation farmer/
+
+          changeLocation Blacksmith/
+          playMusic breezy/
+          globalFadeToClear 0.007 true/
+          viewport 5 15/
+          pause 1000/
+          playSound doorOpen/
+          warp Clint 5 19/
+          advancedMove Clint false 0 -4 2 1/ 
+          pause 500/
+          warp farmer 5 19/
+          advancedMove farmer false 0 -2 4 1/
+          pause 400/
+          speak Clint \"{{i18n:6HeartEvent.Clint.15}}\"/
+          emote farmer 32/
+          pause 4000/
+          speak Clint \"{{i18n:6HeartEvent.Clint.16}}\"/
+          move farmer 0 2 2 true/
+          emote farmer 28/
+          end dialogueWarpOut Clint \"{{i18n:6HeartEvent.AfterEventDialogue}}\"/"
+      },
+      "When": {
+        "HasMod": "Spiderbuttons.CMCT", //Need to repeat the conditions check here or CMCT will throw an error
+        "Query: {{Spiderbuttons.CMCT/Config: FlashShifter.StardewValleyExpandedCP, OriginalMinesEntrance}} = true": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Mountain",
+      "Entries": {
+        "{{ModId}}_5heart/f Clint 1250/t 600 1700/e {{ModId}}_4heart/G DATE_RANGE Spring 5 1": null,
+        "{{ModId}}_6heart/f Clint 1500/t 600 1700/e {{ModId}}_5heart": null
+      },
+      "When": {
+        "HasMod": "Spiderbuttons.CMCT", //Need to repeat the conditions check here or CMCT will throw an error
+        "Query: {{Spiderbuttons.CMCT/Config: FlashShifter.StardewValleyExpandedCP, OriginalMinesEntrance}} = true": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Custom_AdventurerSummit",
+      "Entries": {
+        "{{ModId}}_5heart/f Clint 1250/t 600 1700/e {{ModId}}_4heart/G DATE_RANGE Spring 5 1": "jaunty/31 28/farmer 31 38 0 Clint 31 34 0/skippable/
+          advancedMove Clint false 0 -2 2 1/
+          move farmer 0 -5 0 false/
+          speak Clint \"{{i18n:5HeartEvent.Clint.01}}\"/
+          addTemporaryActor Marlon_Wounded 16 32 19 15 2/
+          advancedMove Marlon_Wounded false 0 4 1 0 0 2 3 0 0 3 2 0/
+          pause 1500/
+          advancedMove Clint false 0 -8 3 1/
+          viewport move 0 -2 2000/
+          pause 400/
+          advancedMove farmer false 0 -8 3 1/
+          proceedPosition farmer/
+          stopMusic/
+          jump Clint/
+          jump farmer 6/
+          pause 1000/
+          viewport move -4 0 1000/
+          speed Clint 5/
+          advancedMove Clint false -5 0 3 1/
+          speed farmer 5/
+          advancedMove farmer false -5 0 3 1/
+          proceedPosition farmer/
+          speak Clint \"{{i18n:5HeartEvent.Clint.02}}\"/
+          speak Marlon \"{{i18n:5HeartEvent.Marlon.03}}\"/
+          emote Clint 16/
+          speak Clint \"{{i18n:5HeartEvent.Clint.04}}\"/
+          speak Marlon \"{{i18n:5HeartEvent.Marlon.05}}\"/
+          advancedMove Marlon_Wounded false 0 -1 7 0 0 -1/
+          pause 800/
+          faceDirection Clint 1/
+          faceDirection farmer 1/
+          proceedPosition Marlon_Wounded/
+          warp Marlon_Wounded -100 -100/
+          pause 2000/
+          speed Clint 2/
+          advancedMove Clint false 1 0 0 3 4 0 0 5/
+          pause 2500/
+          faceDirection farmer 2/
+          pause 1000/
+          speed farmer 2/
+          advancedMove farmer false 2 0 0 3 1 1/
+          globalfade/
+          viewport -1000 -1000/
+          pause 1000/
+          stopAdvancedMoves/
+          stopAnimation Clint 4/
+		      stopAnimation farmer/
+          halt/
+          changeLocation Mountain/
+          pause 1000/
+          warp Clint 48 26/
+          warp farmer 43 25/
+          playMusic sadpiano/
+          globalFadeToClear 0.007 true/
+          viewport 48 26/
+          pause 1000/
+          move farmer 2 0 1/
+          pause 3000/
+          move farmer 3 0 1/
+          pause 5000/
+          faceDirection farmer 2/
+          pause 3000/
+          faceDirection farmer 1/
+          pause 4000/
+          speak Clint \"{{i18n:5HeartEvent.Clint.06}}\"/
+          pause 1500/
+          faceDirection farmer 2/
+          pause 1000/
+          quickQuestion #{{i18n:5HeartEvent.Decision1.Answer1}}#{{i18n:5HeartEvent.Decision1.Answer2}}
+          (break)speak Clint \"{{i18n:5HeartEvent.Decision1.React1}}\"
+          (break)speak Clint \"{{i18n:5HeartEvent.Decision1.React2}}\"/
+          speak Clint \"{{i18n:5HeartEvent.Clint.07}}\"/
+          pause 2000/
+          speak Clint \"{{i18n:5HeartEvent.Clint.08}}\"/
+          advancedMove Clint false -8 0 0 5/
+          pause 800/
+          faceDirection farmer 3/
+          globalfade/
+          viewport -1000 -1000/
+          end dialogue Clint \"{{i18n:5HeartEvent.AfterEventDialogue}}\"",
+        "{{ModId}}_6heart/f Clint 1500/t 600 1700/e {{ModId}}_5heart": "jaunty/32 26/farmer 32 22 2 Clint 32 29 0/skippable/changeSprite Clint Fight/
+          advancedMove Clint false 0 -4 -7 0 0 -2 -2 0 0 -2 -2 0 0 -1 -1 0 0 -2 -1 0 0 -3/
+          move farmer 0 2 2 true/
+          pause 1000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.01}}\"/
+          pause 2000/
+          faceDirection farmer 3/
+          pause 2500/
+          move farmer 0 3 2/
+          proceedPosition Clint/
+          warp Clint -1000 -1000/
+          faceDirection farmer 3/
+          pause 2000/
+          faceDirection farmer 2/
+          pause 1000/
+          emote farmer 40/
+          pause 1000/
+          move farmer 0 1 2/
+          pause 2000/
+          faceDirection farmer 3/
+          pause 2000/
+          faceDirection farmer 2/
+          pause 1000/
+          advancedMove farmer false 0 -2 -3 0 0 -3 -2 0 0 -3 -3 0/
+          pause 2000/
+          globalfade 0.007 true/
+          pause 2000/
+          warp farmer -1000 -1000/
+          
+          changeToTemporaryMap Mines\\27/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+		      stopAnimation Clint 4/
+		      stopAnimation farmer/
+          faceDirection farmer 2/
+          addObject 40 6 34/
+          addObject 24 10 32/
+          addObject 31 6 44/
+          addObject 19 7 34/
+          addObject 39 5 38/
+          addObject 26 10 32/
+          addObject 24 11 34/
+          ambientLight 255 255 255/
+          warp Clint 34 7/
+          addTemporaryActor Skeleton_Custom 16 32 35 9 3 true Character Skeleton_Custom_1/
+          addTemporaryActor Skeleton_Custom 16 32 36 7 3 true Character Skeleton_Custom_2/
+          addTemporaryActor Skeleton_Custom 16 32 35 7 3 true Character Skeleton_Custom_3/
+          addTemporaryActor Rock_Crab_Custom 16 24 34 5 2 true/
+          pause 2000/
+          playMusic tribal/
+          globalFadeToClear 0.007 true/
+          viewport 34 6/
+          pause 1000/
+          animate Clint false false 100 16 17 18/
+          pause 200/
+          animate Skeleton_Custom_3 false false 150 16 17/
+          playSound clubswipe/
+          playSound skeletonHit/
+          pause 300/
+          warp Skeleton_Custom_3 -1000 -1000/
+          advancedMove Skeleton_Custom_1 false -1 0 0 -1/
+          pause 500/
+          speak Clint \"{{i18n:6HeartEvent.Clint.02}}\"/
+          viewport move -4 0 2000/
+          move Rock_Crab_Custom 0 1 2 true/
+          pause 1600/
+          warp farmer 24 7/
+          pause 100/
+          faceDirection farmer 3/
+          pause 100/
+          faceDirection farmer 1/
+          emote farmer 16 true/
+          pause 500/
+          speed farmer 7/
+          move farmer 11 0 1 true/
+          pause 300/
+          screenFlash 1/
+          playSound swordswipe/
+          warp farmer 35 7/
+          viewport 34 6/
+          pause 300/          
+          animate Skeleton_Custom_1 false false 150 16 17/
+          animate Skeleton_Custom_2 false false 150 16 17/
+          animate Rock_Crab_Custom false false 150 16 17/
+          pause 300/
+          warp Skeleton_Custom_1 1000 1000/
+          warp Skeleton_Custom_2 1000 1000/
+          warp Rock_Crab_Custom 1000 1000/
+          pause 1000/
+          stopMusic/
+          speak Clint \"{{i18n:6HeartEvent.Clint.03}}\"/
+          faceDirection farmer 3/
+          quickQuestion #{{i18n:6HeartEvent.Decision1.Answer1}}#{{i18n:6HeartEvent.Decision1.Answer2}}
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision1.React1}}\"
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision1.React2}}\"/
+          speak Clint \"{{i18n:6HeartEvent.Clint.04}}\"/
+          quickQuestion #{{i18n:6HeartEvent.Decision2.Answer1}}#{{i18n:6HeartEvent.Decision2.Answer2}}
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision2.React1}}\"
+          (break)speak Clint \"{{i18n:6HeartEvent.Decision2.React2}}\"\\animate farmer false true 100 102 103\\pause 300\\speak Clint \"{{i18n:6HeartEvent.Decision2.React2.Followup}}\"/
+          advancedMove Clint false -10 0/
+          pause 1400/
+          stopAnimation farmer 0/
+          speed farmer 2/
+          advancedMove farmer false -6 0/
+          globalfade 0.007 true/
+          pause 2000/
+          
+          changeToTemporaryMap Mines\\12/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation farmer/
+          stopAnimation Clint 4/
+          addObject 6 7 34/
+          addObject 6 6 32/
+          addObject 8 9 44/
+          addObject 25 6 44/
+          addObject 24 6 32/
+          warp farmer 9 7/
+          warp Clint 9 8/
+          warp Skeleton_Custom_1 8 7/
+          warp Skeleton_Custom_2 8 8/
+          warp Skeleton_Custom_3 7 7/
+          addTemporaryActor Skeleton_Custom 16 32 7 9 1 true Character Skeleton_Custom_4/
+          addTemporaryActor Skeleton_Custom 16 32 9 9 1 true Character Skeleton_Custom_5/
+          ambientLight 255 255 255/
+          pause 500/
+          playMusic Cowboy_OVERWORLD/
+          pause 7000/
+          globalFadeToClear 0.007 true/
+          speed farmer 6/
+          speed Clint 6/
+          advancedMove farmer false 33 0/
+          advancedMove Clint false 33 0/
+          speed Skeleton_Custom_1 4/
+          speed Skeleton_Custom_2 5/
+          speed Skeleton_Custom_3 4/
+          speed Skeleton_Custom_4 4/
+          speed Skeleton_Custom_5 4/
+          advancedMove Skeleton_Custom_1 false 33 0/
+          move Skeleton_Custom_2 33 0 1 true/
+          move Skeleton_Custom_3 33 0 1 true/
+          move Skeleton_Custom_4 33 0 1 true/
+          move Skeleton_Custom_5 33 0 1 true/
+          viewport 15 8/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.05}}\"/
+          viewport move 5 0 3000/
+          pause 3000/
+          globalfade 0.007 true/
+          pause 2000/
+          warp Clint -1000 -1000/
+          warp farmer -1000 -1000/
+          warp Skeleton_Custom_1 -1000 -1000/
+          warp Skeleton_Custom_2 -1000 -1000/
+          warp Skeleton_Custom_3 -1000 -1000/
+          warp Skeleton_Custom_4 -1000 -1000/
+          warp Skeleton_Custom_5 -1000 -1000/
+
+          changeToTemporaryMap Mines\\13/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation farmer/
+          stopAnimation Skeleton_Custom_1 4/
+          stopAnimation Clint 12/
+          pause 1000/
+          warp farmer 12 11/
+          warp Clint 16 13/
+          warp Skeleton_Custom_1 13 15/
+          ambientLight 240 240 240/
+          viewport 14 13/
+          pause 2000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.06}}\"/
+          pause 3000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.07}}\"/
+          pause 3000/
+          textAboveHead Skeleton_Custom_1 \"{{i18n:6HeartEvent.Skeleton.08}}\"/
+          playSound skeletonDie/
+          pause 400/
+          speed Clint 6/
+          advancedMove Clint false 15 0/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.09}}\"/
+          pause 1000/
+          globalfade 0.007 true/
+          pause 2000/
+          warp farmer -1000 -1000/
+          warp Clint -1000 -1000/
+          warp Skeleton_Custom_1 -1000 -1000/
+
+          changeToTemporaryMap Mines\\17/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation Clint 0/
+          warp farmer 13 26/
+          warp Clint 12 30/
+          warp Rock_Crab_Custom 12 33/
+          addObject 11 30 34/
+          addObject 11 29 32/
+          addObject 15 28 44/
+          addObject 16 33 34/
+          addObject 9 34 38/
+          addObject 9 25 32/
+          addObject 10 23 34/
+          ambientLight 0 0 0/
+          pause 1000/
+          globalFadeToClear 0.007 true/
+          viewport 12 30/
+          faceDirection Clint 1/
+          pause 1000/
+          faceDirection farmer 3/
+          pause 1000/
+          faceDirection Clint 2/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.10}}\"/
+          pause 1000/
+          faceDirection Clint 3/
+          pause 500/
+          faceDirection farmer 0/
+          pause 500/
+          faceDirection Clint 1/
+          pause 1000/
+          faceDirection Clint 2/
+          move Rock_Crab_Custom 0 -3 0 true/
+          pause 300/
+          jump Clint 8/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.11}}\"/
+          faceDirection farmer 2/
+          speed Clint 6/
+          advancedMove Clint false 0 -10/
+          globalfade 0.007 true/
+          pause 800/
+          faceDirection farmer 0/
+          pause 500/
+          warp Clint -1000 -1000/
+          warp farmer -1000 -1000/
+          warp Rock_Crab_Custom -1000 -1000/
+          
+          changeToTemporaryMap Mines\\23/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation Clint 4/
+          warp farmer 22 15/
+          warp Clint 26 13/
+          warp Skeleton_Custom_1 27 13/
+          addObject 26 14 34/
+          addObject 25 16 32/
+          addObject 23 14 44/
+          addObject 13 12 44/
+          addObject 12 12 44/
+          addObject 17 12 34/
+          addObject 22 11 34/
+          addObject 14 15 38/
+          addObject 21 21 38/
+          addObject 31 7 38/
+          addObject 20 16 32/
+          addObject 18 9 32/
+          addObject 26 16 32/
+          addObject 26 19 34/
+          addObject 26 12 34/
+          addObject 27 11 34/
+          addObject 27 12 38/
+          addObject 25 18 32/
+          addObject 17 12 34/
+          addObject 9 11 74/
+          addObject 11 11 765/
+          addObject 11 9 765/
+          addObject 12 15 765/
+          addObject 9 12 765/
+          addObject 10 15 765/
+          addObject 12 11 765/
+          addObject 9 10 765/
+          addObject 13 10 765/
+          addObject 11 10 765/
+          addObject 6 7 765/
+          addObject 11 14 765/
+          addObject 8 9 765/
+          addObject 11 19 765/
+          addObject 12 19 765/
+          addObject 12 18 765/
+          addObject 13 13 {{ModId}}_BrokenSword/
+          ambientLight 0 0 0/
+          pause 1000/
+          globalFadeToClear 0.007 true/
+          viewport 35 13/
+          pause 1000/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.12}}\"/
+          move farmer 4 0 0 true/ 
+          pause 500/
+          animate Clint false false 100 16 17 18/
+          pause 200/
+          animate Skeleton_Custom_1 false false 150 16 17/
+          playSound clubswipe/
+          playSound skeletonHit/
+          pause 300/
+          warp Skeleton_Custom_1 -1000 -1000/
+          pause 2000/
+          faceDirection Clint 0/
+          pause 800/
+          stopMusic/
+          faceDirection Clint 3/
+          textAboveHead Clint \"{{i18n:6HeartEvent.Clint.13}}\"/
+          viewport move -9 0 2000/
+          speed Clint 4/
+          advancedMove Clint false -12 0 3 1/
+          faceDirection farmer 3/
+          pause 500/
+          speed farmer 3/
+          advancedMove farmer false -11 0 0 -1 -1 0 3 1/
+          pause 1000/
+          speak Clint \"{{i18n:6HeartEvent.Clint.14}}\"/
+          globalfade/
+          viewport -2000 -2000/
+          stopAdvancedMoves/
+          stopAnimation Clint 8/
+          stopAnimation farmer/
+
+          changeLocation Blacksmith/
+          playMusic breezy/
+          globalFadeToClear 0.007 true/
+          viewport 5 15/
+          pause 1000/
+          playSound doorOpen/
+          warp Clint 5 19/
+          advancedMove Clint false 0 -4 2 1/ 
+          pause 500/
+          warp farmer 5 19/
+          advancedMove farmer false 0 -2 4 1/
+          pause 400/
+          speak Clint \"{{i18n:6HeartEvent.Clint.15}}\"/
+          emote farmer 32/
+          pause 4000/
+          speak Clint \"{{i18n:6HeartEvent.Clint.16}}\"/
+          move farmer 0 2 2 true/
+          emote farmer 28/
+          end dialogueWarpOut Clint \"{{i18n:6HeartEvent.AfterEventDialogue}}\"/"
+      },
+      "When": {
+        "HasMod": "Spiderbuttons.CMCT", //Need to repeat the conditions check here or CMCT will throw an error
+        "Query: {{Spiderbuttons.CMCT/Config: FlashShifter.StardewValleyExpandedCP, OriginalMinesEntrance}} = true": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Mountain, Data/Events/Custom_AdventurerSummit",
+      "TextOperations": [
+        {
+          "Operation": "ReplaceDelimited",
+          "Target": ["Entries", "{{ModId}}_6heart/f Clint 1500/t 600 1700/e {{ModId}}_5heart"],
+          "Search": "changeSprite Clint Fight",
+          "Value": "changeSprite Clint Winter_Fight",
+          "Delimiter": "/"
+        }
+      ],
+      "When": {
+        "Season": "winter"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Blacksmith",
+      "TextOperations": [
+        {
+          "Operation": "ReplaceDelimited",
+          "Target": ["Entries", "{{ModId}}_10heart/f Clint 2500/p Clint/e {{ModId}}_8heart"],
+          "Search": "changeSprite Clint Shirtless",
+          "Value": "changeSprite Clint Winter_Shirtless",
+          "Delimiter": "/"
+        }
+      ],
+      "When": {
+        "Season": "winter"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "TextOperations": [
+        {
+          "Operation": "ReplaceDelimited",
+          "Target": ["Entries", "831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny"],
+          "Search": "changeSprite Emily Blue",
+          "Value": "changeSprite Emily Blue_Winter",
+          "Delimiter": "/"
+        }
+      ],
+      "When": {
+        "Season": "winter"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "TextOperations": [
+        { //Make Shane not walk though a pillar
+          "Operation": "ReplaceDelimited",
+          "Target": ["Entries", "831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny"],
+          "Search": "advancedMove Shane false 0 -1 5 0 4 1",
+          "Value": "advancedMove Shane false 0 -1 3 0 0 -1 2 0 4 1",
+          "Delimiter": "/"
+        }
+      ],
+      "When": {
+        "Season": "winter"
+      }
+    },
+    { //Railroad boulder - part 1
+      "Action": "EditData",
+      "Target": "data/events/Railroad",
+      "When": {
+        "HasWalletItem": "SkullKey",
+        "Query: '{{Spouse}}' = 'Clint'": false
+      },
+      "Entries": {
+        "8050107/t 600 1500/H": "continue/-500 -500/farmer 33 26 1 Clint 45 26 0 MarlonFay 14 19 0 Susan 43 51 0/positionOffset MarlonFay 4 15/positionOffset Susan -12 -6/viewport 44 32 clamp true/
+        viewport move 0 -1 5000 true/skippable/move farmer 10 0 1 true/pause 6250/faceDirection Clint 3 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent1.01}}\"/pause 500/faceDirection Clint 0 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent1.02}}\"/pause 500/jump farmer/pause 1150/faceDirection Clint 3 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent1.03}}\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Lewis \"{{i18n:Clint.OrderEvent1.04}}\"",
+      }
+    },
+    { //Railroad boulder - part 1 Married dialogue
+      "Action": "EditData",
+      "Target": "data/events/Railroad",
+      "When": {
+        "HasWalletItem": "SkullKey",
+        "Spouse": "Clint"
+      },
+      "Entries": {
+        "8050107/t 600 1500/H": "continue/-500 -500/farmer 33 26 1 Clint 45 26 0 MarlonFay 14 19 0 Susan 43 51 0/positionOffset MarlonFay 4 15/positionOffset Susan -12 -6/viewport 44 32 clamp true/
+        viewport move 0 -1 5000 true/skippable/move farmer 10 0 1 true/pause 6250/faceDirection Clint 3 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent1.01}}\"/pause 500/faceDirection Clint 0 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent1.02}}\"/pause 500/jump farmer/pause 1150/faceDirection Clint 3 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent1.03.Marriage}}\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Lewis \"{{i18n:Clint.OrderEvent1.04}}\"",
+      }
+    },
+    { //Railroad boulder - part 2 
+      "Action": "EditData",
+      "Target": "data/events/Blacksmith",
+      "When": {
+        "Query: '{{Spouse}}' = 'Clint'": false
+      },
+      "Entries": {
+        "8050108/e 8050107": "continue/-500 -500/farmer 5 19 0 Clint 7 12 0/pause 700/viewport 8 15 true/skippable/move farmer 0 -3 1/
+        move farmer 2 0 0/move farmer 0 -1 0/pause 1300/emote farmer 40/pause 500/faceDirection Clint 3 true/pause 200/faceDirection Clint 2 true/
+        pause 300/emote Clint 16 true/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.01}}\"/pause 1000/move Clint 0 1 2/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.02}}\"/pause 500/faceDirection farmer 1 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.03}}\"/pause 500/faceDirection farmer 0 true/pause 500/
+        emote farmer 32 true/pause 400/globalFade/viewport -1000 -1000/pause 500/end dialogue Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.04}}\"",
+      }
+    },
+    { //Railroad boulder - part 2 Married dialogue
+      "Action": "EditData",
+      "Target": "data/events/Blacksmith",
+      "When": {
+        "Spouse": "Clint"
+      },
+      "Entries": {
+        "8050108/e 8050107": "continue/-500 -500/farmer 5 19 0 Clint 7 12 0/pause 700/viewport 8 15 true/skippable/move farmer 0 -3 1/
+        move farmer 2 0 0/move farmer 0 -1 0/pause 1300/emote farmer 40/pause 500/faceDirection Clint 3 true/pause 200/faceDirection Clint 2 true/
+        pause 300/emote Clint 16 true/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.01.Marriage}}\"/pause 1000/move Clint 0 1 2/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.02}}\"/pause 500/faceDirection farmer 1 true/pause 500/
+        speak Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.03.Marriage}}\"/pause 500/faceDirection farmer 0 true/pause 500/
+        emote farmer 32 true/pause 400/globalFade/viewport -1000 -1000/pause 500/end dialogue Clint \"{{i18n:SVEPatch.Clint.OrderEvent2.04.Marriage}}\"",
+      }
+    }
+  ]
+}

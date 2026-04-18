@@ -5,13 +5,15 @@
 					
 	*/
 
-  "Format": "2.0.0",
+  "Format": "2.8.1",
   
   "ConfigSchema": {
 	  "Cat Breeds": {
-		  "AllowValues": "Bengal, BengalSilver, BengalVoid, BicolorBlonde, BicolorFawn, BicolorBrown, BicolorRed, BicolorMidnight, BicolorBlack, BicolorGrey, BicolorSilver, BicolorVoid, Calico1, Calico1Diluted, Calico1Void, Calico2, Calico2Diluted, Calico2Void, Chimera, ChimeraDiluted, ChimeraVoid, FoldBicolorBlonde, FoldBicolorFawn, FoldBicolorBrown, FoldBicolorRed, FoldBicolorMidnight, FoldBicolorBlack, FoldBicolorGrey, FoldBicolorSilver, FoldBicolorVoid, FoldSolidCream, FoldSolidBlonde, FoldSolidFawn, FoldSolidBrown, FoldSolidRed, FoldSolidMidnight, FoldSolidBlack, FoldSolidGrey, FoldSolidSilver, FoldSolidWhite, FoldSolidVoid, FoldStripedCream, FoldStripedBlonde, FoldStripedFawn, FoldStripedBrown, FoldStripedRed, FoldStripedMidnight, FoldStripedBlack, FoldStripedGrey, FoldStripedSilver, FoldStripedWhite, FoldStripedVoid, Ocicat, OcicatSilver, OcicatVoid, PointedBlonde, PointedFawn, PointedBrown, PointedRed, PointedMidnight, PointedBlack, PointedGrey, PointedSilver, PointedVoid, RagdollFawn, RagdollTan, RagdollRed, RagdollSilver, RagdollVoid, Siamese, SiameseSilver, SiameseVoid, SnowshoeFawn, SnowshoeTan, SnowshoeBrown, SnowshoeRed, SnowshoeGrey, SnowshoeSilver, SnowshoeVoid, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SocksVoid, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SolidVoid, SolidVanilla, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SpottedVoid, StripedCream, StripedBlonde, StripedFawn, StripedBrown, StripedRed, StripedMidnight, StripedBlack, StripedGrey, StripedSilver, StripedWhite, StripedVoid, StripedVanilla, StripedSocksBlonde, StripedSocksFawn, StripedSocksBrown, StripedSocksRed, StripedSocksMidnight, StripedSocksBlack, StripedSocksGrey, StripedSocksSilver, StripedSocksVoid, StripedSocksVanilla, Tortie1, Tortie1Diluted, Tortie1Void, Tortie2, Tortie2Diluted, Tortie2Void, TurkishBlonde, TurkishFawn, TurkishBrown, TurkishRed, TurkishMidnight, TurkishBlack, TurkishGrey, TurkishSilver, TurkishVoid, TuxedoBlonde, TuxedoFawn, TuxedoBrown, TuxedoRed, TuxedoMidnight, TuxedoBlack, TuxedoGrey, TuxedoSilver, TuxedoVoid",
+		  "AllowValues": "Bengal, BengalSilver, BengalVoid, BicolorBlonde, BicolorFawn, BicolorBrown, BicolorRed, BicolorMidnight, BicolorBlack, BicolorGrey, BicolorSilver, BicolorVoid, BobtailTricolor, BobtailTricolor2, BobtailVoid, Calico1, Calico1Diluted, Calico1Void, Calico2, Calico2Diluted, Calico2Void, Chimera, ChimeraDiluted, ChimeraVoid, FoldBicolorBlonde, FoldBicolorFawn, FoldBicolorBrown, FoldBicolorRed, FoldBicolorMidnight, FoldBicolorBlack, FoldBicolorGrey, FoldBicolorSilver, FoldBicolorVoid, FoldSolidCream, FoldSolidBlonde, FoldSolidFawn, FoldSolidBrown, FoldSolidRed, FoldSolidMidnight, FoldSolidBlack, FoldSolidGrey, FoldSolidSilver, FoldSolidWhite, FoldSolidVoid, FoldStripedCream, FoldStripedBlonde, FoldStripedFawn, FoldStripedBrown, FoldStripedRed, FoldStripedMidnight, FoldStripedBlack, FoldStripedGrey, FoldStripedSilver, FoldStripedWhite, FoldStripedVoid, Ocicat, OcicatSilver, OcicatVoid, PointedBlonde, PointedFawn, PointedBrown, PointedRed, PointedMidnight, PointedBlack, PointedGrey, PointedSilver, PointedVoid, RagdollFawn, RagdollTan, RagdollRed, RagdollSilver, RagdollVoid, Siamese, SiameseSilver, SiameseVoid, SnowshoeFawn, SnowshoeTan, SnowshoeBrown, SnowshoeRed, SnowshoeGrey, SnowshoeSilver, SnowshoeVoid, SocksBlonde, SocksFawn, SocksBrown, SocksRed, SocksMidnight, SocksBlack, SocksGrey, SocksSilver, SocksVoid, SolidCream, SolidBlonde, SolidFawn, SolidBrown, SolidRed, SolidMidnight, SolidBlack, SolidGrey, SolidSilver, SolidWhite, SolidVoid, SolidVanilla, SpottedBlonde, SpottedFawn, SpottedBrown, SpottedRed, SpottedMidnight, SpottedBlack, SpottedGrey, SpottedSilver, SpottedVoid, StripedCream, StripedBlonde, StripedFawn, StripedBrown, StripedRed, StripedMidnight, StripedBlack, StripedGrey, StripedSilver, StripedWhite, StripedVoid, StripedVanilla, StripedSocksBlonde, StripedSocksFawn, StripedSocksBrown, StripedSocksRed, StripedSocksMidnight, StripedSocksBlack, StripedSocksGrey, StripedSocksSilver, StripedSocksVoid, StripedSocksVanilla, Tortie1, Tortie1Diluted, Tortie1Void, Tortie2, Tortie2Diluted, Tortie2Void, TurkishBlonde, TurkishFawn, TurkishBrown, TurkishRed, TurkishMidnight, TurkishBlack, TurkishGrey, TurkishSilver, TurkishVoid, TuxedoBlonde, TuxedoFawn, TuxedoBrown, TuxedoRed, TuxedoMidnight, TuxedoBlack, TuxedoGrey, TuxedoSilver, TuxedoVoid",
 		  "AllowMultiple": true,
 		  "Default": "SolidWhite, TuxedoBlack, TurkishFawn, SnowshoeTan, Siamese, RagdollSilver, Calico1Diluted, Calico2, Tortie1, FoldBicolorGrey"},
+	  "Adoption Price": {
+		  "Default": "40000"},
     },
 	
 	
@@ -34,7 +36,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidCream" },
@@ -56,7 +59,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidBlonde" },
@@ -78,7 +82,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidFawn" },
@@ -100,7 +105,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidBrown" },
@@ -122,7 +128,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidRed" },
@@ -144,7 +151,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidMidnight" },
@@ -166,7 +174,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidBlack" },
@@ -188,7 +197,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidGrey" },
@@ -210,7 +220,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidSilver" },
@@ -232,7 +243,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidWhite" },
@@ -254,7 +266,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidVoid" },
@@ -276,7 +289,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SolidVanilla" },
@@ -300,7 +314,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksBlonde" },
@@ -322,7 +337,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksFawn" },
@@ -344,7 +360,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksBrown" },
@@ -366,7 +383,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksRed" },
@@ -388,7 +406,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksMidnight" },
@@ -410,7 +429,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksBlack" },
@@ -432,7 +452,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksGrey" },
@@ -454,7 +475,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksSilver" },
@@ -476,7 +498,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SocksVoid" },
@@ -500,7 +523,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedCream" },
@@ -522,7 +546,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedBlonde" },
@@ -544,7 +569,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedFawn" },
@@ -566,7 +592,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedBrown" },
@@ -588,7 +615,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedRed" },
@@ -610,7 +638,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedMidnight" },
@@ -632,7 +661,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedBlack" },
@@ -654,7 +684,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedGrey" },
@@ -676,7 +707,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSilver" },
@@ -698,7 +730,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedWhite" },
@@ -720,7 +753,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedVoid" },
@@ -742,7 +776,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedVanilla" },
@@ -766,7 +801,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksBlonde" },
@@ -788,7 +824,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksFawn" },
@@ -810,7 +847,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksBrown" },
@@ -832,7 +870,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksRed" },
@@ -854,7 +893,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksMidnight" },
@@ -876,7 +916,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksBlack" },
@@ -898,7 +939,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksGrey" },
@@ -920,7 +962,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksSilver" },
@@ -942,7 +985,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksVoid" },
@@ -964,7 +1008,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "StripedSocksVanilla" },
@@ -988,7 +1033,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoBlonde" },
@@ -1010,7 +1056,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoFawn" },
@@ -1032,7 +1079,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoBrown" },
@@ -1054,7 +1102,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoRed" },
@@ -1076,7 +1125,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoMidnight" },
@@ -1098,7 +1148,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoBlack" },
@@ -1120,7 +1171,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoGrey" },
@@ -1142,7 +1194,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoSilver" },
@@ -1164,7 +1217,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TuxedoVoid" },
@@ -1188,7 +1242,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorBlonde" },
@@ -1210,7 +1265,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorFawn" },
@@ -1232,7 +1288,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorBrown" },
@@ -1254,7 +1311,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorRed" },
@@ -1276,7 +1334,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorMidnight" },
@@ -1298,7 +1357,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorBlack" },
@@ -1320,7 +1380,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorGrey" },
@@ -1342,7 +1403,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorSilver" },
@@ -1364,7 +1426,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BicolorVoid" },
@@ -1388,7 +1451,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedBlonde" },
@@ -1410,7 +1474,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedFawn" },
@@ -1432,7 +1497,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedBrown" },
@@ -1454,7 +1520,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedRed" },
@@ -1476,7 +1543,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedMidnight" },
@@ -1498,7 +1566,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedBlack" },
@@ -1520,7 +1589,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedGrey" },
@@ -1542,7 +1612,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedSilver" },
@@ -1564,7 +1635,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SpottedVoid" },
@@ -1588,7 +1660,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedBlonde" },
@@ -1610,7 +1683,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedFawn" },
@@ -1632,7 +1706,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedBrown" },
@@ -1654,7 +1729,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedRed" },
@@ -1676,7 +1752,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedMidnight" },
@@ -1698,7 +1775,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedBlack" },
@@ -1720,7 +1798,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedGrey" },
@@ -1742,7 +1821,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedSilver" },
@@ -1764,7 +1844,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "PointedVoid" },
@@ -1788,7 +1869,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishBlonde" },
@@ -1810,7 +1892,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishFawn" },
@@ -1832,7 +1915,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishBrown" },
@@ -1854,7 +1938,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishRed" },
@@ -1876,7 +1961,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishMidnight" },
@@ -1898,7 +1984,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishBlack" },
@@ -1920,7 +2007,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishGrey" },
@@ -1942,7 +2030,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishSilver" },
@@ -1964,7 +2053,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "TurkishVoid" },
@@ -1988,7 +2078,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeFawn" },
@@ -2010,7 +2101,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeTan" },
@@ -2032,7 +2124,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeBrown" },
@@ -2054,7 +2147,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeRed" },
@@ -2076,7 +2170,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeGrey" },
@@ -2098,7 +2193,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeSilver" },
@@ -2120,7 +2216,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SnowshoeVoid" },
@@ -2144,7 +2241,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Siamese" },
@@ -2166,7 +2264,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SiameseSilver" },
@@ -2188,7 +2287,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "SiameseVoid" },
@@ -2212,7 +2312,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "RagdollFawn" },
@@ -2234,7 +2335,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "RagdollTan" },
@@ -2256,7 +2358,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "RagdollRed" },
@@ -2278,7 +2381,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "RagdollSilver" },
@@ -2300,7 +2404,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "RagdollVoid" },
@@ -2324,7 +2429,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Ocicat" },
@@ -2346,7 +2452,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "OcicatSilver" },
@@ -2368,7 +2475,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "OcicatVoid" },
@@ -2392,7 +2500,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Bengal" },
@@ -2414,7 +2523,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BengalSilver" },
@@ -2436,7 +2546,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "BengalVoid" },
@@ -2460,7 +2571,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Calico1" },
@@ -2482,7 +2594,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Calico1Diluted" },
@@ -2504,7 +2617,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Calico1Void" },
@@ -2526,7 +2640,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Calico2" },
@@ -2548,7 +2663,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Calico2Diluted" },
@@ -2570,7 +2686,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Calico2Void" },
@@ -2595,7 +2712,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Chimera" },
@@ -2618,7 +2736,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "ChimeraDiluted" },
@@ -2641,7 +2760,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "ChimeraVoid" },
@@ -2666,7 +2786,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Tortie1" },
@@ -2688,7 +2809,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Tortie1Diluted" },
@@ -2710,7 +2832,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Tortie1Void" },
@@ -2732,7 +2855,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Tortie2" },
@@ -2754,7 +2878,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Tortie2Diluted" },
@@ -2776,7 +2901,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "Tortie2Void" },
@@ -2799,7 +2925,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidCream" },
@@ -2821,7 +2948,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidBlonde" },
@@ -2843,7 +2971,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidFawn" },
@@ -2865,7 +2994,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidBrown" },
@@ -2887,7 +3017,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidRed" },
@@ -2909,7 +3040,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidMidnight" },
@@ -2931,7 +3063,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidBlack" },
@@ -2953,7 +3086,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidGrey" },
@@ -2975,7 +3109,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidSilver" },
@@ -2997,7 +3132,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidWhite" },
@@ -3019,7 +3155,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldSolidVoid" },
@@ -3042,7 +3179,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorBlonde" },
@@ -3064,7 +3202,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorFawn" },
@@ -3086,7 +3225,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorBrown" },
@@ -3108,7 +3248,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorRed" },
@@ -3130,7 +3271,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorMidnight" },
@@ -3152,7 +3294,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorBlack" },
@@ -3174,7 +3317,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorGrey" },
@@ -3196,7 +3340,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorSilver" },
@@ -3218,7 +3363,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldBicolorVoid" },
@@ -3241,7 +3387,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedCream" },
@@ -3263,7 +3410,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedBlonde" },
@@ -3285,7 +3433,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedFawn" },
@@ -3307,7 +3456,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedBrown" },
@@ -3329,7 +3479,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedRed" },
@@ -3351,7 +3502,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedMidnight" },
@@ -3373,7 +3525,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedBlack" },
@@ -3395,7 +3548,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedGrey" },
@@ -3417,7 +3571,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedSilver" },
@@ -3439,7 +3594,8 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedWhite" },
@@ -3461,10 +3617,81 @@
 				"Height": 16
 				},
 			"BarkOverride": null,
-			"VoicePitch": 1.0
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
 			},
 		},
       "When": { "Cat Breeds": "FoldStripedVoid" },
+	},
+    //Japanese Bobtail
+    {
+      "LogName": "BobtailTricolor",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Cat", "Breeds" ],
+      "Entries": {
+      "Elle.CuterCats.BobtailTricolor": {
+		"Id": "Elle.CuterCats.BobtailTricolor",
+			"Texture": "Mods\\Elle.CuterCats\\BobtailTricolor",
+			"IconTexture": "Mods\\Elle.CuterCats\\icons",
+			"IconSourceRect": {
+				"X": 112,
+				"Y": 192,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Cat Breeds": "BobtailTricolor" },
+	},
+    {
+      "LogName": "BobtailTricolor2",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Cat", "Breeds" ],
+      "Entries": {
+      "Elle.CuterCats.BobtailTricolor2": {
+		"Id": "Elle.CuterCats.BobtailTricolor2",
+			"Texture": "Mods\\Elle.CuterCats\\BobtailTricolor2",
+			"IconTexture": "Mods\\Elle.CuterCats\\icons",
+			"IconSourceRect": {
+				"X": 128,
+				"Y": 192,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Cat Breeds": "BobtailTricolor2" },
+	},
+    {
+      "LogName": "BobtailVoid",
+      "Action": "EditData",
+      "Target": "Data/Pets",
+	  "TargetField": [ "Cat", "Breeds" ],
+      "Entries": {
+      "Elle.CuterCats.BobtailVoid": {
+		"Id": "Elle.CuterCats.BobtailVoid",
+			"Texture": "Mods\\Elle.CuterCats\\BobtailVoid",
+			"IconTexture": "Mods\\Elle.CuterCats\\icons",
+			"IconSourceRect": {
+				"X": 144,
+				"Y": 192,
+				"Width": 16,
+				"Height": 16
+				},
+			"BarkOverride": null,
+			"VoicePitch": 1.0,
+			"AdoptionPrice": "{{Adoption Price}}",
+			},
+		},
+      "When": { "Cat Breeds": "BobtailVoid" },
 	},
 	
 	
@@ -3472,7 +3699,7 @@
     {
       "LogName": "Load images",
       "Action": "Load",
-      "Target": "Mods\\Elle.CuterCats\\Bengal, Mods\\Elle.CuterCats\\BengalSilver, Mods\\Elle.CuterCats\\BengalVoid, Mods\\Elle.CuterCats\\BicolorBlonde, Mods\\Elle.CuterCats\\BicolorFawn, Mods\\Elle.CuterCats\\BicolorBrown, Mods\\Elle.CuterCats\\BicolorRed, Mods\\Elle.CuterCats\\BicolorMidnight, Mods\\Elle.CuterCats\\BicolorBlack, Mods\\Elle.CuterCats\\BicolorGrey, Mods\\Elle.CuterCats\\BicolorSilver, Mods\\Elle.CuterCats\\BicolorVoid, Mods\\Elle.CuterCats\\Calico1, Mods\\Elle.CuterCats\\Calico1Diluted, Mods\\Elle.CuterCats\\Calico1Void, Mods\\Elle.CuterCats\\Calico2, Mods\\Elle.CuterCats\\Calico2Diluted, Mods\\Elle.CuterCats\\Calico2Void, Mods\\Elle.CuterCats\\Chimera, Mods\\Elle.CuterCats\\ChimeraDiluted, Mods\\Elle.CuterCats\\ChimeraVoid, Mods\\Elle.CuterCats\\FoldBicolorBlonde, Mods\\Elle.CuterCats\\FoldBicolorFawn, Mods\\Elle.CuterCats\\FoldBicolorBrown, Mods\\Elle.CuterCats\\FoldBicolorRed, Mods\\Elle.CuterCats\\FoldBicolorMidnight, Mods\\Elle.CuterCats\\FoldBicolorBlack, Mods\\Elle.CuterCats\\FoldBicolorGrey, Mods\\Elle.CuterCats\\FoldBicolorSilver, Mods\\Elle.CuterCats\\FoldBicolorVoid, Mods\\Elle.CuterCats\\FoldSolidCream, Mods\\Elle.CuterCats\\FoldSolidBlonde, Mods\\Elle.CuterCats\\FoldSolidFawn, Mods\\Elle.CuterCats\\FoldSolidBrown, Mods\\Elle.CuterCats\\FoldSolidRed, Mods\\Elle.CuterCats\\FoldSolidMidnight, Mods\\Elle.CuterCats\\FoldSolidBlack, Mods\\Elle.CuterCats\\FoldSolidGrey, Mods\\Elle.CuterCats\\FoldSolidSilver, Mods\\Elle.CuterCats\\FoldSolidWhite, Mods\\Elle.CuterCats\\FoldSolidVoid, Mods\\Elle.CuterCats\\FoldStripedCream, Mods\\Elle.CuterCats\\FoldStripedBlonde, Mods\\Elle.CuterCats\\FoldStripedFawn, Mods\\Elle.CuterCats\\FoldStripedBrown, Mods\\Elle.CuterCats\\FoldStripedRed, Mods\\Elle.CuterCats\\FoldStripedMidnight, Mods\\Elle.CuterCats\\FoldStripedBlack, Mods\\Elle.CuterCats\\FoldStripedGrey, Mods\\Elle.CuterCats\\FoldStripedSilver, Mods\\Elle.CuterCats\\FoldStripedWhite, Mods\\Elle.CuterCats\\FoldStripedVoid, Mods\\Elle.CuterCats\\Ocicat, Mods\\Elle.CuterCats\\OcicatSilver, Mods\\Elle.CuterCats\\OcicatVoid, Mods\\Elle.CuterCats\\PointedBlonde, Mods\\Elle.CuterCats\\PointedFawn, Mods\\Elle.CuterCats\\PointedBrown, Mods\\Elle.CuterCats\\PointedRed, Mods\\Elle.CuterCats\\PointedMidnight, Mods\\Elle.CuterCats\\PointedBlack, Mods\\Elle.CuterCats\\PointedGrey, Mods\\Elle.CuterCats\\PointedSilver, Mods\\Elle.CuterCats\\PointedVoid, Mods\\Elle.CuterCats\\RagdollFawn, Mods\\Elle.CuterCats\\RagdollTan, Mods\\Elle.CuterCats\\RagdollRed, Mods\\Elle.CuterCats\\RagdollSilver, Mods\\Elle.CuterCats\\RagdollVoid, Mods\\Elle.CuterCats\\Siamese, Mods\\Elle.CuterCats\\SiameseSilver, Mods\\Elle.CuterCats\\SiameseVoid, Mods\\Elle.CuterCats\\SnowshoeFawn, Mods\\Elle.CuterCats\\SnowshoeTan, Mods\\Elle.CuterCats\\SnowshoeBrown, Mods\\Elle.CuterCats\\SnowshoeRed, Mods\\Elle.CuterCats\\SnowshoeGrey, Mods\\Elle.CuterCats\\SnowshoeSilver, Mods\\Elle.CuterCats\\SnowshoeVoid, Mods\\Elle.CuterCats\\SocksBlonde, Mods\\Elle.CuterCats\\SocksFawn, Mods\\Elle.CuterCats\\SocksBrown, Mods\\Elle.CuterCats\\SocksRed, Mods\\Elle.CuterCats\\SocksMidnight, Mods\\Elle.CuterCats\\SocksBlack, Mods\\Elle.CuterCats\\SocksGrey, Mods\\Elle.CuterCats\\SocksSilver, Mods\\Elle.CuterCats\\SocksVoid, Mods\\Elle.CuterCats\\SolidCream, Mods\\Elle.CuterCats\\SolidBlonde, Mods\\Elle.CuterCats\\SolidFawn, Mods\\Elle.CuterCats\\SolidBrown, Mods\\Elle.CuterCats\\SolidRed, Mods\\Elle.CuterCats\\SolidMidnight, Mods\\Elle.CuterCats\\SolidBlack, Mods\\Elle.CuterCats\\SolidGrey, Mods\\Elle.CuterCats\\SolidSilver, Mods\\Elle.CuterCats\\SolidWhite, Mods\\Elle.CuterCats\\SolidVoid, Mods\\Elle.CuterCats\\SolidVanilla, Mods\\Elle.CuterCats\\SpottedBlonde, Mods\\Elle.CuterCats\\SpottedFawn, Mods\\Elle.CuterCats\\SpottedBrown, Mods\\Elle.CuterCats\\SpottedRed, Mods\\Elle.CuterCats\\SpottedMidnight, Mods\\Elle.CuterCats\\SpottedBlack, Mods\\Elle.CuterCats\\SpottedGrey, Mods\\Elle.CuterCats\\SpottedSilver, Mods\\Elle.CuterCats\\SpottedVoid, Mods\\Elle.CuterCats\\StripedCream, Mods\\Elle.CuterCats\\StripedBlonde, Mods\\Elle.CuterCats\\StripedFawn, Mods\\Elle.CuterCats\\StripedBrown, Mods\\Elle.CuterCats\\StripedRed, Mods\\Elle.CuterCats\\StripedMidnight, Mods\\Elle.CuterCats\\StripedBlack, Mods\\Elle.CuterCats\\StripedGrey, Mods\\Elle.CuterCats\\StripedSilver, Mods\\Elle.CuterCats\\StripedWhite, Mods\\Elle.CuterCats\\StripedVoid, Mods\\Elle.CuterCats\\StripedVanilla, Mods\\Elle.CuterCats\\StripedSocksBlonde, Mods\\Elle.CuterCats\\StripedSocksFawn, Mods\\Elle.CuterCats\\StripedSocksBrown, Mods\\Elle.CuterCats\\StripedSocksRed, Mods\\Elle.CuterCats\\StripedSocksMidnight, Mods\\Elle.CuterCats\\StripedSocksBlack, Mods\\Elle.CuterCats\\StripedSocksGrey, Mods\\Elle.CuterCats\\StripedSocksSilver, Mods\\Elle.CuterCats\\StripedSocksVoid, Mods\\Elle.CuterCats\\StripedSocksVanilla, Mods\\Elle.CuterCats\\Tortie1, Mods\\Elle.CuterCats\\Tortie1Diluted, Mods\\Elle.CuterCats\\Tortie1Void, Mods\\Elle.CuterCats\\Tortie2, Mods\\Elle.CuterCats\\Tortie2Diluted, Mods\\Elle.CuterCats\\Tortie2Void, Mods\\Elle.CuterCats\\TurkishBlonde, Mods\\Elle.CuterCats\\TurkishFawn, Mods\\Elle.CuterCats\\TurkishBrown, Mods\\Elle.CuterCats\\TurkishRed, Mods\\Elle.CuterCats\\TurkishMidnight, Mods\\Elle.CuterCats\\TurkishBlack, Mods\\Elle.CuterCats\\TurkishGrey, Mods\\Elle.CuterCats\\TurkishSilver, Mods\\Elle.CuterCats\\TurkishVoid, Mods\\Elle.CuterCats\\TuxedoBlonde, Mods\\Elle.CuterCats\\TuxedoFawn, Mods\\Elle.CuterCats\\TuxedoBrown, Mods\\Elle.CuterCats\\TuxedoRed, Mods\\Elle.CuterCats\\TuxedoMidnight, Mods\\Elle.CuterCats\\TuxedoBlack, Mods\\Elle.CuterCats\\TuxedoGrey, Mods\\Elle.CuterCats\\TuxedoSilver, Mods\\Elle.CuterCats\\TuxedoVoid, Mods\\Elle.CuterCats\\icons",
+      "Target": "Mods\\Elle.CuterCats\\Bengal, Mods\\Elle.CuterCats\\BengalSilver, Mods\\Elle.CuterCats\\BengalVoid, Mods\\Elle.CuterCats\\BicolorBlonde, Mods\\Elle.CuterCats\\BicolorFawn, Mods\\Elle.CuterCats\\BicolorBrown, Mods\\Elle.CuterCats\\BicolorRed, Mods\\Elle.CuterCats\\BicolorMidnight, Mods\\Elle.CuterCats\\BicolorBlack, Mods\\Elle.CuterCats\\BicolorGrey, Mods\\Elle.CuterCats\\BicolorSilver, Mods\\Elle.CuterCats\\BicolorVoid, Mods\\Elle.CuterCats\\BobtailTricolor, Mods\\Elle.CuterCats\\BobtailTricolor2, Mods\\Elle.CuterCats\\BobtailVoid, Mods\\Elle.CuterCats\\Calico1, Mods\\Elle.CuterCats\\Calico1Diluted, Mods\\Elle.CuterCats\\Calico1Void, Mods\\Elle.CuterCats\\Calico2, Mods\\Elle.CuterCats\\Calico2Diluted, Mods\\Elle.CuterCats\\Calico2Void, Mods\\Elle.CuterCats\\Chimera, Mods\\Elle.CuterCats\\ChimeraDiluted, Mods\\Elle.CuterCats\\ChimeraVoid, Mods\\Elle.CuterCats\\FoldBicolorBlonde, Mods\\Elle.CuterCats\\FoldBicolorFawn, Mods\\Elle.CuterCats\\FoldBicolorBrown, Mods\\Elle.CuterCats\\FoldBicolorRed, Mods\\Elle.CuterCats\\FoldBicolorMidnight, Mods\\Elle.CuterCats\\FoldBicolorBlack, Mods\\Elle.CuterCats\\FoldBicolorGrey, Mods\\Elle.CuterCats\\FoldBicolorSilver, Mods\\Elle.CuterCats\\FoldBicolorVoid, Mods\\Elle.CuterCats\\FoldSolidCream, Mods\\Elle.CuterCats\\FoldSolidBlonde, Mods\\Elle.CuterCats\\FoldSolidFawn, Mods\\Elle.CuterCats\\FoldSolidBrown, Mods\\Elle.CuterCats\\FoldSolidRed, Mods\\Elle.CuterCats\\FoldSolidMidnight, Mods\\Elle.CuterCats\\FoldSolidBlack, Mods\\Elle.CuterCats\\FoldSolidGrey, Mods\\Elle.CuterCats\\FoldSolidSilver, Mods\\Elle.CuterCats\\FoldSolidWhite, Mods\\Elle.CuterCats\\FoldSolidVoid, Mods\\Elle.CuterCats\\FoldStripedCream, Mods\\Elle.CuterCats\\FoldStripedBlonde, Mods\\Elle.CuterCats\\FoldStripedFawn, Mods\\Elle.CuterCats\\FoldStripedBrown, Mods\\Elle.CuterCats\\FoldStripedRed, Mods\\Elle.CuterCats\\FoldStripedMidnight, Mods\\Elle.CuterCats\\FoldStripedBlack, Mods\\Elle.CuterCats\\FoldStripedGrey, Mods\\Elle.CuterCats\\FoldStripedSilver, Mods\\Elle.CuterCats\\FoldStripedWhite, Mods\\Elle.CuterCats\\FoldStripedVoid, Mods\\Elle.CuterCats\\Ocicat, Mods\\Elle.CuterCats\\OcicatSilver, Mods\\Elle.CuterCats\\OcicatVoid, Mods\\Elle.CuterCats\\PointedBlonde, Mods\\Elle.CuterCats\\PointedFawn, Mods\\Elle.CuterCats\\PointedBrown, Mods\\Elle.CuterCats\\PointedRed, Mods\\Elle.CuterCats\\PointedMidnight, Mods\\Elle.CuterCats\\PointedBlack, Mods\\Elle.CuterCats\\PointedGrey, Mods\\Elle.CuterCats\\PointedSilver, Mods\\Elle.CuterCats\\PointedVoid, Mods\\Elle.CuterCats\\RagdollFawn, Mods\\Elle.CuterCats\\RagdollTan, Mods\\Elle.CuterCats\\RagdollRed, Mods\\Elle.CuterCats\\RagdollSilver, Mods\\Elle.CuterCats\\RagdollVoid, Mods\\Elle.CuterCats\\Siamese, Mods\\Elle.CuterCats\\SiameseSilver, Mods\\Elle.CuterCats\\SiameseVoid, Mods\\Elle.CuterCats\\SnowshoeFawn, Mods\\Elle.CuterCats\\SnowshoeTan, Mods\\Elle.CuterCats\\SnowshoeBrown, Mods\\Elle.CuterCats\\SnowshoeRed, Mods\\Elle.CuterCats\\SnowshoeGrey, Mods\\Elle.CuterCats\\SnowshoeSilver, Mods\\Elle.CuterCats\\SnowshoeVoid, Mods\\Elle.CuterCats\\SocksBlonde, Mods\\Elle.CuterCats\\SocksFawn, Mods\\Elle.CuterCats\\SocksBrown, Mods\\Elle.CuterCats\\SocksRed, Mods\\Elle.CuterCats\\SocksMidnight, Mods\\Elle.CuterCats\\SocksBlack, Mods\\Elle.CuterCats\\SocksGrey, Mods\\Elle.CuterCats\\SocksSilver, Mods\\Elle.CuterCats\\SocksVoid, Mods\\Elle.CuterCats\\SolidCream, Mods\\Elle.CuterCats\\SolidBlonde, Mods\\Elle.CuterCats\\SolidFawn, Mods\\Elle.CuterCats\\SolidBrown, Mods\\Elle.CuterCats\\SolidRed, Mods\\Elle.CuterCats\\SolidMidnight, Mods\\Elle.CuterCats\\SolidBlack, Mods\\Elle.CuterCats\\SolidGrey, Mods\\Elle.CuterCats\\SolidSilver, Mods\\Elle.CuterCats\\SolidWhite, Mods\\Elle.CuterCats\\SolidVoid, Mods\\Elle.CuterCats\\SolidVanilla, Mods\\Elle.CuterCats\\SpottedBlonde, Mods\\Elle.CuterCats\\SpottedFawn, Mods\\Elle.CuterCats\\SpottedBrown, Mods\\Elle.CuterCats\\SpottedRed, Mods\\Elle.CuterCats\\SpottedMidnight, Mods\\Elle.CuterCats\\SpottedBlack, Mods\\Elle.CuterCats\\SpottedGrey, Mods\\Elle.CuterCats\\SpottedSilver, Mods\\Elle.CuterCats\\SpottedVoid, Mods\\Elle.CuterCats\\StripedCream, Mods\\Elle.CuterCats\\StripedBlonde, Mods\\Elle.CuterCats\\StripedFawn, Mods\\Elle.CuterCats\\StripedBrown, Mods\\Elle.CuterCats\\StripedRed, Mods\\Elle.CuterCats\\StripedMidnight, Mods\\Elle.CuterCats\\StripedBlack, Mods\\Elle.CuterCats\\StripedGrey, Mods\\Elle.CuterCats\\StripedSilver, Mods\\Elle.CuterCats\\StripedWhite, Mods\\Elle.CuterCats\\StripedVoid, Mods\\Elle.CuterCats\\StripedVanilla, Mods\\Elle.CuterCats\\StripedSocksBlonde, Mods\\Elle.CuterCats\\StripedSocksFawn, Mods\\Elle.CuterCats\\StripedSocksBrown, Mods\\Elle.CuterCats\\StripedSocksRed, Mods\\Elle.CuterCats\\StripedSocksMidnight, Mods\\Elle.CuterCats\\StripedSocksBlack, Mods\\Elle.CuterCats\\StripedSocksGrey, Mods\\Elle.CuterCats\\StripedSocksSilver, Mods\\Elle.CuterCats\\StripedSocksVoid, Mods\\Elle.CuterCats\\StripedSocksVanilla, Mods\\Elle.CuterCats\\Tortie1, Mods\\Elle.CuterCats\\Tortie1Diluted, Mods\\Elle.CuterCats\\Tortie1Void, Mods\\Elle.CuterCats\\Tortie2, Mods\\Elle.CuterCats\\Tortie2Diluted, Mods\\Elle.CuterCats\\Tortie2Void, Mods\\Elle.CuterCats\\TurkishBlonde, Mods\\Elle.CuterCats\\TurkishFawn, Mods\\Elle.CuterCats\\TurkishBrown, Mods\\Elle.CuterCats\\TurkishRed, Mods\\Elle.CuterCats\\TurkishMidnight, Mods\\Elle.CuterCats\\TurkishBlack, Mods\\Elle.CuterCats\\TurkishGrey, Mods\\Elle.CuterCats\\TurkishSilver, Mods\\Elle.CuterCats\\TurkishVoid, Mods\\Elle.CuterCats\\TuxedoBlonde, Mods\\Elle.CuterCats\\TuxedoFawn, Mods\\Elle.CuterCats\\TuxedoBrown, Mods\\Elle.CuterCats\\TuxedoRed, Mods\\Elle.CuterCats\\TuxedoMidnight, Mods\\Elle.CuterCats\\TuxedoBlack, Mods\\Elle.CuterCats\\TuxedoGrey, Mods\\Elle.CuterCats\\TuxedoSilver, Mods\\Elle.CuterCats\\TuxedoVoid, Mods\\Elle.CuterCats\\icons",
       "FromFile": "assets/{{TargetWithoutPath}}.png"
     },
 	

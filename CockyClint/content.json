@@ -1,0 +1,363 @@
+{
+   "Format": "2.7.2",
+   "DynamicTokens": [
+      {
+         "Name": "HeartLevel",
+         "Value": "lowheart",
+         "When": {
+            "Hearts:Clint": "0,1,2,3"
+         }
+      },
+      {
+         "Name": "HeartLevel",
+         "Value": "mediumheart",
+         "When": {
+            "Hearts:Clint": "4,5,6,7"
+         }
+      },
+      {
+         "Name": "HeartLevel",
+         "Value": "highheart",
+         "When": {
+            "query: {{Hearts:Clint}} >= 8": true
+         }
+      },
+      {
+         "Name": "SVE_OriginalMineEntrance",
+         "Value": "true"
+      }
+   ],
+   "Changes": [
+      {
+         "Action": "Include",
+         "FromFile": "Clint_Dialogue.json"
+      },
+      {
+         "Action": "Include",
+         "FromFile": "Clint_Events.json"
+      },
+      {
+         "Action": "Include",
+         "FromFile": "Clint_GiftTastes.json"
+      },
+      {
+         "Action": "Include",
+         "FromFile": "Clint_Schedule.json"
+      },
+      {
+         "Action": "Include",
+         "FromFile": "assets/assets.json"
+      },
+      {
+         "Action": "Include",
+         "FromFile": "PriceDiscount.json",
+         "When": {
+            "Spouse": "Clint"
+         }
+      },
+      {
+         "LogName": "Clint character attributes",
+         "Action": "EditData",
+         "Target": "Data/Characters",
+         "Entries": {
+            "Clint": {
+               "DisplayName": "[LocalizedText Strings\\NPCNames:Clint]",
+               "BirthSeason": "Winter",
+               "BirthDay": 26,
+               "HomeRegion": "Town",
+               "Gender": "Male",
+               "Age": "Adult",
+               "Manner": "Rude",
+               "SocialAnxiety": "Outgoing",
+               "Optimism": "Neutral",
+               "IsDarkSkinned": false,
+               "CanBeRomanced": true,
+               "LoveInterest": null,
+               "Calendar": "AlwaysShown",
+               "SocialTab": "UnknownUntilMet",
+               "CanSocialize": true,
+               "CanReceiveGifts": true,
+               "CanGreetNearbyCharacters": false,
+               "CanCommentOnPurchasedShopItems": true,
+               "CanVisitIsland": "ANY \"DAY_OF_WEEK Fri\" \"DAY_OF_WEEK Sat\" \"DAY_OF_WEEK Sun\"",
+               "IntroductionsQuest": true,
+               "ItemDeliveryQuests": true,
+               "EndSlideShow": "MainGroup",
+               "SpouseAdopts": true,
+               "SpouseWantsChildren": true,
+               "SpouseGiftJealousy": true,
+               "SpouseGiftJealousyFriendshipChange": -30,
+               "SpouseRoom": {
+                  "MapAsset": "Clint_Spouse_Room",
+                  "MapSourceRect": {
+                     "X": 0,
+                     "Y": 0,
+                     "Width": 6,
+                     "Height": 9
+                  }
+               },
+               "SpousePatio": {
+                  "MapAsset": null, // use default spouse patio
+                  "MapSourceRect": {
+                     "X": 0,
+                     "Y": 0,
+                     "Width": 4,
+                     "Height": 4
+                  },
+                  "SpriteAnimationFrames": [
+                     [
+                        52,
+                        700
+                     ],
+                     [
+                        53,
+                        100
+                     ],
+                     [
+                        54,
+                        100
+                     ],
+                     [
+                        55,
+                        400
+                     ],
+                     [
+                        54,
+                        100
+                     ],
+                     [
+                        53,
+                        100
+                     ]
+                  ]
+               },
+               "DumpsterDiveFriendshipEffect": -25,
+               "DumpsterDiveEmote": 40,
+               "FlowerDanceCanDance": true,
+               "WinterStarGifts": [
+                  {
+                     "Condition": null,
+                     "Id": "IridiumBar",
+                     "ItemId": "(O)337",
+                     "RandomItemId": null,
+                     "MaxItems": null,
+                     "MinStack": -1,
+                     "MaxStack": -1,
+                     "Quality": -1,
+                     "ObjectInternalName": null,
+                     "ObjectDisplayName": null,
+                     "ObjectColor": null,
+                     "ToolUpgradeLevel": -1,
+                     "IsRecipe": false,
+                     "StackModifiers": null,
+                     "StackModifierMode": "Stack",
+                     "QualityModifiers": null,
+                     "QualityModifierMode": "Stack",
+                     "ModData": null,
+                     "PerItemCondition": null
+                  },
+                  {
+                     "Condition": null,
+                     "Id": "GoldBars",
+                     "ItemId": "(O)336",
+                     "RandomItemId": null,
+                     "MaxItems": null,
+                     "MinStack": 5,
+                     "MaxStack": -1,
+                     "Quality": -1,
+                     "ObjectInternalName": null,
+                     "ObjectDisplayName": null,
+                     "ObjectColor": null,
+                     "ToolUpgradeLevel": -1,
+                     "IsRecipe": false,
+                     "StackModifiers": null,
+                     "StackModifierMode": "Stack",
+                     "QualityModifiers": null,
+                     "QualityModifierMode": "Stack",
+                     "ModData": null,
+                     "PerItemCondition": null
+                  },
+                  {
+                     "Condition": null,
+                     "Id": "Default",
+                     "ItemId": null,
+                     "RandomItemId": [
+                        "(O)535",
+                        "(O)536",
+                        "(O)537"
+                     ],
+                     "MaxItems": null,
+                     "MinStack": 5,
+                     "MaxStack": -1,
+                     "Quality": -1,
+                     "ObjectInternalName": null,
+                     "ObjectDisplayName": null,
+                     "ObjectColor": null,
+                     "ToolUpgradeLevel": -1,
+                     "IsRecipe": false,
+                     "StackModifiers": null,
+                     "StackModifierMode": "Stack",
+                     "QualityModifiers": null,
+                     "QualityModifierMode": "Stack",
+                     "ModData": null,
+                     "PerItemCondition": null
+                  }
+               ],
+               "WinterStarParticipant": true,
+               "Home": [
+                  {
+                     "Id": "Default",
+                     "Condition": null,
+                     "Location": "Blacksmith",
+                     "Tile": {
+                        "X": 10,
+                        "Y": 4
+                     },
+                     "Direction": "down"
+                  }
+               ],
+               "Appearance": [
+                  {
+                  "Id": "Winter",
+                  "Condition": null,
+                  "Season": "Winter",
+                  "Indoors": true,
+                  "Outdoors": true,
+                  "Portrait": "Portraits/Clint_Winter",
+                  "Sprite": "Characters/Clint_Winter",
+                  "IsIslandAttire": false,
+                  "Precedence": 0,
+                  "Weight": 1
+                  }
+            ],
+               "KissSpriteIndex": 42,
+               "KissSpriteFacingRight": true,
+               "FestivalVanillaActorIndex": 2
+            }
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Data/Objects",
+         "Entries": {
+            "{{ModId}}_BrokenSword": {
+               "Name": "{{ModId}}_BrokenSword",
+               "Displayname": "Broken sword",
+               "Description": "Marlon's broken sword",
+               "Type": "Quest",
+               "Category": -999,
+               "Price": 1,
+               "Texture": "Mods/{{ModId}}/Broken_Sword",
+               "SpriteIndex": 0
+            }
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Data/Festivals/summer28",
+         "TextOperations": [
+            { //Clint would otherwise run into the player when he's the spouse
+               "Operation": "RemoveDelimited",
+               "Target": [
+                  "Entries",
+                  "mainEvent"
+               ],
+               "Search": "move Clint -1 0 2",
+               "Delimiter": "/"
+            }
+         ],
+         "When": {
+            "Spouse": "Clint"
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Data/Mail",
+         "Entries": {
+            "ClintCooking": "{{i18n:Mail.CookingRecipe}}",
+            "winter_6_1": "{{i18n:AmethystQuest.Mail}}",
+            "winter_17_1": "{{i18n:IronBarQuest.Mail}}",
+            "ClintReward": "{{i18n:Mail.GeodeCrusher}}",
+            "ClintReward2": "{{i18n:Mail.ClintReward2}}"
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Data/Mail",
+         "Entries": {
+            "Clint": "{{i18n:Mail.MetalBar}}"
+         },
+         "When": {
+            "Query: '{{Spouse}}' = 'Clint'": false
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Data/Mail",
+         "Entries": {
+            "Clint": "{{i18n:Mail.MetalBar.Marriage}}"
+         },
+         "When": {
+            "Spouse": "Clint"
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Data/Quests",
+         "Entries": {
+            "110": "ItemDelivery/{{i18n:AmethystQuest.Title}}/{{i18n:AmethystQuest.Description}}/{{i18n:AmethystQuest.ShortDescription}}/Clint (O)66/-1/0/-1/true/{{i18n:AmethystQuest.ClintResponse}}",
+            "112": "ItemDelivery/{{i18n:IronBarQuest.Title}}/{{i18n:IronBarQuest.Description}}/{{i18n:IronBarQuest.ShortDescription}}/Clint (O)335/-1/500/-1/true/{{i18n:IronBarQuest.ClintResponse}}",
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Strings/StringsFromMaps",
+         "Entries": {
+            "Blacksmith.4": "{{i18n:BlacksmithLetter}}" //replace letter to Emily
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Strings/StringsFromCSFiles",
+         "Entries": {
+            "ShopMenu.cs.11469": "{{i18n:BlacksmithShop.Description.1}}",
+            "ShopMenu.cs.11470": "{{i18n:BlacksmithShop.Description.2}}",
+            "ShopMenu.cs.11471": "{{i18n:BlacksmithShop.Description.3}}",
+            "ShopMenu.cs.11474": "{{i18n:BlacksmithShop.UpgradeDescription}}"
+         },
+         "When": {
+            "Query: '{{Spouse}}' = 'Clint'": false
+         }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Strings/StringsFromCSFiles",
+         "Entries": {
+            "ShopMenu.cs.11469": "{{i18n:BlacksmithShop.Description.Marriage}}",
+            "ShopMenu.cs.11470": "{{i18n:BlacksmithShop.Description.Marriage}}",
+            "ShopMenu.cs.11471": "{{i18n:BlacksmithShop.Description.Marriage}}",
+            "ShopMenu.cs.11474": "{{i18n:BlacksmithShop.UpgradeDescription.Marriage}}"
+         },
+         "When": {
+            "Spouse": "Clint"
+         }
+      },
+      {
+         
+         "Action": "Include",
+         "FromFile": "Compatibility-Patches/SVE/SVE_Patch.json",
+         "When": {
+            "HasMod |contains=Spiderbuttons.CMCT": true,
+			   "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
+         }
+      },
+      {
+         
+         "Action": "Include",
+         "FromFile": "Compatibility-Patches/LookingForLove_Patch.json",
+         "When": {
+            "HasMod": "foggy.LfL"
+         }
+      }
+   ]
+}

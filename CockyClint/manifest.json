@@ -1,0 +1,27 @@
+{
+    "Name": "Cocky Clint",
+    "Author": "FluffyFeatherPillow",
+    "Version": "2.1.0",
+    "Description": "Turns Clint into a hot marriageable chad with cocky personality",
+    "UniqueID": "FluffyFeatherPillow.CockyClint",
+    "UpdateKeys": [
+        "Nexus:34930"
+    ],
+    "Dependencies": [
+        {
+            "UniqueID": "Spiderbuttons.CMCT",
+            "IsRequired": false
+        },
+        {
+            "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+            "IsRequired": false
+        },
+        {
+            "UniqueID": "foggy.LfL",
+            "IsRequired": false
+        }
+    ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

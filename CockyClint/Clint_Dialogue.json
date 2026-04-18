@@ -1,0 +1,432 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Clint",
+      "FromFile": "Blank.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Clint",
+      "Entries": {
+        "spring_Mon": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Tue": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Wed": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Thu": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Fri": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sat": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sun": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Mon2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Tue2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Wed2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Thu2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Fri2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sat2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sun2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Mon4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Tue4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Wed4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Thu4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Fri4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sat4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sun4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Mon6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Tue6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Wed6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Thu6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Fri6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sat6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sun6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Mon8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Tue8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Wed8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Thu8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Fri8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sat8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sun8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Mon10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Tue10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Wed10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Thu10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Fri10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sat10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "spring_Sun10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,spring.1,spring.2,spring.3,spring.4}}}}",
+        "summer_Mon": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Tue": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Wed": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Thu": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Fri": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sat": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sun": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Mon2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Tue2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Wed2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Thu2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Fri2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sat2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sun2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Mon4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Tue4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Wed4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Thu4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Fri4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sat4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sun4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Mon6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Tue6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Wed6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Thu6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Fri6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sat6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sun6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Mon8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Tue8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Wed8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Thu8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Fri8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sat8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sun8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Mon10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Tue10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Wed10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Thu10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Fri10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sat10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "summer_Sun10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,summer.1,summer.2,summer.3,summer.4}}}}",
+        "fall_Mon": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Tue": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Wed": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Thu": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Fri": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sat": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sun": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Mon2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Tue2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Wed2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Thu2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Fri2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sat2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sun2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Mon4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Tue4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Wed4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Thu4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Fri4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sat4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sun4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Mon6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Tue6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Wed6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Thu6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Fri6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sat6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sun6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Mon8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Tue8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Wed8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Thu8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Fri8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sat8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sun8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Mon10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Tue10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Wed10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Thu10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Fri10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sat10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "fall_Sun10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,fall.1,fall.2,fall.3,fall.4}}}}",
+        "winter_Mon": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Tue": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Wed": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Thu": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Fri": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sat": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sun": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Mon2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Tue2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Wed2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Thu2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Fri2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sat2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sun2": "{{i18n:DailyDialogue.lowheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Mon4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Tue4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Wed4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Thu4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Fri4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sat4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sun4": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Mon6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Tue6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Wed6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Thu6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Fri6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sat6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sun6": "{{i18n:DailyDialogue.mediumheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Mon8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Tue8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Wed8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Thu8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Fri8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sat8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sun8": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Mon10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Tue10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Wed10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Thu10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Fri10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sat10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "winter_Sun10": "{{i18n:DailyDialogue.highheart.{{Random: general.1,general.2,general.3,general.4,winter.1,winter.2,winter.3,winter.4}}}}",
+        "Introduction": "{{i18n:Introduction}}",
+        "Intro_React1": "{{i18n:Intro_React1}}",
+        "Intro_React2": "{{i18n:Intro_React2}}",
+        "AcceptBouquet": "{{i18n:AcceptBouquet}}",
+        "dating_Clint": "{{i18n:dating_Clint}}",
+        "breakUp": "{{i18n:breakUp}}",
+        "divorced": "{{i18n:divorced}}",
+        "RejectGift_Divorced": "{{i18n:RejectGift_Divorced}}",
+        "RejectBouquet_Divorced": "{{i18n:RejectBouquet_Divorced}}",
+        "RejectBouquet_VeryLowHearts": "{{i18n:RejectBouquet_VeryLowHearts}}",
+        "RejectBouquet_LowHearts": "{{i18n:RejectBouquet_LowHearts}}",
+        "RejectMermaidPendant_Divorced": "{{i18n:RejectMermaidPendant_Divorced}}",
+        "RejectMermaidPendant_Under8Hearts": "{{i18n:RejectMermaidPendant_Under8Hearts}}",
+        "RejectMermaidPendant_Under10Hearts": "{{i18n:RejectMermaidPendant_Under10Hearts}}",
+        "RejectMermaidPendant": "{{i18n:RejectMermaidPendant}}",
+        "RejectMermaidPendant_NeedHouseUpgrade": "{{i18n:RejectMermaidPendant_NeedHouseUpgrade}}",
+        "RejectMovieTicket_Divorced": "{{i18n:RejectMovieTicket_Divorced}}",
+        "RejectMovieTicket": "{{i18n:RejectMovieTicket}}",
+        "GreenRain": "{{i18n:GreenRain}}",
+        "GreenRain_2": "{{i18n:GreenRain_2}}",
+        "GreenRainFinished": "{{i18n:GreenRainFinished}}",
+        "FlowerDance_Accept": "{{i18n:FlowerDance_Accept}}",
+        "FlowerDance_Accept_Spouse": "{{i18n:FlowerDance_Accept_Spouse}}",
+        "FlowerDance_Decline": "{{i18n:FlowerDance_Decline}}",
+        "Resort_Entering": "{{i18n:Resort_Entering}}",
+        "Resort_Shore": "{{i18n:Resort_Shore}}",
+        "Resort_Chair": "{{i18n:Resort_Chair}}",
+        "Resort_Bar": "{{i18n:Resort_Bar}}",
+        "Resort": "{{i18n:Resort}}",
+        "Resort_Leaving": "{{i18n:Resort_Leaving}}",
+        "MovieInvitation": "{{i18n:MovieInvitation}}",
+        "cc_Minecart": "{{i18n:cc_Minecart}}",
+        "AcceptBirthdayGift_Positive": "{{i18n:AcceptBirthdayGift_Positive.{{HeartLevel}}}}",
+        "AcceptBirthdayGift_Negative": "{{i18n:AcceptBirthdayGift_Negative.{{HeartLevel}}}}",
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Clint",
+      "Entries": {
+        "RejectMermaidPendant_AlreadyAccepted_Married": "{{i18n:RejectMermaidPendant_AlreadyAccepted_Married.Other}}"
+      },
+      "When": {
+        "query: '{{Relationship:Clint}}' = 'Married'": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Clint",
+      "Entries": {
+        "RejectMermaidPendant_AlreadyAccepted_Married": "{{i18n:RejectMermaidPendant_AlreadyAccepted_Married.Clint}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/rainy",
+      "Entries": {
+        "Clint": "{{i18n:RainyDay.{{HeartLevel}}.{{Random: 1,2}}}}"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueClint",
+      "FromFile": "Blank.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClint",
+      "Entries": {
+        "Rainy_Day_0": "{{i18n:MarriageDialogue.RainyDay.0}}",
+        "Rainy_Day_1": "{{i18n:MarriageDialogue.RainyDay.1}}",
+        "Rainy_Night_0": "{{i18n:MarriageDialogue.RainyNight.0}}",
+        "Rainy_Night_1": "{{i18n:MarriageDialogue.RainyNight.1}}",
+        "spouseRoom_Clint": "{{i18n:MarriageDialogue.SpouseRoomClint}}",
+        "patio_Clint": "{{i18n:MarriageDialogue.PatioClint}}",
+        "Indoor_Day_Clint": "{{i18n:MarriageDialogue.IndoorDay.Clint}}",
+        "Indoor_Day_0": "{{i18n:MarriageDialogue.IndoorDay.0}}",
+        "Indoor_Day_1": "{{i18n:MarriageDialogue.IndoorDay.1}}",
+        "Indoor_Day_2": "{{i18n:MarriageDialogue.IndoorDay.2}}",
+        "Indoor_Night_Clint": "{{i18n:MarriageDialogue.IndoorNight.Clint}}",
+        "Indoor_Night_2": "{{i18n:MarriageDialogue.IndoorNight.2}}",
+        "Indoor_Night_4": "{{i18n:MarriageDialogue.IndoorNight.4}}",
+        "Outdoor_Clint": "{{i18n:MarriageDialogue.Outdoor.Clint}}",
+        "Outdoor_1": "{{i18n:MarriageDialogue.Outdoor.1}}",
+        "Outdoor_3": "{{i18n:MarriageDialogue.Outdoor.3}}",
+        "Good_0": "{{i18n:MarriageDialogue.Good.0}}",
+        "Good_1": "{{i18n:MarriageDialogue.Good.1}}",
+        "Good_8": "{{i18n:MarriageDialogue.Good.8}}",
+        "Good_9": "{{i18n:MarriageDialogue.Good.9}}",
+        "OneKid_2": "{{i18n:MarriageDialogue.OneKid.2}}",
+        "TwoKids_2": "{{i18n:MarriageDialogue.TwoKids.2}}",
+        "funLeave_Clint": "{{i18n:MarriageDialogue.funLeave_Clint.{{Random: 1,2,3,4}}}}",
+        "funReturn_Clint": "{{i18n:MarriageDialogue.funReturn_Clint.{{Random: 1,2,3,4}}}}",
+        "fall_1": "{{i18n:MarriageDialogue.fall}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Entries": {
+        "Clint": "{{i18n:EggFestival.Clint}}",
+        "Clint_y2": "{{i18n:EggFestival.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Entries": {
+        "Clint": "{{i18n:EggFestival.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:EggFestival.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring24",
+      "Entries": {
+        "Clint": "{{i18n:FlowerDance.Clint}}",
+        "Clint_y2": "{{i18n:FlowerDance.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring24",
+      "Entries": {
+        "Clint": "{{i18n:FlowerDance.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:FlowerDance.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Clint": "{{i18n:Luau.Clint}}",
+        "Clint_y2": "{{i18n:Luau.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Clint": "{{i18n:Luau.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:Luau.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer28",
+      "Entries": {
+        "Clint": "{{i18n:MoonlightJellies.Clint}}",
+        "Clint_y2": "{{i18n:MoonlightJellies.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer28",
+      "Entries": {
+        "Clint": "{{i18n:MoonlightJellies.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:MoonlightJellies.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "Clint": "{{i18n:Fair.Clint}}",
+        "Clint_y2": "{{i18n:Fair.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "Clint": "{{i18n:Fair.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:Fair.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "Clint": "{{i18n:SpiritsEve.Clint}}",
+        "Clint_y2": "{{i18n:SpiritsEve.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "Clint": "{{i18n:SpiritsEve.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:SpiritsEve.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Clint": "{{i18n:IceFestival.Clint}}",
+        "Clint_y2": "{{i18n:IceFestival.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Clint": "{{i18n:IceFestival.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:IceFestival.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Clint": "{{i18n:WinterStar.Clint}}",
+        "Clint_y2": "{{i18n:WinterStar.Clint_y2}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Clint": "{{i18n:WinterStar.Clint_Spouse}}",
+        "Clint_y2": "{{i18n:WinterStar.Clint_Spouse}}"
+      },
+      "When": {
+        "Spouse": "Clint"
+      }
+    }
+  ]
+}
