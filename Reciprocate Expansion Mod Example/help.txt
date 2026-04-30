@@ -1,0 +1,20 @@
+This is a template to make your mod support Reciprocate.
+The most important thing is that your mod folder must have a folder named "Reciprocate."
+With this setup, the Reciprocate mod will be able to detect your added content during operation.
+
+Editing the files under Reciprocatei/i18n is for adding dialogues, following the same rules as the original version for supporting multiple languages.
+
+Reciprocatei/GiftData/GiftPresets is for setting up gift data.
+Reciprocatei/GiftData/NPCs contains NPC data, where NPCs will use the preset gift IDs to query which items they can give.
+Reciprocatei/GiftData/IgnoreItems is a list of gifts that will not trigger Reciprocate, such as when your mod has items like movie tickets that don't require a return gift.
+
+
+这是让你的Mod支援Reciprocate的范本。
+最重要的是在你的Mod资料夹底下必须拥有名为Reciprocate的资料夹。
+如此一来，Reciprocate模组在运作时就能侦测到你的新增内容。
+
+编辑 Reciprocatei/18n 底下文件是添加对话，支援多语系的规则与原版相同。
+
+Reciprocatei/GiftData/GiftPresets为设置礼物的资料。
+Reciprocatei/GiftData/NPCs为NPC的资料，NPC会以预置礼物的ID来查询他能送出哪些物品。
+Reciprocatei/GiftData/IgnoreItems为哪些礼物不会触发Reciprocate的清单，例如你的Mod拥有类似电影票不需要回礼这类情境。

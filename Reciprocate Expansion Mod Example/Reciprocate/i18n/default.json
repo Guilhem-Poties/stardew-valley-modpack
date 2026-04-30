@@ -1,0 +1,51 @@
+{
+    //Please refer to this example to modify the default.json file inside Reciprocate/i18n directory.
+    //If you are using another language, please modify the document of the language you are using.
+    //Modify and add according to the example format, so that the Mod can recognize these contents for presentation.
+    //After the colon symbol, be sure to add a sequential number. The Mod will randomly play dialogues from the same group.
+    //[YourNpcName] is StardewValley.NPC.Name.
+    //{p} represents the player's name.
+    //{i} represents the name of the item sent by the player, and it won't take effect in the Giving event.
+    //$0    $k	Use their neutral portrait.
+    //$1	$h	Use their happy portrait.
+    //$2	$s	Use their sad portrait.
+    //$3	$u	Use their unique portrait. This is different for each NPC: grumpy (Abigail), holding football (Alex), angry (Caroline), sick (Governor), etc.
+    //$4	$l	Use their love portrait.
+    //$5	$a	Use their angry portrait.
+    //Default dialogue for villagers giving gifts (assuming the villager hasn't been set up with specific dialogue).
+    "Reciprocate.Dialogue.Giving.Default:0": "$hWait a moment; I have a gift for you.",
+    "Reciprocate.Dialogue.Giving.Default:1": "$hWait a moment, this is my way of reciprocating.",
+    "Reciprocate.Dialogue.Giving.Default:2": "$h@, this is my return gift, please accept it.",
+    //Dialogue for Alex giving a gift.
+    //The villager from another Mod should also be recognizable.
+    "Reciprocate.Dialogue.Giving.[YourNpcName]:0": "$hYou will need this.",
+    "Reciprocate.Dialogue.Giving.[YourNpcName]:1": "$h@, accept this.",
+    "Reciprocate.Dialogue.Giving.[YourNpcName]:2": "$hHey, take this.",
+    //The dialogue when Alex sends out an item with the itemID 174(Large Egg).
+    //If the itemID from another Mod is known, it can also be recognized.
+    "Reciprocate.Dialogue.Giving.[YourNpcName].174:0": "$hYou need to supplement protein as well.",
+    "Reciprocate.Dialogue.Giving.[YourNpcName].174:1": "$hThis is a little token of appreciation, and it's helpful for your muscles.",
+    //The special additional dialogue used when Alex receives items with the itemIDs 174, 176, 180, and 182.
+    "Reciprocate.Dialogue.Receiving.[YourNpcName].174:0": "$hMy muscles are craving for more intake of {i}, and {p} has been a great help.",
+    "Reciprocate.Dialogue.Receiving.[YourNpcName].176:0": "$hMy muscles are craving for more intake of {i}, and {p} has been a great help.",
+    "Reciprocate.Dialogue.Receiving.[YourNpcName].180:0": "$hMy muscles are craving for more intake of {i}, and {p} has been a great help.",
+    "Reciprocate.Dialogue.Receiving.[YourNpcName].182:0": "$hMy muscles are craving for more intake of {i}, and {p} has been a great help.",
+    //Bubble dialogue for villagers who like gifts when no return gift is given.(assuming the villager hasn't been set up with specific dialogue).
+    "Reciprocate.Bubble.NoReciprocate.Like:0": "Great gift...",
+    "Reciprocate.Bubble.NoReciprocate.Like:1": "Maybe I should also give back a gift...",
+    "Reciprocate.Bubble.NoReciprocate.Like:2": "I'm really happy...",
+    //Alex didn't return the gift, but Alex likes the gift he received, at this point the bubble dialogue.
+    "Reciprocate.Bubble.NoReciprocate.[YourNpcName].Like:0": "Using {i} is very helpful for fitness.",
+    //Bubble dialogue for villagers who dislike gifts when no return gift is given.(assuming the villager hasn't been set up with specific dialogue).
+    "Reciprocate.Bubble.NoReciprocate.Dislike:0": "It's troubling.",
+    "Reciprocate.Bubble.NoReciprocate.Dislike:1": "{p} must be playing a prank, right?",
+    "Reciprocate.Bubble.NoReciprocate.Dislike:2": "What should I do...?",
+    //Alex didn't return the gift, but Alex dislike the gift he received, at this point the bubble dialogue.
+    "Reciprocate.Bubble.NoReciprocate.[YourNpcName].Dislike:0": "I hope Dusty will like this darn thing...",
+    //Bubble dialogue for when villagers return gift, {i} is the name of the item they give.
+    "Reciprocate.Bubble.Reciprocate:0": "Hope {p} will like it...",
+    "Reciprocate.Bubble.Reciprocate:1": "Maybe you'll like {i}.",
+    "Reciprocate.Bubble.Reciprocate:2": "Hope {p} can accept {i}.",
+    //Bubble dialogue for when Alex return gift, {i} is the name of the item they give.
+    "Reciprocate.Bubble.Reciprocate.[YourNpcName]:0": "I hope {i} won't cause any trouble for {p}.",
+}

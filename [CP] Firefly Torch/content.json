@@ -1,0 +1,19 @@
+{
+"Format": "2.0.0",
+"Changes": 
+[
+	{
+		"Action":"EditImage", 
+		"Target":"Maps/springobjects", 
+		"FromFile":"assets/torch.png",
+		"ToArea": { "X": 336, "Y": 48, "Width": 16,"Height": 16 }
+	},
+	{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "Assets/candle.png",
+			"FromArea": { "X": 0, "Y": 0, "Width": 55, "Height": 8 },
+			"ToArea": { "X": 276, "Y": 1965, "Width": 55, "Height": 8 },
+	},
+]
+}

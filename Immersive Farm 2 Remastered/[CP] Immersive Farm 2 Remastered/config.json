@@ -10,7 +10,7 @@
   "Dirt_Crop_Field_6": "false",
   "Remove_Fences_In_Front_Of_Grandpas_Shed": "false",
   "Remove_Farm_Animal_Area_Fences": "false",
-  "Remove_Fences_Left_Of_Crop_Field_1": "false",
+  "Remove_Fences_Left_Of_Crop_Field_1": "true",
   "Remove_Central_Cherry_Blossom_Tree_And_Water_Trough": "false",
   "Remove_Cherry_Blossom_Tree_From_Southeast_Hill": "false",
   "Remove_Fences_From_Backyard": "false",

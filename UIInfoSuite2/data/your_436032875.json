@@ -21,14 +21,16 @@
   "DisplayCalendarAndBillboard": true,
   "ShowWhenNewRecipesAreAvailable": true,
   "ShowToolUpgradeStatus": true,
-  "HideMerchantWhenVisited": false,
+  "HideMerchantWhenVisited": true,
   "ShowExactValue": false,
   "ShowRobinBuildingStatusIcon": true,
   "ShowSeasonalBerry": true,
   "ShowSeasonalBerryHazelnut": false,
   "ShowTodaysGifts": true,
-  "HideBirthdayIfFullFriendShip": true,
+  "HideBirthdayIfFullFriendShip": false,
   "ShowLocationOfFriends": {
-    "Linus": true
+    "Linus": true,
+    "Robin": true,
+    "Marnie": true
   }
 }

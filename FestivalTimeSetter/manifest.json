@@ -1,0 +1,16 @@
+{
+  "Name": "FestivalTimeSetter",
+  "Author": "slO",
+  "Version": "1.2.0",
+  "Description": "Sets the time of festivals to a specific hour.",
+  "UniqueID": "slO.FestivalTimeSetter",
+  "EntryDll": "FestivalTimeSetter.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:30943"],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu"
+    }
+  ],
+  "EnableHarmony": true
+}

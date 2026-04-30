@@ -19,9 +19,9 @@
   "ShowGiftTastes": {
     "Loved": true,
     "Liked": true,
-    "Neutral": false,
-    "Disliked": false,
-    "Hated": false
+    "Neutral": true,
+    "Disliked": true,
+    "Hated": true
   },
   "CollapseLargeFields": {
     "Enabled": true,

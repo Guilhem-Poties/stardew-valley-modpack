@@ -1,0 +1,23 @@
+{
+  "mod": null,
+  "presets": [
+    {
+      "ID": "Preset1",
+      "gifts": [
+        {
+          "item": "72",
+          "quality": 0,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "requireHeart": 0,
+          "stackMin": 2,
+          "stackMax": 2
+        }
+      ]
+    }
+  ]
+}

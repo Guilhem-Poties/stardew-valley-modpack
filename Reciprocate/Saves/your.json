@@ -1,0 +1,194 @@
+{
+  "cordialityList": [
+    {
+      "farmer": "Lily",
+      "npc": "Clint",
+      "point": 10.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Pierre",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Caroline",
+      "point": 38.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Robin",
+      "point": 40.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Maru",
+      "point": 19.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Demetrius",
+      "point": 28.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Emily",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Andy",
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Sophia",
+      "point": 13.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Claire",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Penny",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Shane",
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "MorrisTod",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Pam",
+      "point": 44.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Olivia",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Willy",
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Harvey",
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Lewis",
+      "point": 26.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Leah",
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Gus",
+      "point": 10.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Haley",
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Evelyn",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Sebastian",
+      "point": 50.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Abigail",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Alex",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "George",
+      "point": 29.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Victor",
+      "point": 8.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Sam",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Jodi",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Marnie",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Elliott",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Wizard",
+      "point": 45.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Susan",
+      "point": 20.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Martin",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "MarlonFay",
+      "point": 3.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Linus",
+      "point": 36.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Vincent",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Jas",
+      "point": 6.0
+    }
+  ]
+}

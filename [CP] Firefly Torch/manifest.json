@@ -1,0 +1,11 @@
+{
+  "Name": "Firefly Torch",
+  "Author": "orangeblossom",
+  "Version": "1.0.0",
+  "Description": "...cluster of fireflies...",
+  "UniqueID": "fireflytorch.orangeblossom",
+  "UpdateKeys": ["Nexus:20333"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+  },
+}

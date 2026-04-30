@@ -1,0 +1,172 @@
+{
+  "Format": "2.4.0",
+  "ConfigSchema": {
+    "Greenhouse Recolor": {
+      "AllowValues": "Vanilla, VPR, Earthy, Starblue, RCTI Dark, RCTI Light",
+      "Default": "Vanilla",
+      "Description": "Changes custom tilesheet color to match your recolor mod.",
+      "Section": "Visual Tweaks"
+    },
+    "Greenhouse Panorama": {
+      "AllowValues": "Forest, Beach",
+      "Default": "Forest",
+      "Description": "Toggles the panorama background type.",
+      "Section": "Visual Tweaks"
+    },
+    "Greenhouse Size": {
+      "AllowValues": "Standard, Bigger, Biggest",
+      "Default": "Standard",
+      "Description": "Changes the greenhouse floorplan.",
+      "Section": "Tweaks"
+    },
+    "Extra Crop Plot Size": {
+      "AllowValues": "Off, Standard, Big",
+      "Default": "Standard",
+      "Description": "Toggles the size of the extra crop plot in the bigger greenhouse sizes.",
+      "Section": "Tweaks"
+    },
+    "Water Source": {
+      "AllowValues": "Off, Fountain, Water Trough",
+      "Default": "Fountain",
+      "Description": "Toggles the water source type.",
+      "Section": "Bigger Greenhouse"
+    },
+    "Fountain Shape": {
+      "AllowValues": "Off, Separate, Combined",
+      "Default": "Separate",
+      "Description": "Toggles the fountain size.",
+      "Section": "Biggest Greenhouse"
+    },
+    "Water Trough": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Description": "Toggles the water trough.",
+      "Section": "Biggest Greenhouse"
+    }
+  },
+
+  "Changes": [
+    // load tilesheets
+    {
+      "Action": "Load",
+      "Target": "Maps/CR_ghmain, Maps/CR_ghmain_rainy",
+      "FromFile": "assets/Tilesheets/{{Greenhouse Recolor}}/{{TargetWithoutPath}}.png"
+    },
+
+    // load map
+    {
+      "Action": "Load",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/CR_GreenhouseRustic_Standard.tmx",
+      "When": {
+        "Greenhouse Size": "Standard"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/CR_GreenhouseRustic_Nook.tmx",
+      "When": {
+        "Greenhouse Size": "Bigger"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/CR_GreenhouseRustic_Big.tmx",
+      "When": {
+        "Greenhouse Size": "Biggest"
+      }
+    },
+
+    // rain/night edit
+    {
+      "Action": "EditImage",
+      "Target": "Maps/CR_ghmain",
+      "FromFile": "assets/Tilesheets/{{Greenhouse Recolor}}/CR_ghmain_rainy.png",
+      "When": {
+        "Time": "{{Range: 1900,2600}}"
+      },
+      "Update": "OnTimeChange"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/CR_ghmain",
+      "FromFile": "assets/Tilesheets/{{Greenhouse Recolor}}/CR_ghmain_rainy.png",
+      "When": {
+        "Weather": "Rain, GreenRain, Storm"
+      },
+      "Update": "OnTimeChange"
+    },
+
+    // patches
+    {
+      "Action": "Include",
+      "FromFile": "assets/Patches.json"
+    },
+
+    // standard panorama
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/Panorama/CR_GreenhouseRustic_{{Greenhouse Panorama}}_{{season}}.tmx",
+      "FromArea": { "X": 0, "Y": 0, "Width": 23, "Height": 9 },
+      "ToArea": { "X": 0, "Y": 0, "Width": 23, "Height": 9 },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "Greenhouse Size": "Standard"
+      },
+      "Update": "OnTimeChange"
+    },
+
+    // big panorama
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/Panorama/CR_GreenhouseRustic_{{Greenhouse Panorama}}_{{season}}.tmx",
+      "FromArea": { "X": 0, "Y": 0, "Width": 23, "Height": 9 },
+      "ToArea": { "X": 0, "Y": 0, "Width": 23, "Height": 9 },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "Greenhouse Size": "Biggest"
+      },
+      "Update": "OnTimeChange"
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/Panorama/CR_GreenhouseRustic_{{Greenhouse Panorama}}_{{season}}.tmx",
+      "FromArea": { "X": 25, "Y": 4, "Width": 16, "Height": 6 },
+      "ToArea": { "X": 25, "Y": 4, "Width": 16, "Height": 6 },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "Greenhouse Size": "Biggest"
+      },
+      "Update": "OnTimeChange"
+    },
+
+    // nook panorama
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/Panorama/CR_GreenhouseRustic_{{Greenhouse Panorama}}_{{season}}.tmx",
+      "FromArea": { "X": 0, "Y": 0, "Width": 23, "Height": 9 },
+      "ToArea": { "X": 0, "Y": 0, "Width": 23, "Height": 9 },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "Greenhouse Size": "Bigger"
+      }
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Greenhouse",
+      "FromFile": "assets/Panorama/CR_GreenhouseRustic_{{Greenhouse Panorama}}_{{season}}.tmx",
+      "FromArea": { "X": 25, "Y": 4, "Width": 15, "Height": 6 },
+      "ToArea": { "X": 25, "Y": 4, "Width": 15, "Height": 6 },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "Greenhouse Size": "Bigger"
+      }
+    }
+  ]
+}

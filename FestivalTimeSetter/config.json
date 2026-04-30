@@ -1,0 +1,53 @@
+{
+  "OpenDoorsInFestivalDay": true,
+  "FestivalTimeOverrides": {
+    "spring13": {
+      "OverrideStartTime": false,
+      "StartTime": 900,
+      "OverrideEndTime": false,
+      "EndTime": 1400
+    },
+    "spring24": {
+      "OverrideStartTime": false,
+      "StartTime": 900,
+      "OverrideEndTime": false,
+      "EndTime": 1400
+    },
+    "summer11": {
+      "OverrideStartTime": false,
+      "StartTime": 900,
+      "OverrideEndTime": false,
+      "EndTime": 1400
+    },
+    "summer28": {
+      "OverrideStartTime": false,
+      "StartTime": 2200,
+      "OverrideEndTime": false,
+      "EndTime": 2400
+    },
+    "fall16": {
+      "OverrideStartTime": false,
+      "StartTime": 900,
+      "OverrideEndTime": false,
+      "EndTime": 1500
+    },
+    "fall27": {
+      "OverrideStartTime": false,
+      "StartTime": 2200,
+      "OverrideEndTime": false,
+      "EndTime": 2350
+    },
+    "winter8": {
+      "OverrideStartTime": false,
+      "StartTime": 900,
+      "OverrideEndTime": false,
+      "EndTime": 1400
+    },
+    "winter25": {
+      "OverrideStartTime": false,
+      "StartTime": 900,
+      "OverrideEndTime": false,
+      "EndTime": 1400
+    }
+  }
+}

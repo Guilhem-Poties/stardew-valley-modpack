@@ -1,0 +1,13 @@
+{
+  "Name": "(CR) Kisaa's Cozy Rustic Greenhouse",
+  "Author": "crystalinerose",
+  "Version": "1.0.2",
+  "Description": "A rustic greenhouse with panoramic view. Configurable.",
+  "UniqueID": "crystalinerose.RusticGreenhouse",
+  "UpdateKeys": [],
+  "MinimumApiVersion": "4.0.0",
+
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

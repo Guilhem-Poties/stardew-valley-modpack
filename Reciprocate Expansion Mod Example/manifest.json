@@ -1,0 +1,13 @@
+{
+    "Name": "ReciprocateExpansionExample",
+    "Author": "YunHikari",
+    "Version": "1.0.1",
+    "Description": "This is an example of expanding Reciprocate with gifts and dialogues.",
+    "UniqueID": "YunHikari.ReciprocateExpansionExample",
+    "Dependencies": [
+        {
+            "UniqueID": "YunHikari.Reciprocate",
+            "IsRequired": true
+        }
+    ]
+}
