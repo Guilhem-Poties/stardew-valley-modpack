@@ -35,6 +35,10 @@
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },
+  "Kent": {
+    "hasGivenBirthdayWish": false,
+    "hasGivenBirthdayGift": false
+  },
   "Clint": {
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
@@ -75,11 +79,11 @@
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },
-  "Demetrius": {
+  "Maru": {
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },
-  "Maru": {
+  "Demetrius": {
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },
@@ -175,11 +179,11 @@
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },
-  "Victor": {
+  "Olivia": {
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },
-  "Olivia": {
+  "Victor": {
     "hasGivenBirthdayWish": false,
     "hasGivenBirthdayGift": false
   },

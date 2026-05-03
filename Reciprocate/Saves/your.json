@@ -3,7 +3,7 @@
     {
       "farmer": "Lily",
       "npc": "Clint",
-      "point": 10.0
+      "point": 45.0
     },
     {
       "farmer": "Lily",
@@ -13,22 +13,22 @@
     {
       "farmer": "Lily",
       "npc": "Caroline",
-      "point": 38.0
+      "point": 0.0
     },
     {
       "farmer": "Lily",
       "npc": "Robin",
-      "point": 40.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
       "npc": "Maru",
-      "point": 19.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
       "npc": "Demetrius",
-      "point": 28.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
@@ -38,12 +38,12 @@
     {
       "farmer": "Lily",
       "npc": "Andy",
-      "point": 18.0
+      "point": 6.0
     },
     {
       "farmer": "Lily",
       "npc": "Sophia",
-      "point": 13.0
+      "point": 25.0
     },
     {
       "farmer": "Lily",
@@ -58,52 +58,52 @@
     {
       "farmer": "Lily",
       "npc": "Shane",
-      "point": 18.0
+      "point": 24.0
     },
     {
       "farmer": "Lily",
       "npc": "MorrisTod",
-      "point": 0.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
       "npc": "Pam",
-      "point": 44.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
       "npc": "Olivia",
-      "point": 0.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
       "npc": "Willy",
-      "point": 18.0
+      "point": 0.0
     },
     {
       "farmer": "Lily",
       "npc": "Harvey",
-      "point": 18.0
+      "point": 6.0
     },
     {
       "farmer": "Lily",
       "npc": "Lewis",
-      "point": 26.0
+      "point": 38.0
     },
     {
       "farmer": "Lily",
       "npc": "Leah",
-      "point": 18.0
+      "point": 58.0
     },
     {
       "farmer": "Lily",
       "npc": "Gus",
-      "point": 10.0
+      "point": 6.0
     },
     {
       "farmer": "Lily",
       "npc": "Haley",
-      "point": 18.0
+      "point": 13.0
     },
     {
       "farmer": "Lily",
@@ -113,7 +113,7 @@
     {
       "farmer": "Lily",
       "npc": "Sebastian",
-      "point": 50.0
+      "point": 0.0
     },
     {
       "farmer": "Lily",
@@ -128,12 +128,12 @@
     {
       "farmer": "Lily",
       "npc": "George",
-      "point": 29.0
+      "point": 0.0
     },
     {
       "farmer": "Lily",
       "npc": "Victor",
-      "point": 8.0
+      "point": 0.0
     },
     {
       "farmer": "Lily",
@@ -143,7 +143,7 @@
     {
       "farmer": "Lily",
       "npc": "Jodi",
-      "point": 0.0
+      "point": 24.0
     },
     {
       "farmer": "Lily",
@@ -158,12 +158,12 @@
     {
       "farmer": "Lily",
       "npc": "Wizard",
-      "point": 45.0
+      "point": 54.0
     },
     {
       "farmer": "Lily",
       "npc": "Susan",
-      "point": 20.0
+      "point": 18.0
     },
     {
       "farmer": "Lily",
@@ -173,22 +173,32 @@
     {
       "farmer": "Lily",
       "npc": "MarlonFay",
-      "point": 3.0
-    },
-    {
-      "farmer": "Lily",
-      "npc": "Linus",
-      "point": 36.0
-    },
-    {
-      "farmer": "Lily",
-      "npc": "Vincent",
       "point": 0.0
     },
     {
       "farmer": "Lily",
+      "npc": "Linus",
+      "point": 0.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Vincent",
+      "point": 63.0
+    },
+    {
+      "farmer": "Lily",
       "npc": "Jas",
-      "point": 6.0
+      "point": 18.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Sandy",
+      "point": 42.0
+    },
+    {
+      "farmer": "Lily",
+      "npc": "Kent",
+      "point": 44.0
     }
   ]
 }
