@@ -1,0 +1,51 @@
+{
+   "Name": "CP_RRomanceGSSupport",
+   "Author": "Soapierbean",
+   "Version": "1.5.1",
+   "Description": "Enables support for gender swap mods. Turned off by default.",
+   "UniqueID": "Fonz.RamGSSupport",
+   "MinimumApiVersion": "3.8",
+   "UpdateKeys": [ "Nexus:3239" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "2.0.1" // optional
+   },
+   "Dependencies": [
+   	{
+   		"UniqueID": "Fonz.Ram",
+   		"MinimumVersion": "1.5.0",
+   		},	
+   	{
+   		"UniqueID": "Hana.GenderNeutralityMod",
+   		"MinimumVersion": "2.0.0",
+   		"IsRequired": false,
+   		},	
+   		
+   	{
+   		"UniqueID": "misscoriel.UCRFix",
+   		"MinimumVersion": "1.1.10",
+   		"IsRequired": false,
+   		},	
+   	{
+   		"UniqueID": "FlashShifter.StardewValleyExpandedCP",
+   		"MinimumVersion": "1.13.11",
+   		"IsRequired": false,
+   		},	
+   /*	{
+   		"UniqueID": "kdau.PregnancyRole",
+   		"MinimumVersion": "2.0.0",
+   		"IsRequired": false,
+   		},	*/
+		{
+		"UniqueID": "violetlizabet.CP.FireworksFestival",
+		"MinimumVersion": "2.0.1",
+		"IsRequired": false,
+	},
+	{
+		"UniqueID": "Rafseazz.RSVCP",
+		"MinimumVersion": "2.5.11",
+		"IsRequired": false,
+	},
+   	],
+   		   
+}
