@@ -5,18 +5,18 @@
 *.rar
 
 # Medias
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.gif
-*.mp4
-*.avi
-*.mkv
-*.mp3
-*.wav
-*.flac
-*.ogg
-*.webm
-*.mov
-*.mpeg
+# *.jpg
+# *.jpeg
+# *.png
+# *.bmp
+# *.gif
+# *.mp4
+# *.avi
+# *.mkv
+# *.mp3
+# *.wav
+# *.flac
+# *.ogg
+# *.webm
+# *.mov
+# *.mpeg
