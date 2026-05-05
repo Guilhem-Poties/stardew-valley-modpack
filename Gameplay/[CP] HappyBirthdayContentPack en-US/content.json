@@ -147,7 +147,7 @@
     {
       "Action": "EditData",
       "Target": "Data/Mail",
-      "entries": {
+      "Entries": {
         "Omegasis.HappyBirthday_BelatedBirthdayWish_Abigail": "Happy belated birthday, @! ^ Hopefully this year we can go on even more adventures together. ^^ - Abigail {NPCGift:Abigail}[#]Happy Birthday from Abigail",
         "Omegasis.HappyBirthday_BelatedBirthdayWish_Alex": "Yo @, happy belated birthday! ^ Here's to making this the best year yet. ^^ - Alex {NPCGift:Alex}[#]Happy Birthday from Alex",
         "Omegasis.HappyBirthday_BelatedBirthdayWish_Caroline": "Happy belated birthday, @. ^ Thank you for all that you've done for our community. I'm sure your parents must be proud of you. ^^ - Caroline {NPCGift:Caroline}[#]Happy Birthday from Caroline",
